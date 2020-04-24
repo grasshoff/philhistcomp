@@ -16,7 +16,7 @@ Another essential feature of notebook environments is that they support markdown
 
 If we launch Jupyter Notebook from the Anaconda Navigator, the browser will open up to "localhost:8888/tree" where you can see the files of your computer. Only from here, we can open up the Jupyter-files. Jupyter Notebooks have a particular format, which is an extension ".ipynb." 
 
-![homejupy](C:\Users\User\Documents\GitHub\philhistcomp\posts\packages\assets\homejupy.JPG)
+![homejupy](assets\homejupy.JPG)
 
 - To open a notebook, click on "New" &rightarrow; "Python 3."
 
