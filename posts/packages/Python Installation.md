@@ -46,7 +46,7 @@ Wenn Sie über den Speicherplatz (5 GB) verfügen, empfehlen wird jedoch die vol
 - Also bestätigen Sie Ihre Installation, indem Sie auf "Anaconda Navigator" klicken.
 - Die Umgebung dieses Seminars ist "Jupyter Notebook":
 
-![jupyter](C:\Users\User\Documents\GitHub\philhistcomp\posts\packages\assets\jupyter.JPG)
+![jupyter](assets/jupyter.png)
 
 
 
