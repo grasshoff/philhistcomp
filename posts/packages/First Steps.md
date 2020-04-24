@@ -22,7 +22,7 @@ If we launch Jupyter Notebook from the Anaconda Navigator, the browser will open
 
 This is how a notebook looks:
 
-![](assets/newnb.JPG)
+![](assets/newnb.png)
 
 Save the Jupyter-files in the current directory (by default, this will happen). To check the current directory type in the cell:
 
