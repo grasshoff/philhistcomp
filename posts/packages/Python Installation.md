@@ -46,7 +46,7 @@ Wenn Sie über den Speicherplatz (5 GB) verfügen, empfehlen wird jedoch die vol
 - Also bestätigen Sie Ihre Installation, indem Sie auf "Anaconda Navigator" klicken.
 - Die Umgebung dieses Seminars ist "Jupyter Notebook":
 
-![jupyter](C:\Users\User\Documents\GitHub\philhistcomp\posts\packages\assets\jupyter.JPG)
+![jupyter](assets/jupyter.png)
 
 
 
@@ -60,11 +60,11 @@ Tipp: Wenn Sie durch die Verzeichnisse navigieren möchten, nutzen Sie "cd D" un
 
 ### Windows
 
-Schauen wir zuerst einige Windows-Befehlszeilenoperationen
+Schauen wir zuerst einige Windows-Kommandozeile-Operationen.
 
 Ihr müsst "Eingabeaufforderung" suchen, oder auf Englisch "Command Promt"
 
-- Dann könnt ihr Folgendes eingeben, es steht für "current directory":
+- Dann könnt ihr Folgendes eingeben, um zu sehen, wo wir uns gerade befinden; es steht für "current directory":
 
   ```
   cd
