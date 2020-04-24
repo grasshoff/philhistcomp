@@ -106,7 +106,7 @@ In MacOS und Linux müsst ihr "Terminal" suchen.
   pwd
   ```
 
-- Mit der nächste Eingabe, könnt ihr eine Liste mit den Dateien dieses Verzeichnisses sehen:
+- Mit der nächsten Eingabe, könnt ihr eine Liste mit den Dateien dieses Verzeichnisses sehen:
 
   ```
   ls
@@ -144,10 +144,9 @@ pip freeze
   - [ ] nltk
   - [ ] pandas
   - [ ] re
-  - [ ] 
   - [ ] scikitlearn
   - [ ] spacy
-
+  
 - Wenn Sie alle Pakete finden, dann sind Sie fertig mit dem Setup. 
 
 - Wenn Sie die Pakete nicht finden, öffnen Sie die Kommandozeile. Gegebenenfalls installieren Sie wie folgt:
