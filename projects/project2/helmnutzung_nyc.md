@@ -11,7 +11,7 @@ NYCDCP Manhattan Bike Counts; Zu finden auf: https://www1.nyc.gov/site/planning/
 ## Frage bezogen auf die Daten
 
 
-Wie hoch ist je Verkehrsweg der Anteil der Fahrradfahrer, die im Rahmen einer Verkehrszählung von 1999 bis 2020 in New York City einen Helm trugen? (Ziel ist eine visuelle Darstellung, die die Routen je nach Helmnutzung der Fahrradfahrer einfärbt)
+Wie hoch ist je Verkehrsweg der Anteil der Fahrradfahrer, die im Rahmen einer Verkehrszählung 2018 in New York City einen Helm trugen? (Ziel ist eine visuelle Darstellung, die die Routen je nach Helmnutzung der Fahrradfahrer einfärbt)
 
 ## Namen der Autoren
 
