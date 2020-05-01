@@ -16,6 +16,9 @@ Wie hoch ist je Verkehrsweg der Anteil der Fahrradfahrer, die im Rahmen einer Ve
 ## Namen der Autoren
 
 
-Noah Nasarek, Manuel Dedio, Daria Zarakhova
+Noah Nasarek, Manuel Dedio, Daria Zakharova
+
+
+
 
 
