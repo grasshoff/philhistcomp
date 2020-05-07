@@ -5,7 +5,7 @@ The trolley dilemma is a well-known thought experiment to whether peoples moral 
 more towards either deontological, or utilitarian ethics. You are to imagine a train which is about to collide
 with a number of people on the track, and yourself being able to pull a lever that would divert the train onto another track where a fewer number of people would die. Persons who would not pull the lever are said to lean more towards deontological ethics.
 
-![](C:\Users\danie\Documents\GitHub\philhistcomp\projects\trolley_cases\assets\Trolley_problem.png)
+![](assets\Trolley_problem.png)
 
 image by [McGeddon](https://commons.wikimedia.org/wiki/User_talk:McGeddon)
 
