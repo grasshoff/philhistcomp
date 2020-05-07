@@ -1,5 +1,5 @@
 # Background and general Idea
-This is the general Idea test
+This is the general Idea
 
 # Subject
 This is the Subject
