@@ -1,4 +1,6 @@
 # Background
+This is a selected research question of ongoing publications on corona research.
+
 
 Early in the debate about drugs against corona virus played a prominent role. It is scientifically established that it is not directly affecting the virus. This study aims to analyse the methodological issues of the dynamics of scientific understanding of the causal effects that the drug creates according to the global set of scientific publications on remdesivir
 
