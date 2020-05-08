@@ -1,18 +1,16 @@
 # New Traditions, New Ideas? An Investigation on the Terminological Continuity in the History of Philosophical Ideas (working title)
 
 # Background
-Descartes is commonly conceived as the founding father of modern philosophy, a new era in the history of philosophy which put an end to the scholastic tradition of medieval thinkers. This view, however, has recently been challenged by Dominik Perler who claims that in spite of Descartes attempt to overcome scholastic theories of mind such as Francisco Suárez's account, he nevertheless remains in the medieval paradigm. This is because, according to Perler, Descartes' seemingly new approach to the theory of mind does in fact draw on the work of William of Ockham, i.e. yet another medieval scholar.
+Descartes is commonly conceived as the founding father of modern philosophy, a new era in the history of philosophy which put an end to the scholastic tradition of medieval thinkers. This view, however, has recently been challenged by Dominik Perler who claims that in spite of Descartes' attempt to overcome scholastic theories of mind such as Francisco Suárez's account, he nevertheless remains in the medieval paradigm. This is because, according to Perler, Descartes' seemingly new approach to the theory of mind does in fact draw on the work of William of Ockham, i.e. yet another medieval scholar.
+
+As a consequence, this assumption gives rise to a much more continuous, and thus more differentiated, perspective on the history of philosophy by devaluating the role usually attributed to the 'great thinkers' such as Descartes. In other words, it opens up the possibility to rewrite the history of philosophy by considering Descartes only as one - nonetheless highly important - contributer to the progressive development from medieval to early modern philosophy.
 
 
-Boucheron
-
-
-
-... an investigation on the history of (philosophical) ideas by analysing terminology with computational means.
+![](assets/Laurentius_de_Voltolina_001.jpg)
 
 
 # Research Object
-The present investigation aims at reevaluating the role of Descartes' work in the transition from scholasticism to modern philosophy by applying computational means to the field of the history of ideas. To do so, texts from Descartes, Ockham and Suárez (and maybe some other pre-cartesian philosophers; as well as post-cartesian writers as 'control group'?) are going to be compared with respect to the amount of recurrent philosophical terminology, i.e. a set of terms which is yet to be defined. The analysis thus amount to an empirical verification of Perler's argument according to which Descartes' thinking is still heavily influenced by the scholastic tradition - a claim that casts doubt on the dominant view of the French philosopher as the founding father of modern philosophy.
+The present investigation aims at re-evaluating the role of Descartes' work in the transition from scholasticism to modern philosophy by applying computational means to the field of the history of ideas. To do so, texts from Descartes, Ockham and Suárez (and maybe some other pre-cartesian philosophers; as well as post-cartesian writers as 'control group'?) are going to be compared with respect to the amount of recurrent philosophical terminology, i.e. a set of terms which is yet to be defined. The analysis thus amount to an empirical verification of Perler's argument according to which Descartes' thinking is still heavily influenced by the scholastic tradition - a claim that casts doubt on the dominant view of the French philosopher as the founding father of modern philosophy.
 
 
 # Research Question
@@ -29,7 +27,7 @@ Admittedly, this research question is too broad to be trated by a single investi
 
 
 # Methodological Concerns
-New ideas do not always come along with the use of a new terminology: possibility of expressing new ideas with old terms and old ideas with new terms. Reducing 'ideas' to 'terms' might thus not be perfectly adequate method for operationalsing the current research question - or at least raise some limitations with respect to the interpretation of the results. 
+New ideas do not always come along with the use of a new terminology: possibility of expressing new ideas with old terms and old ideas with new terms. Reducing 'ideas' to 'terms' might thus not be perfectly adequate method for operationalsing the current research question - or at least raise some limitations with respect to the interpretation of the results.
 
 # Directions for Future Research
 The historical line drawn between medieval and (early) modern philosophy is only one example of the historians' tendency to divide the continuous development of philosophy into distinct periods, each of them having a concret beginning and ending. Hence, future research could apply the method developed in here to other distinctions in the history of philosophy such as Pre- and Post-Socratic philosophy or British Idealism (e.g. Bradley, McTaggart) and Analytic Philosophy (e.g. Russell, Wittgenstein).
@@ -37,10 +35,12 @@ The historical line drawn between medieval and (early) modern philosophy is only
 # Literature
 Dominik Perler, "What are Faculties of the Soul? Descartes and his Scholastic Background", in: John Marenbon, *Continuity and Innovation in Medieval and Modern Philosophy: Knowledge, Mind and Language*, Oxford, OUP, 2013.
 
+Dominik Perler, "Classifying the Passions:	Descartes	and	His	Scholastic	Background",	in: Belgioioso & Carraud (eds.), *Les	passions	de l’âme*, Turnhout: Brepols	(forthcoming, maybe I can get a copy of the draft, if not, then the first reference should still be enough).
+
 René Descartes, ...
 
 William of Ockham, ...
 
 Francisco Suárez, ...
 
-Michel Foucault, L'archéologie du savoir *or* Patrick Boucheron, L'histoire mondiale de la France
+*maybe also useful*: Michel Foucault, L'archéologie du savoir *and/or* Patrick Boucheron, L'histoire mondiale de la France (analogously to Boucheron's method of rejecting the importance commonly attributed to the 'big events' of (French) history in favour of a more differentiated and continuous 'story-telling', rejecting the importance of Descartes as 'the founding father' of modern philosophy in favour of a more continuous perspective on the history of philosophy. However, I have not yet looked into this in more detail so I might be totally wrong, i.e. the 'analogy' might turn out to be overly simplistic...)
