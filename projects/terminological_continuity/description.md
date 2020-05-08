@@ -14,7 +14,7 @@ The present investigation aims at re-evaluating the role of Descartes' work in t
 
 
 # Research Question
-The principal question which led to the present investigation can be summarised as follows: are different philosophical traditions (or eras) distinguishable by the terminology used by the main protagonists of that tradition? Or, in other words, are the ideas and concepts - expressed by means of a certain language, i.e. terms - of a philosophical traditon the very glue that holds together, or maybe even constitutes, this very tradition as a unit? And if so, does a large-scale anaylsis of the terminology used at different moments in the history of philosophy lead to the discovery of new connections which force us into giving up long established distinctions?
+The principal question which led to the present investigation can be summarised as follows: are different philosophical traditions (or eras) distinguishable by the terminology used by the (main) protagonists of that tradition? Or, in other words, are the ideas and concepts - expressed by means of a certain language, i.e. terms - of a philosophical traditon the very glue that holds together, or maybe even constitutes, this very tradition as a unit? And if so, does a large-scale anaylsis of the terminology used at different points in the history of philosophy lead to the discovery of new connections which force us into giving up long established distinctions?
 
 Admittedly, this research question is too broad (and too ambitious) to be trated by a single investigation, which is why - as already indicated - its scope is going to be reduced to comparing the terminological continuity between some important scholastic thinkers and the work of René Descartes.
 
@@ -22,15 +22,15 @@ Admittedly, this research question is too broad (and too ambitious) to be trated
 
 # Empirical Sources
 
-[Plain-text version of the Gutenberg Project](https://github.com/aparrish/gutenberg-dammit) provided by Allison Parrish (I still have to figure out how to use Phython to work with the zip file). Even if the file does not contain the texts I am looking for, it should not be too difficult to find them as the copyright of medieval and early modern texts has obvisously expired.
+[Plain-text version of the Gutenberg Project](https://github.com/aparrish/gutenberg-dammit) provided by Allison Parrish (I still have to figure out how to use Python to work with the zip file). Even if the file does not contain the texts I am looking for, it should not be too difficult to find them as the copyright of medieval and early modern texts has obvisously expired.
 
 
 
 # Methodological Concerns
-New ideas do not always come along with the use of a new terminology: possibility of expressing new ideas with old terms and old ideas with new terms. Reducing 'ideas' to 'terms' might thus not be a perfectly adequate method to 'operationalise' the current research question - or at least raise some limitations with respect to the interpretation of the results.
+New ideas do not always come along with the use of a new terminology: possibility of expressing new ideas with old terms and old ideas with new terms. Reducing 'ideas' to 'terms' might thus not be a perfectly adequate method to 'operationalise' the current research question - or at least pose some limitations with respect to the interpretation of the results.
 
 # Directions for Future Research
-The historical line drawn between medieval and (early) modern philosophy is only one example of the historians' tendency to divide the continuous development of philosophy into distinct periods, each of them having a definite beginning and ending. Hence, future research could apply the method developed in here to other distinctions in the history of philosophy such as Pre- and Post-Socratic philosophy or British Idealism (e.g. Bradley, McTaggart) and Analytic Philosophy (e.g. Russell, Wittgenstein).
+The historical line drawn between medieval and (early) modern philosophy is only one example of the historians' tendency to divide the continuous development of philosophical thinking into distinct periods, each of them having a definite beginning and ending. Hence, future research could apply the method developed in here to other distinctions in the history of philosophy.
 
 # Literature
 Dominik Perler, "What are Faculties of the Soul? Descartes and his Scholastic Background", in: John Marenbon, *Continuity and Innovation in Medieval and Modern Philosophy: Knowledge, Mind and Language*, Oxford, OUP, 2013.
