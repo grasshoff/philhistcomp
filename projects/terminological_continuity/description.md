@@ -16,7 +16,7 @@ The present investigation aims at re-evaluating the role of Descartes' work in t
 # Research Question
 The principal question which led to the present investigation can be summarised as follows: are different philosophical traditions (or eras) distinguishable by the terminology used by the main protagonists of that tradition? Or, in other words, are the ideas and concepts - expressed by means of a certain language, i.e. terms - of a philosophical traditon the very glue that holds together, or maybe even constitutes, this very tradition as a unit? And if so, does a large-scale anaylsis of the terminology used at different moments in the history of philosophy lead to the discovery of new connections which force us into giving up long established distinctions?
 
-Admittedly, this research question is too broad to be trated by a single investigation, which is why - as already indicated - its scope is going to be reduced to comparing the terminological continuity between some important scholastic thinkers and the work of René Descartes.
+Admittedly, this research question is too broad (and too ambitious) to be trated by a single investigation, which is why - as already indicated - its scope is going to be reduced to comparing the terminological continuity between some important scholastic thinkers and the work of René Descartes.
 
 
 
