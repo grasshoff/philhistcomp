@@ -11,6 +11,8 @@ https://www1.nyc.gov/html/dot/downloads/pdf/citybench-locations.pdf
 
 Unterscheidet sich die durchschnittlich kürzeste Distanz von Sitzbank zu Sitzbank in den fünf New Yorker Bezirken?
 
+Research Objects: Alle Sitzbänke in New York im Jahr 2019 
+
 
 ## Namen der Autoren
 
