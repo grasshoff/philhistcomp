@@ -17,4 +17,4 @@ Dataset: https://zenodo.org/record/3606810#.XrGNxKgzY2x
 
 Alternative 2: Extract data from https://archive.4plebs.org/ (all threads from 2013 till today) and process it with NLTK (Natural Language Toolkit)
 
-Research question = engagement with the discussion partner in virtual debate: how often does the word “you” appear in comparison with the words “we”, “they” and “I” in the thread /pol/ on the image board 4chan.org? 
+**Research question** = engagement with the discussion partner in virtual debate: how often does the word “you” appear in comparison with the words “we”, “they” and “I” in the thread /pol/ on the image board 4chan.org? 
