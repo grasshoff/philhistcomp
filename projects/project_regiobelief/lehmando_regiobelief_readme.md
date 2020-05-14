@@ -1,16 +1,16 @@
-# Projekttitel: Politische Überzeugungen nach Region in Deutschland
+# Project title: Regoonal political and cultural beliefs from 1980-2018 in Germany.
 
-## research object
-The political views of german citizens from 1980-2018. 
+**research object** = German respondents to the GESIS survey from 1980-2018. 
 
-## empirical data
-- GESIS-ALLBUS Allgemeine Bevölkerungsumfrage der Sozialwissenschaften 1980-2018, https://www.gesis.org/allbus/allbus, Ca. 68000 Beobachtungen mit ca. 1500 Variablen
-- Ökonomische Daten von GENESIS von DESTATIS, https://www.destatis.de/DE/Home/_inhalt.html
+**empirical data** = GESIS-ALLBUS Allgemeine Bevölkerungsumfrage der Sozialwissenschaften 1980-2018, https://www.gesis.org/allbus/allbus, Ca. 68000 observations with 1500 variables, taken all over Germany.
 
-## research question
-Qualitative Fragen nach Bundesland oder Wahlbezirk aufschlüsseln, z.B.
-- „Wert von Sicherheit und Ordnung?“, 
-- „Lage der Wirtschaft?“ nach Bundesland.
+Ergänzend: Ökonomische Daten von GENESIS von DESTATIS, https://www.destatis.de/DE/Home/_inhalt.html
 
-Ggf. mit ökonomischen Daten abgleichen.
+**research question** = How did political and cultural views change over time in certain regions? For example:
+
+- "How do you rate the value of law and order?“, 
+- "How is the economy doing?"
+- "Are you satisfied with Germany's democracy?"
+- "Can one live well in Germany?"
+- "I am proud to be german."
 
