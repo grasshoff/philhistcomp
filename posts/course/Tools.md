@@ -30,3 +30,5 @@ Die Inhalte des Kurses werden in einer kooperativen Plattform mit github realisi
 
   - XML
     - https://www.dh-lehre.gwi.uni-muenchen.de/?p=40693
+    - Pretty Print
+      - https://python-forum.io/Thread-How-to-display-XML-tree-structure-with-Python
