@@ -14,6 +14,6 @@ Research objects
 
 research objects = multiple studies on trolley cases
 
-empirical sources = [Massachusetts Institute of Technology](http://moralmachine.mit.edu/)
+empirical sources = [dataset containing moral preferences expressed by 70,000 participants](https://bit.ly/2Y7Brr9)
 
-research question = Do people in general tend to choose the utilitarian option more in trolley scenarios?
+research question = Do more German men than woman choose to activate the switch in the classical trolley experiment?
