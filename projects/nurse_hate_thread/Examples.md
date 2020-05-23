@@ -4,7 +4,7 @@
 
 **01.02.2020: Nurses as "european gene pool"** 
 
-![image-20200521124818233](image-20200521124818233.png)
+![image-20200521122846432](image-20200521122846432.png)
 
 ![image-20200521123809097](image-20200521123809097.png)
 
@@ -26,9 +26,9 @@
 
 **23.03.2020: Asian nurse attacked** 
 
-![2020-05-21 (2020-05-21 (21).png)](Photos/2020-05-21 (21).png)
+![2020-05-21 (2020-05-21 (21).png)](assets/photos/2020-05-21 (21).png)
 
-![2020-05-21 (2020-05-21 (22).png)](Photos/2020-05-21 (22).png)
+![2020-05-21 (2020-05-21 (22).png)](assets/photos/2020-05-21 (22).png)
 
 - Smiling 
 - Likes the attention
@@ -37,9 +37,9 @@
 
 **06.04.2020: Crying/laughing nurse**
 
-![2020-05-21 (2020-05-21 (6).png)](Photos/2020-05-21 (6).png)
+![2020-05-21 (2020-05-21 (6).png)](assets/photos/2020-05-21 (6).png)
 
-![image-20200521130647354](image-20200521130647354.png)
+![2020-05-21 (2020-05-21 (16)-1590237831979.png)](assets/photos/2020-05-21 (16).png)
 
 - Sociopaths; 
 - Retarded
@@ -52,7 +52,7 @@
 
 **15.04.2020: Nurses are h(er)oes** 
 
-![image-20200521145015827](image-20200521145015827.png)
+![2020-05-21 (2020-05-21 (24).png)](assets/photos/2020-05-21 (24).png)
 
 - Heroes; stunning; brave
 
@@ -66,7 +66,7 @@
 
 **29.04.2020: Selfish nurse**
 
-![2020-05-21 (2020-05-21 (30).png)](Photos/2020-05-21 (30).png)
+![image-20200521151436329](image-20200521151436329.png)
 
 - Values own health over lives; hopes you die
 - "virtue signaling skank"
@@ -74,11 +74,11 @@
 - Should be pregnant
 - Taking selfies (attention)
 
-**18.05.2020: The modern liberalism nurse** 
+**18.05.2020: The modern liberalism (Tiktok) nurse** 
 
-![image-20200521150201840](image-20200521150201840.png)
+![2020-05-21 (2020-05-21 (27).png)](assets/photos/2020-05-21 (27).png)
 
-![2020-05-21 (2020-05-21 (28).png)](Photos/2020-05-21 (28).png)
+![2020-05-21 (2020-05-21 (28).png)](assets/photos/2020-05-21 (28).png)
 
 - "a predicate of modern liberalism"; before they were classy and beautiful 
 - "human toilets"
