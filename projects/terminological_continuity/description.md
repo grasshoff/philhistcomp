@@ -38,12 +38,33 @@ New ideas do not always come along with the use of a new terminology: possibilit
 The historical line drawn between medieval and (early) modern philosophy is only one example of the historians' tendency to divide the continuous development of philosophical thinking into distinct periods, each of them having a definite beginning and ending. Hence, future research could apply the method developed in here to other distinctions in the history of philosophy.
 
 # Literature
-Dominik Perler, "What are Faculties of the Soul? Descartes and his Scholastic Background", in: John Marenbon, *Continuity and Innovation in Medieval and Modern Philosophy: Knowledge, Mind and Language*, Oxford, OUP, 2013.
 
-Dominik Perler, "Classifying the Passions:	Descartes	and	His	Scholastic	Background",	in: Belgioioso & Carraud (eds.), *Les	passions	de l’âme*, Turnhout: Brepols	(forthcoming, maybe I can get a copy of the draft, if not, then the first reference should still be enough).
+1. Background
 
-René Descartes, Meditationes de prima philosophia
+  * Dominik Perler, "What are Faculties of the Soul? Descartes and his Scholastic Background", in: John Marenbon, *Continuity and Innovation in Medieval and Modern Philosophy: Knowledge, Mind and Language*, Oxford, OUP, 2013.
 
-William of Ockham, Quodlibeta Septem, Summa logicae
+  * Dominik Perler, "Classifying the Passions:	Descartes	and	His	Scholastic	Background",	in: Belgioioso & Carraud (eds.), *Les	passions	de l’âme*, Turnhout: Brepols	(forthcoming, maybe I can get a copy of the draft, if not, then the first reference should still be enough).
 
-Francisco Suárez, De anima
+2. René Descartes
+
+  * Meditationes de prima philosophia (esp. Med. IV & VI)
+  * The Passions of the Soul (esp. Part I & II)
+  * Principia Philosophiae (esp. Part I)
+  * The Search after Truth (esp. Eluc. X)
+
+
+3. William of Ockham
+
+  * Quodlibeta Septem (esp. Part I & II, i.e. OT 9)
+    - Engl. Transl.: Fredosso & Kelley, Quodlibeta Questions, Yales Uni. Press, *not* available as pdf/txt
+  * Ordination (esp. Part I, i.e. OT 1)
+  * Reportation (esp. Part II & IV, i.e. OT 5 & 7)
+
+
+4. Francisco Suárez
+
+  * De Anima (DA, esp. Parts I & II)
+    - Engl. transl.: Kranen & Reedy, Selections from De Anima (Disp. 1 & Disp. 2, Q. 3), Philosophia Verlag, *not* available as pdf/txt
+  * Commentaria una cum quaestionibus in libros Aristotleis (QDA, esp. Disp. 1, 2 & 3)
+  * Disputationes Metaphysicae (DM, esp. Part 12.2 & 18.5)
+  * De actibus qui vocantur passiones (esp. I.3)
