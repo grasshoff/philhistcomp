@@ -50,15 +50,15 @@ The historical line drawn between medieval and (early) modern philosophy is only
     * Meditationes de prima philosophia (esp. Med. IV & VI)
     * The Passions of the Soul (esp. Part I & II)
     * Principia Philosophiae (esp. Part I)
-    * The Search after Truth (esp. Eluc. X)
+    * La Recherche de la Vérité (esp. Eluc. X)
 
 
 3. **William of Ockham**
 
     * Quodlibeta Septem (esp. Part I & II, i.e. OT 9)
       - Engl. Transl.: Fredosso & Kelley, Quodlibeta Questions, Yales Uni. Press, *not* available as pdf/txt
-    * Ordination (esp. Part I, i.e. OT 1)
-    * Reportation (esp. Part II & IV, i.e. OT 5 & 7)
+    * Ordinatio (esp. Part I, i.e. OT 1)
+    * Reportatio (esp. Part II & IV, i.e. OT 5 & 7)
 
 
 4. **Francisco Suárez**
