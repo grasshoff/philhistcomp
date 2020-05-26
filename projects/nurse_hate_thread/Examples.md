@@ -26,9 +26,9 @@
 
 **23.03.2020: Asian nurse attacked** 
 
-![2020-05-21 (2020-05-21 (21).png)](assets/photos/2020-05-21 (21).png)
+![2020-05-21 (21)](2020-05-21 (21).png)
 
-![2020-05-21 (2020-05-21 (22).png)](assets/photos/2020-05-21 (22).png)
+![2020-05-21 (22)](2020-05-21 (22).png)
 
 - Smiling 
 - Likes the attention
@@ -37,9 +37,9 @@
 
 **06.04.2020: Crying/laughing nurse**
 
-![2020-05-21 (2020-05-21 (6).png)](assets/photos/2020-05-21 (6).png)
+![image-20200521130611200](image-20200521130611200.png)
 
-![2020-05-21 (2020-05-21 (16)-1590237831979.png)](assets/photos/2020-05-21 (16).png)
+![2020-05-21 (16)](2020-05-21 (16)-1590417811794.png)
 
 - Sociopaths; 
 - Retarded
@@ -52,7 +52,7 @@
 
 **15.04.2020: Nurses are h(er)oes** 
 
-![2020-05-21 (2020-05-21 (24).png)](assets/photos/2020-05-21 (24).png)
+![2020-05-21 (24)](2020-05-21 (24).png)
 
 - Heroes; stunning; brave
 
@@ -76,9 +76,9 @@
 
 **18.05.2020: The modern liberalism (Tiktok) nurse** 
 
-![2020-05-21 (2020-05-21 (27).png)](assets/photos/2020-05-21 (27).png)
+![2020-05-21 (27)](2020-05-21 (27).png)
 
-![2020-05-21 (2020-05-21 (28).png)](assets/photos/2020-05-21 (28).png)
+![2020-05-21 (28)](2020-05-21 (28).png)
 
 - "a predicate of modern liberalism"; before they were classy and beautiful 
 - "human toilets"
