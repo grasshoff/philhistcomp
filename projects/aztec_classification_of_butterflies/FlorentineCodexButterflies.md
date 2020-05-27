@@ -53,11 +53,9 @@ What are the typical statements about butterflies in the Florentine Codex?
 
 ## References
 
-Sahagún, Bernardino de. _General History of the Things of New Spain by Fray Bernardino de Sahagún: The Florentine Codex. Book XI: Natural Things_. World Digital Library, June 2014, p. 200ff.
+Sahagún, Bernardino de. „General History of the Things of New Spain by Fray Bernardino de Sahagún: The Florentine Codex. Book II: The Ceremonies“. World Digital Library, June 2014, p. 200ff.
 
-Sahagún, Bernardino de. _Florentine Codex: General History of the Things of New Spain: Book 11 - Earthly
-Things_. Translated by Charles E. Dibble and Arthur J. O. Anderson. Salt Lake City: The School of
-American Research; the University of Utah, 2012, p. 94f.
+Sahagún, Bernardino de. _Florentine Codex: General History of the Things of New Spain: Book 11 - Earthly Things_. Translated by Charles E. Dibble and Arthur J. O. Anderson. Salt Lake City: The School of American Research; the University of Utah, 2012, p. 94f.
 
 
 
