@@ -1,0 +1,447 @@
+                      Francisco Suárez, S. J.                                                                     Last revision: September 15, 2014
+                      DMXII.21
+                      © Sydney Penner 2012
+                                     2
+                      <384, col. a>
+                          SECTIO II.                                                   SECTION II.
+                          Utrumsitaliquacommunisratiocausae,etquaenam                  Whether there is some common ratio of cause, and what it is
+                          et qualis.                                                  andofwhatkinditis.
+                          1. Ex Aristotele nullam causae in communi deﬁni-            1. We do not have any deﬁnition of cause in general from
+                      5   tionem habemus: posteriores vero Philosophi in ea       5R  Aristotle. Philosophers after him, however, have laboured
+                          assignanda laborarunt, ut a communi ad proprias              to assign one to it, so that one can better advance from the
+                          rationes singularum causarum explicandas melius              general to the rationes proper to the individual kinds of causes
+                          procedatur, simulque declaretur qualis sit conveni-          and at the same time better to show what the agreement
+                          entia causarum inter se. Supponendum autem est               between the causes is. The discussion, moreover, should be
+                     10   sermonemessedecausainactuformaliterutcausa 10R               assumed to be about cause formally in act qua cause. For
+                          est: sicut enim supra de principio dicebamus, ita           just as we were speaking above about principles, so also in
+                          etiam in causa tria considerari possunt, scilicet res        the case of causes three things can be considered: namely,
+                          quae causat; causatio ipsa (ut sic dicam) et relatio         the thing that causes, causation itself (if I may speak in this
+                          quae vel consequitur, vel cogitatur. De hoc tertio          way), and the relation that either follows or is thought. There
+                     15   membronihil in tota materia tractandum est: habet 15R        is nothing to be discussed about the third member in the
+                          enim inferius suum proprium locum in materia de              course of this section on causes. For it has its proper place
+                          relatione. De aliis vero duobus dicturi sumus: primo         below in the discussion of relations. But we are going to talk
+                          autem de causatione ipsa, per quam formaliter con-           about the other two things. [We will talk], ﬁrst, about the
+                          stituitur causa in actu, et ex qua nobis innotescit          causation itself through which a cause is formally constituted
+                     20   causa ipsa, seu virtus causandi.                       20R   in act and through which the cause or power of causing is
+                                                                                       madeknowntous.
+         Prima causae         2. Prima igitur deﬁnitio haec tradi solet, Causa            2. First, then, the following deﬁnition is usually presented:     The ﬁrst
+          descriptio      est id per quod satisﬁt interrogationi, qua inquiritur       Acauseisthatthroughwhichonesatisﬁesaninquiryinwhich                description of
+          reprobatur.     propter quid aliquid sit, seu ﬁat. Quae sumi potest          oneasksonaccountofwhatsomethingisorcomestobe. This                   cause is
+                                                                                                                                                            rejected.
+                          ex Aristotele 2. Physicorum cap. 7. ubi sufﬁcientiam 25R     can be taken from Aristotle, Physics II, cap. 7, where the
+                         1Latin text by and large follows the 1597 edition, with most abbreviations expanded and spellings modernized. Punctuation kept as is. I checked the
+                      text against the Vivès edition for signiﬁcant variations. For recorded variants, A = 1597 edition and V = Vivès edition. Note that the Vivès edition does
+                      not have marginal notes: many, though not all, of the marginal notes from the 1597 edition are included in the Vivès edition as italicised text at the
+                      head of paragraphs.
+                         2Numbers in angle brackets indicate page numbers in the Vivés edition for ease of reference, given that it is the most widely used edition.
+                       Suárez, DM XII.2                                                                                                                 2
+                      25  causarum probat ex eo quod per illas satisﬁt om-              sufﬁciency of the causes is shown from the fact that through
+                          nibus modis quibus quaeri solet propter quid res              them one satisﬁes all the ways in which it is customary to
+                          sit: signiﬁcat ergo causam esse id per quod satisﬁt           ask on account of what a thing is. This indicates, then, that
+                          quaestioni propter quid. Unde constat dictionem               a cause is that through which one satisﬁes the question ‘on
+                          propter quid non sumi illo speciali modo quo solet 30R        account of what?’ Hence, it is obvious that the phrase ‘on
+                      30  dici de causa ﬁnali, sed generalius, ut comprehen-            account of what’ is not taken in that special way in which it
+                                                                                                                           3
+                          dat omnes causas. Haec vero deﬁnitio nihil fere rem           is usually said of the ﬁnal cause, but more generally so that
+                          declarat; nam aeque obscurum est quid signiﬁcet               it covers all the causes. But this deﬁnition explains almost
+                          illud verbum propter quid: nam si recte sumatur,              nothing of the matter. For what that phrase ‘on account of
+                          solumsigniﬁcat habitudinem causae ﬁnalis, et illam 35R        what’ signiﬁes is equally obscure. For if it is rightly taken, it
+                      35  ipsam non satis declarat, ut postea videbimus. Si             only signiﬁes the habitude of a ﬁnal cause, and it does not
+                          vero sumatur fusius, comprehendit varios modos                sufﬁciently explain that, as we will see later. But if is taken
+                          qua illis vocibus signiﬁcantur, ex quo, per quid, a           more broadly, it covers the different ways that are signiﬁed
+                          quo aliquid est: unde solum imponitur nomen com-              by the terms ‘from which’, ‘through which’, and ‘by which
+                          mune, non tamen explicatur communis ratio. Addo 40R           something is’. Hence, it only imposes a common name, yet
+                      40  illam vocem in ea generalitate etiam posse com-               no common ratio is explained. I add that that phrase taken
+                          prehendere principia quae non sunt causae, sicut              so generally can also cover principles that are not causes, as
+                          Christus dixit Ioannis 6. Ego vivo propter Patrem:            Christ said in John 6: ‘I live on account of the Father’. In this
+                          ubi non habitudo causae, sed principii tantum sig-            passage, it is not the habitude of a cause that is signiﬁed but
+                          niﬁcatur.                                               45R   only that of a principle.
+           Secunda    45      3. Secunda deﬁnitio, et valde communis est,                   3. The second, and much more common, deﬁnition is                The second
+            causae        Causa est id ad quod aliud sequitur.         Quae re-         that a cause is that on which something else follows. This is        deﬁnition of
+           deﬁnitio       ferri solet ex libro De causis, ubi non reperitur; et         usually referred to the book On causes, where it is not found.         cause is
+           refutatur.                                                                                                                                          refuted.
+                          potius videtur sumpta ex deﬁnitione principii supra           It seems that it is rather taken from the deﬁnition of principle
+                          declarata ex Aristotele 5. Metaphsicae. Nam quod 50R          from Aristotle, Metaphysics V, explained above.4 For where
+                      50  Aristoteles posuit primum loco generis, in illa deﬁni-        Aristotle put ‘ﬁrst thing’ in the genus position, in this deﬁni-
+                          tione causae ponitur per terminum magis transcen-             tion of cause it is picked out through a more transcendental
+                          dentalem, scilicet id: reliquae vero particulae, scil-        term, namely, ‘that’. But the remaining phrase—namely, ‘on
+                          icet ad quod aliud, maniﬁeste aequivalent illis verbis        which something else’—is obviously equivalent to Aristotle’s
+                          Aristotelis unde aliquid. Denique quod Aristoteles 55R        words ‘from which something’. Finally, what Aristotle said
+                      55  sub disiunctione dixit, est aut ﬁt, aut cognoscitur,          with the disjunction ‘is or comes to be or is cognized’ is rather
+                          satis confuse comprehenditur sub unico verbo se-              vaguely covered through the single word ‘follows’. For with
+                          quitur: in hoc enim verbo non potest signiﬁcari sola          this word cannot be signiﬁed only consequence through log-
+                          consecutio per illationem, alioqui conveniret deﬁni-          ical inference. Otherwise, the deﬁnition would also apply to
+                         3In discussions of ﬁnal causality, I would usually translate the Latin phrase with ‘for the sake of which’.
+                         4See DM 12.1.27–28.
+                       31 causas] om. V.
+                      Suárez, DM XII.2                                                                                                              3
+                          tio etiam effectibus, ex quibus inferuntur causae: 60R      effects, from which causes are inferred. It must, therefore,
+                     60   oportet ergo, ut generatim quamcumque connex-               generally signify any connection or consequence whatever.
+                          ionem vel consecutionem signiﬁcet. Atque ex hac             Andfromthisexposition is taken the most powerful argument
+                          ipsa expositione sumitur potissimum argumentum              against the deﬁnition: for that deﬁnition is no more a deﬁ-
+                          contra ipsam deﬁnitionem: quia illa deﬁnitio non            nition of cause than of principle. Hence, it also applies to
+                          tam est causae, quam principii: unde etiam con- 65R         privations. For change follows from a privation, unless per-
+                     65   venit privationi: nam ex illa sequitur mutatio, nisi        haps it is said that the word ‘follows’ should be understood in
+                          forte dicatur, verbum sequitur intelligendum esse           terms of inﬂux and dependency. In that sense the deﬁnition
+                          per inﬂuxum et dependentiam: quo sensu constabit            will indeed stand, but it will be most obscure.
+                          quidem deﬁnitio, erit tamen valde obscura.
+                          Quaestionis resolutio.                                      Resolution of the question.
+           Causae         4.  Tertia deﬁnitio est, quam potissime afferunt            4. The third deﬁnition, which some moderns especially assert,      The genuine
+           germana        aliqui moderni, Causa est id a quo aliquid per se           is that a cause is that on which something else per se depends.    and adequate
+        adaequataque      pendet. Quae quidem, quod ad rem spectat, mihi              This deﬁnition, as far as concerns the content, indeed seems       description of
+          descriptio.                                                                                                                                       cause.
+                      5   probatur: libentius tamen eam sic describerem: 5R           proven to me. Nevertheless, I would prefer to describe it
+                          Causa est Principium per se inﬂuens esse in aliud.          as follows: a cause is a principle per se inﬂowing being to
+                          Namlocogeneris existimo convenientius poni illud            something else.5 For I think that it is more agreeable to place
+                          nomen commune, quod propinquius, et immedi-                 in the genus position that common name that more nearly
+                          atius convenit deﬁnito: hoc autem modo compara-             and immediately applies to the deﬁned thing. In this way,
+                     10   tur principium ad causam: nam ens, et illud rel- 10R        moreover, principle and cause are compared to each other.
+                          ativum id, quod absolute positum illi aequivalet,           For being, and that relative ‘that’ which taken absolutely is
+                          remotissimum est. Per illam autem particulam, per           equivalent to being, is very remote. Moreover, with that phrase
+                          se inﬂuens, excluditur privatio, et omnis causa per         ‘per se inﬂowing’ privations and all per accidens causes that
+                          accidens; quae per se non conferunt, aut inﬂuunt            are not related per se or do not inﬂow being into something
+                     15   esse in aliud. Sumendum est autem verbum il- 15R            else are excluded. That verb ‘inﬂowing’, however, should
+                          lud inﬂuit, non stricte, ut attribui specialiter solet      not be taken strictly in the way that it is usually attributed
+                          causae efﬁcienti, sed generalius, prout aequivalet          in a special way to efﬁcient causes, but more generally so
+                          verbo dandi, vel communicandi esse alteri. Obiici-          that it is the equivalent of ‘giving or communicating being to
+                          unt autem quidam contra hanc partem quod causa              something else’. But some object to this part that a formal
+                     20   materialis non dat esse, sed formalis; inter extrinse- 20R  cause, but not a material cause, gives being, and, with respect
+                          cas vero ﬁnalis non dat esse, sed efﬁciens. Sed, licet      to extrinsic causes, an efﬁcient cause, but not a ﬁnal cause,
+                          speciali modo attribuatur illis duabus causas dare          gives being. But, even though giving being is attributed to
+                          esse, formae ut complenti proprium et speciﬁcum             those two causes in a special way (form as completing proper
+                        5Compare with the stricter account of principle in DM 12.2.25.
+                      2 4] 3 A.
+                       Suárez, DM XII.2                                                                                                                 4
+                          esse, efﬁcienti vero ut realiter inﬂuenti, tamen abso-        and speciﬁc being and efﬁcient cause as really inﬂowing),
+                      25  lute, et sub communi ratione, etiam materia in suo 25R        nevertheless, absolutely and under a common ratio, even
+                          genere dat esse, quia ab illa dependet esse effectus;         matter gives being in its genus, since the being of the effect
+                          et ipsa dat suam entitatem, qua constituatur esse             depends on it and it gives its own entity from which the being
+                          effectus: causa etiam ﬁnalis eo modo quo movet,               of the effect is constituted. A ﬁnal cause also inﬂows into
+                          inﬂuit etiam in esse, ut postea declarabitur.                 being by that way in which it moves, as will be shown later.6
+                      30      5. Ad declarandum vero amplius hanc partem 30R                5. But in order to explain this part of the deﬁnition more
+                          deﬁnitionis, advertendum est si Philosophice agere-           fully, it should be noted that if we were dealing philosophically
+                          mus de solis causis et principiis naturalibus, seu            only with causes and principles that are natural or that can
+                          quae naturali lumine cognosci possunt, sufﬁcienter            be cognized by the natural light, cause would seem to be
+                          videri causam deﬁnitam illis verbis, et distinctam            sufﬁciently deﬁnedbythosewordsandwouldbedistinguished
+                      35  ab omnibus principiis, quae verae causae non sunt: 35R        from all principles that are not true causes. Nevertheless,
+                          quia tamen nostra Physica et Metaphysica deservire            since our physics and metaphysics ought to be in the service
+                          debet Theologiae, talem oportet causae deﬁnitionem            of theology, a deﬁnition of cause needs to be presented that
+                          tradere, quae Patri aeterno ut est principium Filii,          does not apply to the eternal Father as principle of the Son
+                          vel Patri et Filio ut sunt unum principium Spiri-             or to the Father and Son as one principle of the Holy Spirit.
+                      40  tus sancti, non conveniat: et hoc est quod facessit 40R       This is what creates trouble for us: for the producing person
+                          nobis negotium, nam persona producens videtur                 seems to be a principle per se inﬂowing being into another
+                          principium per se inﬂuens esse in aliam personam,             person and thus the entire deﬁnition of cause seems to apply.
+                          atque ita videtur illi convenire tota deﬁnitio causae,        Yet the producing person is not a cause, as is clear from the
+                          cumtamencausanonsit, ut ex recepta sententia                  received view among theologians.
+                      45  Theologorum constat.
+                          Difﬁcultas ex mysterio Trinitatis sumpta.                     Adifﬁculty taken from the mystery of the Trinity.
+                          6. Ad excludendum ergo huiusmodi principium per               6. In order to exclude a principle of this kind that per se
+                          se dans esse sine causalitate: usi sunt auctores              gives being without causality, then, modern authors use the
+                          moderni verbo, dependendi, quia una persona div-              word ‘depending’, since one divine person receives being from
+                       5  ina ita recipit esse ab alia, ut ab illa non pendeat, 5R      another in such a way as not to depend on the other per-
+                          quia id quod ab alio pendet, oportet ut habeat es-            son. For that which depends on another thing must have
+                          sentiam saltem numero diversam ab eo a quo pen-               an essence that is at least numerically distinct from that on
+                          det. Sed imprimis explicare oportet quid sit proprie          which it depends. But one must ﬁrst explain what it is for
+                          unum pendere ab alio, aut cur ad dependendum                  one thing properly to depend on another thing, or why diverse
+                         6For more on the ‘to something else’ part of the deﬁnition, see n. 7 and DM 18.7.56. Note, in particular, that Suárez is not claiming that there needs
+                       to be a real distinction between the agent and the patient. As DM 18.7 makes clear, Suárez thinks there are immanent actions where what is acting and
+                       what is being acted on are identical. Nonetheless, even in those cases, he thinks the effect is distinct from acting principle.
+                       30 5] 4 A.
+                       2 6] 5 A.
+                       Suárez, DM XII.2                                                                                                                 5
+                      10  requiratur diversitas essentiae, et non sufﬁciat dis- 10R     essences are required for depending, and why a distinction of
+                          tinctio rerum, quae necessario intercedit inter rem           things (which necessarily comes between a producing thing
+                          producentem et productam; quia non apparet ratio              and produced thing) is not sufﬁcient. For the reason why the
+                          cur maiorem distinctionem requirat verbum depen-              word ‘depending’ requires a greater distinction than the word
+                          dendi, quam producendi. Item unum relativum pro-              ‘producing’ is not obvious. Likewise, one relative is said prop-
+                      15  prie dicitur pendere ab alio, quia illo posito ponitur, 15R   erly to depend on another relative, since it is posited by the
+                          et ablato aufertur: et tamen non est de necessitate           latter having been posited and is removed by the latter being
+                          relativorum ut sic habere distinctam numero essen-            removed, and yet it is not of the necessity of relatives as such
+                          tiam: nam personae divinae sunt correlativae, cum             to have essences distinct in number. For the divine persons
+                          tamen sint eiusdem essentiae. Quod si dicantur                are correlatives even though they are of the same essence.
+                      20  esse eiusdem essentiae absolutae, distingui tamen 20R         But if they are said to be of the same absolute essence yet dis-
+                          in rationibus respectivis, idque satis esse ad cor-           tinguished in their respective rationes and that this is enough
+                          relativam dependentiam: cur non idem sufﬁciet ad              for correlative dependence, then why not say that the same
+                          dependentiam producti a producente? Non enim                  thing is enough for the dependence of a product on the pro-
+                          producitur quatenus est idem cum producente, sed              ducer? For it is not produced insofar as it is identical with
+                      25  quatenus ab eo distinguitur: ut sic autem habet 25R           the producer, but insofar as it is distinct from it. But as such
+                          distinctam entitatem respectivam receptam ab alio:            it has a distinct respective entity from the other. Therefore,
+                          ergo secundum illam vere pendet ab alio. Adde                 it will truly depend on the other with resepct to that. Add
+                          quod secundum propriam rationem respectivam ha-               that according to the proper respective ratio the produced
+                          bet persona producta distinctum esse personale ac             person has distinct personal and respective being from the
+                      30  respectivum a persona producente: et illud habere 30R         producing person. And it cannot have the former except it is
+                          non potest nisi ab alio datum: ergo in illo vere pen-         given by another. In that, therefore, it will truly depend on the
+                          det ab alio. Quid est enim pendere ab alio in aliquo          other. For what is it to depend on another thing in some being
+                          esse, nisi non habere illud a se, sed datum et com-           except not to have that being a se but to have it given and
+                          municatum ab alio, a quo semper dari debeat ut                communicated by another thing, from which it must always
+                      35  semper haberi possit?                                   35R   be given so that it can always be had?
+           Quid sit           7. Ad hoc ergo explicandum dixi, causam esse                  7. Therefore, in order to explain this I said that a cause        Whatit is
+        proprie ab alio   quae inﬂuit esse in aliud: his enim verbis eadem res          is that which inﬂows being into another. For these words              properly to
+           pendere.       declaratur quae importatur in verbo dependendi:               declare the same thing that is implied in the word ‘depending’.       depend on
+                                                                                                                                                               another.
+                          signiﬁcatur autem per illa, ad causalitatem neces-            It is, moreover, signiﬁed through those words that it is nec-
+                      40  sarium esse ut illud esse quod causa per se primo 40R         essary for causality that the being that the cause per se and
+                          inﬂuit in effectum, sit causatum ab ipsa causa; et            primarily inﬂows into the effect is caused by the cause itself
+                          consequenter quod sit esse distinctum a proprio               and, consequently, that it is distinct from the proper being
+                          esse quod causa in se habet. Unde hoc est proprie             that the cause has in itself. Hence, this is properly to depend
+                          pendere in suo esse ab alio, habere scilicet esse             in its being on another, namely, to have being that is distinct
+                       14 producendi] procedendi V.
+                       23 ?] : A.
+                       36 7] 6 A.
+                       Suárez, DM XII.2                                                                                                                   6
+                      45   distinctum ab illo, et participatum seu aliquo modo 45R       from it but that participates in it or in some way ﬂows from its
+                           ﬂuensabesseillius. Huncautemmodumdependen-                     being. This mode of dependency, moreover, can be found in
+                           tiae inveniri in omnibus causis, quas nos experimur,           all the causes that we experience; it can quickly be shown for
+                           ostendi breviter potest in omni causarum genere.               every genus of cause. For matter and form inﬂow being to the
+                           Nammateria et forma inﬂuunt esse in composito,                 composite by communicating even themselves and their own
+                      50   communicando quidem seipsas, et suas entitates: 50R            entity, yet the being of the composite that comes to be thereby
+                           esse tamen compositi quod inde consurgit, distinc-             is distinct both from the being of the matter and the being of
+                           tumest ab esse, tum materiae, tum formae: et ideo              the form. And for this reason it properly depends on them,
+                           ab illis proprie pendet, quia ad illud constituendum           since both confer their being in order to constitute it. As a
+                           unaquaeque confert suum esse: et inde consurgit               result, being arises that is distinct from either of those and
+                      55   esse a qualibet earum distinctum, quod sine illis 55R          that cannot exist without those. The same is obvious in the
+                           esse non potest. Idem constat in causa efﬁciente              case of the efﬁcient cause. We omit for now the ﬁnal cause,
+                           (omissa pro nunc ﬁnali, quae obscuriorem habet                which has a more obscure inﬂux, as we will see below. For
+                           inﬂuxum, de quo infra videbimus) omnis enim res,               every thing that inﬂows being into something else through
+                           quaeinﬂuit esse in aliud per modum principii per se            the mode of a per se and extrinsic principle, outside of the
+                      60   et extrinseci, extra mysterium Trinitatis, dat illud ef- 60R  mystery of the Trinity, gives that by effecting the very being
+                           ﬁciendo ipsummet esse, quod communicat: et ideo                that it communicates. And for this reason it always gives
+                           semper dat esse distinctum ab esse proprio quod                being that is distinct from the proper being that it has in itself.
+                           in se habet: et hoc est proprie causare et efﬁcere:           Andthis is properly to cause and to effect. Conversely, then,
+                           Et e converso tunc proprie res producta pendet in              a produced thing properly depends in that genus of efﬁcient
+                      65   eo genere efﬁcientis causae, quando ipsum esse, 65R            cause when the being that it has per se and primarily received
+                           quod ab alio habet per se primo receptum, manat                from another thing ﬂows from the being of the other thing and
+                           ab esse alterius, et sine tali inﬂuxu esse non potest.         cannot exist without such an inﬂux. But it does not happen             Whythe
+           Divinae         In processionibus autem divinarum personarum,                  this way in the case of the processions of the divine persons,         produced
+           personae        non ita contingit, quia illud esse quod per se primo           since the being that is per se and primarily communicated            divine persons
+          productae                                                                                                                                               do not
+           quare a    70   per illas productiones communicatur, non est aliud 70R         through those productions is not something different from             depends on
+          producente       ab ipso esse personae producentis, sed est ipsum-             the being of the producing persons, but is numerically the            the producing
+         non pendeant.     met numero quod est in persona producente: et                 same as that in the producing person. And this is unique                 person.
+                           hoc est singulare et admirabile in illis divinis pro-         and admirable in those divine processions. For this reason
+                           cessionibus: et ideo ita una persona procedit ab               one person proceeds from another in such a way that it still
+                      75   alia, ut tamen ab illa recipiat esse omnino indepen- 75R      receives wholly independent being, since it receives being that
+                           dens, quia recipit ipsummet esse numero quod est               is numerically identical to the being of the producing person.
+                           in persona producente.
+          Occurritur           8. Neque obstat quod relationes ipsae distinctae               8. Nor is it a problem that the relations themselves are          Anobjection
+          obiectioni.      sunt, et habent proprium esse relativum distinctum:            distinct and have proper distinct relative being. For it is            comes up.
+                      80   quia non esse relativum ut sic, sed esse absolutum,            not relative being as such but absolute and essential being
+                       49 in] om. V.
+                       78 8] 7 A.
+                     Suárez, DM XII.2                                                                                                      7
+                        et essentiale, per se primo communicatur per illas 80R  that is per se and primarily communicated through those
+                        processiones. Procedit enim Deus de Deo, et Pa-         processions. For God proceeds from God and the Father in
+                        ter, generando Filium, primario communicat ipsi         generating the Son primarily communicates his own nature,
+                        suam naturam, relatio vero requiritur tamquam           but the relation is required as a necessary property for con-
+                    85  proprietas necessaria ad constituendam distinctam       stituting a distinct person, which is, as it were, the material
+                        personam; quod est quasi materiale (ut sic dicam) 85R   (if I may speak in this way) in every production. Just as in
+                        in omni productione. Sicut in generatione humana        the case of human generation what is per se and primarily
+                        quod per se primo ac formaliter intenditur, est com-    andformally intended is the communication of human nature
+                        municatio humanae naturae, et humani esse: con-         and of human being, but consequently personality is a requi-
+                    90  sequenter vero est requisita personalitas. Ratio ergo   site. The ratio of production, therefore, should be gathered
+                        productionis principaliter pensanda est ex formali 90R  principally from the formal being that is per se and primarily
+                        esse per se primo communicato. Unde generatio           communicated. Hence, the generation of Christ as a human
+                        Christi ut hominis fuit vere humana propter verum       being was truly human on account of the true being of hu-
+                        esse humanae naturae, etiamsi personalitas fuerit       mannature, even if the personality was of another ratio. In
+                    95  alterius rationis. Sic igitur, quia generatio divina    this way, therefore, since divine generation is such that the
+                        talis est, ut esse quod per se primo per illam com- 95R being that is per se and primarily communicated through it
+                        municatur, non sit manans ab alio esse, et ideo         does not ﬂow from another being and for that reason does
+                        nec pendens nec causatum, sed communicatum              not depend on and is not caused by another being but is
+                        tantum a persona producente, ideo generatio illa        only communicated by the producing person, this generation,
+                   100  non est effectio neque causatio (ut sic dicam) sed      therefore, is not an effecting nor a causation (if I may speak
+                        productio longe superioris rationis. Accedit quod100R   in this way) but is a production of a far superior nature. Add
+                        ipsummet esse relativum illarum personarum tale         to this that the very relative being of those persons is such
+                        est, ut essentialiter includat totum esse divinum,      that it essentially includes the whole divine being which is
+                        quod essentialiter est independens: et ideo neque       essentially independent. For this reason the relative being
+                   105  ipsum esse relativum potest dici dependens.             itself also cannot be called dependent.
+           Unum             9. In relationibus vero creatis dicitur interdum105R    9. But in the case of created relations one relation is    Even a created
+          relativum     unarelatio pendere ab alia, quatenus sine illa esse     sometimes said to depend on another insofar as it cannot be    relative cannot
+       etiam creatum,   non potest: Sed est impropria et lata locutio: quia     without the other one. But this is an improper and extended      properly
+        proprie ab alio                                                                                                                         depend on
+         non pendet.    ubi est dependentia prout nunc proprie loquimur,        locution. For where there is a dependency as we are now         another one.
+                   110  est prioritas naturae: relationes autem mutuae sunt     properly using the term there is a priority of nature. But
+                        omnino similes: minusque improprie diceretur re-110R    mutual relations are entirely similar. Much less improperly it
+                        latio creata pendere a suo termino, si supponatur       would be said that a created relation depends on its terminus,
+                        esse aliquid absolutum: quia posito fundamento          if it is supposed to be something absolute, since the relation
+                        et termino resultat relatio. Ex quo ﬁt ut in creatis    results once foundation and terminus are posited. The result
+                   115  multominusdicipossitunarelatioinﬂuereinaliam:           is that one can much less say in the case of created relations
+                        quoniam una non est causa, immo nec principium115R      that one relation inﬂows into another, since the one is not the
+                     106 9] 8 A.
+                     111 diceretur] dicetur V.
+                     Suárez, DM XII.2                                                                                                      8
+                        alterius, sed solum habent necesariam simultatem        cause, indeed, not even a principle, of the other, but only has
+                        seu concomitantiam. In divinis vero licet unum          anecessarysimultaneityorconcomitance. Butwiththedivine
+                        relativum procedat ab alio, non tamen per depen-        relations, although one relative proceeds from another, yet it
+                   120  dentiam, nec per inﬂuxum diversi esse essentialis,      is not through dependency nor through an inﬂux of different
+                        quod per se primo per talem productionem commu-120R     essential being that is per se and primarily communicated
+                        nicetur.                                                through such production.
+                            10. Ad declarandam ergo hanc proprietatem               10. Therefore, in order to explain this property of cause,
+                        causae, diximus esse principium quod inﬂuit esse:       we said that it is ‘a principle that inﬂows being’, since it is
+                   125  quia oportet ut ipsummet esse causatum, et con-         necessary for that being itself to be caused and, consequently,
+                        sequenter essentialiter distinctum ab esse ipsius125R   to be essentially distinct from the being of the cause itself.
+                        causae. Ad quod etiam indicandum consulto addidi        To indicate that I also advisedly added the phrase ‘to some-
+                        particula in aliud, et non, in aliquem vel in alium:    thing else’ (in aliud) and not ‘to something’ (in aliquem) or ‘to
+                        nam aliud absolute et proprie non dicitur nisi de       another’ (in alium). For ‘to something else’ is not absolutely
+                   130  eo quod est in essentia diversum. Quod autem            and properly said except of that which is different in essence.
+                        causa includat hanc proprietatem et requirat talem130R  But that a cause includes this property and requires such a
+                        moduminﬂuxus, non aliter probari potest, quam           modeofinﬂuxcannotbeprovenotherwise than from the com-
+                        ex communi notione et usu huius vocis, maxime           monnotion and use of this word, especially among the Latins.
+                        apud Latinos. Item ex correlativo, quod commu-          Likewise, from the correlative, which is generally thought to
+                   135  niter censetur esse effectus: quae vox aperte indi-     be the effect, which word clearly indicates imperfection and
+                        cat imperfectionem et dependentiam in eo rigore135R     dependency in that effect in the strict sense which we showed.
+                        quem declaravimus; quare certum est personam            Wherefore it is certain that a produced divine person cannot
+                        divinam productam non posse dici effectum: alio-        be said to be an effect. Otherwise, it would also be said to
+                        qui diceretur etiam facta, quod est contra ﬁdem, ut     be made, which is contrary to the faith as is clear from the
+                   140  constat ex Symbolo. Tandem, quia ex re ipsa prout       Apostles’ Creed. Finally, because from the thing itself as it
+                        declarata est, constat, illum modum inﬂuxus, vel140R    wasexplained, it is clear that that mode of inﬂux or emanation
+                        emanationis qui convenit effectibus creatis respectu    that applies to created effects with respect to all their causes
+                        omniumsuarumcausarum,esselongediversae ra-              is very different in nature from the emanation of one divine
+                        tionis ab emanatione unius personae divinae ab          person from another and has that mode of dependency which
+                   145  alia; et habere illum modum dependentiae quem           weexplained. Therefore, it can be signiﬁed with one common
+                        nos declaravimus: ergo potest una communi voce145R      wordwhichcomprehendsthecausesofcreatedthingsbutnot
+                        signiﬁcari, quae comprehendat causas rerum cre-         the principles of divine persons. Of this sort, moreover, is the
+                        atarum, et non principia divinarum personarum:          word ‘cause’ the concept answering to it, which we explicated
+                        huiusmodi autem est haec vox causa, et conceptus        through the stated deﬁnition of cause. Thus, then, it is true of
+                   150  qui illi respondet, quem per dictam causae deﬁni-       the ratio of the being of a cause that it is essentially different
+                        tionem explicamus. Sic igitur verum est de ratione150R  from its effect and that the effect properly depends on the
+                        causae esse ut sit essentialiter diversa a suo effectu: cause. Moreover, each is indicated in that phrase as it was
+                     123 10] 9 A.
+                            Suárez, DM XII.2                                                                                                                                                9
+                                et quod effectus proprie pendeat a causa: utrumque                           explained by us and through it the ratio of cause is excluded
+                                autem in illa particula, prout a nobis declarata est,                        from applying to the principle in the divine cases.
+                          155   indicatur, et per illam excluditur principium in divi-
+                                nis a ratione causae.
+                                Difﬁcultas ex mysterio Incarnationis.                                        Adifﬁculty from the mystery of the Incarnation.
+                                11. Alia vero difﬁcultas nobis oritur ex alio mysterio                       11. But another difﬁculty arises for us from another mystery
+                                ﬁdei, scilicet incarnatione: nam Verbo divino ut per-                        of the faith, namely, the Incarnation. For the divine Word as
+                                sonaliter terminanti humanitatem, convenit tota illa                         personally terminating humanity ﬁts that whole deﬁnition of
+                            5   deﬁnitio causae: et tamen ut sic non est causa iuxta                   5R    cause and yet as such it is not a cause according to sound
+                                sanam doctrinam: cum neque possit esse causa                                 doctrine, because it can neither be a formal cause (since
+                                formalis, quia imperfecta est, neque efﬁciens, quia                          a formal cause is imperfect) nor an efﬁcient cause (since
+                                alias haberet Verbumefﬁcientiamadextra, noncom-                              otherwise the Word would have efﬁciency with respect to
+                                munemPatri, et Spiritui sancto. Maior propositio                             something external not in common with the Father and Holy
+                           10   probatur, quia iuxta communem modum loquendi 10R                             Spirit). The major proposition is proven, since according the
+                                Theologorum, Verbum divinum terminat dependen-                               the common way of speaking among theologians, the divine
+                                tiam humanitatis: ergo Verbum est id a quo pendet                            Word terminates the dependency of humanity. Therefore,
+                                illa humanitas. Quod si dicas pendere quidem ab                              the Word is that on which that humanity depends. But you
+                                illo ut a termino, non ut a causa: primo non solvitur                        may say that to depend on that as a terminus but not as
+                           15   difﬁcultas, immo potius inde concluditur non omne 15R                        on a cause, does not, in the ﬁrst place, resolve the difﬁculty
+                                id a quo aliud pendet, esse causam: et deinde valde                          (indeed, from that one concludes instead that not everything
+                                obscurum est quid sit dependere ut a termino. Sed                            onwhichsomethingelsedependsisacause)and,furthermore,
+                                hoc posterius mirum non est, quia res est valde                              what it is to depend on something as on a terminus is most
+           Vide dicta in        supernaturalis, quam explicant Theologi, prout pos-                          obscure. But this latter point is hardly surprising, since the
+            1. tom. 3. p.  20   sunt. Illud vero prius convincit plane deﬁnitionem 20R                       matter is very much supernatural, which the theologians
+          disp. 8. sect. 3.     causae melius explicari per principium inﬂuens per                           explicate insofar as they can. But the former point establishes                      See what was
+                                se esse in aliud, quam per dependentiam, nisi haec                           clearly that the deﬁnition of cause is better explicated through                         said in
+                                particula per priorem declaretur. Igitur Verbum ut                           a principle inﬂowing being per se into something else than                             Comm.ac
+                                                                                                                                                                                                 disp. in tertiam
+                                terminans humanitatem, non est principium per se                             through dependency, unless this latter phrase is explained                              partem
+                           25   inﬂuens esse in illam, neque humanitas hoc modo 25R                          through the former. The Word as terminating humanity, then,                            D. Thomae
+                                pendet a Verbo ut a principio inﬂuente esse in il-                           is not a principle per se inﬂowing being into the humanity                          tom. 1, disp. 8,
+                                lam: sed solum in ratione termini, qui est proprietas                        nor does the humanity depend in this way on the Word as                                  sect. 3.
+                                quaedamnecessaria, sine qua humanitas illa non                               on a principle inﬂowing being into it but only in the ratio of
+                                potest existere.                                                             a terminus, which is a kind of necessary property without
+                                                                                                      30R    which that humanity cannot exist.
+                            2 11] 10 A.
+                            3 incarnatione] Incarnationis V.
+                        Suárez, DM XII.2                                                                                                                       10
+           Lege quae   30       12. Quae responsio recte satisfacit, quantum ad                  12. This response rightly satisﬁes, as far as the depen-            Read what we
+           diximus 1.       dependentiam humanitatis a Verbo: adhuc tamen                    dencyofthehumanityontheWordisconcerned. Nevertheless,                      said in
+          tom. disp. 8.     manet difﬁcultas de dependentia Christi, ut est per-             a difﬁculty about the dependency of Christ as a composite                 Comm.ac
+            sect. 1.                                                                                                                                                 disp. in tertiam
+                            sona composita. Suppono enim ex vera Theolo-                     person still remains. For I assume according to the true doc-              partem
+                            gorum doctrina, immo et Conciliorum, et Patrum, 35R              trine of the theologians, indeed both of the Councils and of              D. Thomae,
+                       35   ex Verbo ut terminante humanitatem, et human-                    the Fathers, that out of the Word as terminating the humanity           tom. 1, disp. 8,
+                            itate ipsa, consurgere Christi ut Dei hominis per-               andoutofthehumanityitselftherearisesthepersonofChrist                      sect. 1.
+                            sonamperseunam,acmirabiliter compositum. Il-                     as of God and of man per se one and miraculously composed.
+           Divinum          lud ergo compositum vere pendet a Verbo, tamquam                 That composite, therefore, truly depends on the Word as on a             In what way
+         Verbum cum         a quodam principio intrinseco ex quo constat: unde 40R           kind of intrinsic principle from which it is composed. Hence,             the divine
+          humanitate   40   necesse est ut in illud inﬂuat esse, communicando                it is necessary that that it inﬂow being into that by commu-            Word concurs
+          qualiter ad                                                                                                                                                with humanity
+         Christi consti-    illi suum esse personale: ex quo cum humanitate                  nicating its own personal being, from which together with                   for the
+           tutionem         resultat haec persona composita, quae ut sic aliquo              the humanity this composite person results, which is such               constitution of
+           concurrat.       modo distinguitur a Verbo nude sumpto. Sed ad                    is in some way distinguishe from the Word taken alone. But                  Christ.
+                            hoc eadem responsio applicanda est, nam Verbum 45R               to this same response should be added that the Word does
+                       45   non aliter concurrit ad constituendum illud com-                 not concur for the constitution of that composite in any other
+                            positum, quam terminando humanitatem: unde                       way than by terminating the humanity. Hence, if it does not
+                            si in hoc non exercet aliquod causalitatis genus,                exercise some genus of causality in this, then it also does
+                            neque etiam constituendo illam personam composi-                 not have some ratio of cause with respect to the composite
+                            tumhabet aliquam rationem causae respectu illius. 50R            person as a result of constituting that person. Moreover, the
+                       50   Argumentumautemfactumnontantumprocedit in                        argument that was made not only applies to the mentioned
+                            dicto mysterio, sed accommodari potest ad omnia                  mystery, but can also be adapted to all extremes composing
+                            extrema componentia aliquod compositum, ut est                   some composite, for example, a point with respect to a line, a
+                            punctum respectu lineae, et subsistentia creata re-              created subsistence with respect to the supposit, etc. About               Howthe
+             Modi           spectu suppositi, etc. De quibus omnibus dicendum 55R            all of these one should rightly say that they indeed prove to            terminating
+          terminantes  55   est recte probare reduci quidem ad aliquod genus                 be reduced to some genus of intrinsic cause, i.e., formal or                modes
+         quamrespectu                                                                                                                                                   exercise
+         terminatorum       causae intrinsecae, id est formalis vel materialis:              material. But in what way and in what they sometimes fall               causality with
+         causalitatem       quo modo autem, et in quo, aliquando deﬁciant a                  short of the property of such causes, especially in the case of         respect to the
+           exerceant.       proprietate talium causarum, et praesertim in dicto              the aforementioned mystery, depends on the things that are                 termini.
+                            mysterio, pendet ex his quae de his causis in partic- 60R        to be said about these causes in particular.
+                       60   ulari dicenda sunt.
+                            Causalitas quid.                                                 Whatcausality is.
+                            13. Ex his quae de ratione causae in communi                     13. From what we have said about the ratio of cause in
+                            diximus, colligitur primo, quid sit id quo causa                 general, one can gather, ﬁrst, what it is by which a cause in act
+                        30 12] 11 A.
+                        2 13] 11 A.
+                       Suárez, DM XII.2                                                                                                               11
+                          in actu formaliter et proxime constituitur in esse            is formally and proximately constituted in the being of cause,
+                       5  causae: quod solet vocari causatio, vel causalitas in    5R   which is usually called ‘causation’ or ‘causality’ in general.
+                          communi: hoc autem nil aliud est quam inﬂuxus                 For this is nothing other than that inﬂux or concursus by
+                          ille, seu concursus, quo unaquaeque causa in suo              which each cause in act in its genus inﬂows being into the
+                          genere actu inﬂuit esse in effectum: hic vero con-            effect. But this concursus must necessarily be something
+                          cursus necessario oportet ut sit aliquid distinctum           distinct in re or ex natura rei from the relation of the cause
+                      10  in re seu ex natura rei a relatione ipsius causae, 10R        itself, since that thing which is denominated a cause can
+                          cumpossit res illa quae causa denominatur, in re              remain in re without this actual inﬂux. This is a certain sign
+                          manere sine hoc actuali inﬂuxu: quod est certum               of a distinction ex natura rei, as was seen in earlier sections.
+                          signum distinctionis ex natura rei, ut in superi-             Moreover, this inﬂux cannot merely be the categorical relation
+                          oribus visum est. Non potest autem hic inﬂuxus                of a cause to its effect. For this, whatever exactly it is, results
+                      15  esse sola [relatio] praedicamentalis causae ad ef- 15R        from that inﬂux of the cause as terminated in the effect:
+                          fectum: nam haec, qualiscumque illa sit, resultat             namely, in that way by which it is usually said that a relation
+                          ex ipso inﬂuxu causae ut terminato ad effectum,               arises by positing a foundation and terminus. That inﬂux,
+                          eo scilicet modo qua dici solet, posito fundamento            therefore, is something prior to the relation. And according
+                          et termino, consurgere relationem; est ergo ille in-          to that inﬂux, also, a cause is prior in nature to its effect,
+                      20  ﬂuxus aliquid prius relatione: et secundum illum 20R          yet according to the relation they are simultaneous in nature.
+                          etiamcausaestpriornaturasuoeffectu,cumtamen                   That inﬂux, therefore, is some medium between the entity
+                          secundum relationem sint simul natura. Est igi-               and the relation of the cause. But what that is or whether it
+                          tur ille inﬂuxus aliquid medium inter entitatem, et           is something in the cause itself or in the effect and whether
+                          relationem causae: quid autem illud sit et an sit             it is some mode distinct from the cause and effect or merely
+                      25  aliquid in ipsa causa vel in effectu, et an sit aliquis 25R   a denomination taken from both cannot be explained more
+                          modusdistinctusabillis, vel tantum denominatio ex             clearly here, before we have gotten around to explaining the
+                          utroque desumpta, non potest hic distinctius expli-           individual genera of causes. The same is the case with certain
+                          cari, donec ad singula causarum genera declaranda             kinds of properties or conditions that seem to attend the
+                          veniamus. Et idem est de quibusdam proprietati-               general ratio of cause and that are found in different ways in
+                      30  bus vel conditionibus, quae communem rationem 30R             the different kinds of causes, such as being prior in nature,
+                          causae comitari videntur, et in diversis causis diver-        being really or essentially distinguished from effects, etc.
+                          simode reperiuntur, ut esse prius natura, distingui
+                          realiter, vel essentialiter ab effectu, etc.
+                          Causaeunicus obiectivus conceptus.                            The unique objective concept of cause.
+                      35  14. Secundo colligi potest ex dictis, nomen causae                14. One can gather from what was said, second, that the
+                          nonessemereaequivocum,cumnontantumnomen,                      name ‘cause’ is not merely equivocal, since it is not only a
+                          sed etiam aliqua ratio nominis communis sit. An 35R           name but there is also a certain ratio common to the name.
+                       15 relatio] ratio A V.
+                       35 14] 12 A.
+                    Suárez, DM XII.2                                                                                                   12
+                        vero huic nomini secundum illam deﬁnitionem cor-       But it is controversial whether there is one concept, formal as
+                        respondeat unus conceptus tam formalis quam            muchasobjective,ofcauseingeneralthatcorrespondstothat
+                    40  obiectivus causae in communi, in controversia est:     nameinaccordancewiththis deﬁnition. For some think there
+                        namquidamexistimant non correspondere huius-           is no one concept of this sort that corresponds to the name,
+                        modi conceptum unum, quia modi quibus effectus 40R     because the modes in which effects depend on causes in the
+                        pendent a causas in diversis generibus causarum,       different genera of causes are so diverse that no one common
+                        ita sunt primo diversi, ut ab eis una communis ratio   ratio of dependence can be abstracted from them. But this
+                    45  dependentiae abstrahi non possit. Sed hoc neque        is not proven from those things nor does it seem very likely
+                        ab ipsis probatur, neque mihi videtur admodum          to be true to me. For a common concept can be abstracted
+                        verisimile, nam ex omni reali convenientia potest 45R  from all real agreements. Between causes, moreover, there is
+                        abstrahi conceptus communis, inter causas autem        not only a certain metaphorical proportionality. Otherwise, it
+                        non solum est proportionalitas aliqua metaphorica,     could not be said of all those causes with propriety. Rather,
+                    50  alioqui non de omnibus illis causa cum proprietate     there is a true and real agreement between causes, as can be
+                        diceretur, sed est vera et realis convenientia, ut     conﬁrmed from the given deﬁnition and its exposition. And
+                        ex deﬁnitione data, et expositione eius conﬁrmari 50R  manyofthe things we said concerning the concept of being
+                        etiam potest; et ex his quae de conceptu entis dix-    can be applied here. There is, therefore, no reason to deny
+                        imus, multa hic applicari possunt. Non est ergo cur    that there is one common concept of cause. But whether
+                    55  negetur unus communis conceptus causae. An vero        according to it there is univocity or a certain analogy will be
+                        secundumillum sit univocatio vel aliqua analogia,      clearer after treating the division of cause and explaining the
+                        constabit melius post traditam divisionem causae, 55R  individual kinds and their modes of causing. For this reason
+                        et explicata singula membra, ac modos causandi: et     we will leave aside this matter until we have compared the
+                        ideo illud omittemus, donec causas ipsas inter se      different kinds of causes to each other.
+                    60  conferamus.

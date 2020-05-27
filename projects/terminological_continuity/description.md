@@ -56,7 +56,7 @@ The historical line drawn between medieval and (early) modern philosophy is only
 3. **William of Ockham**
 
     * Quodlibeta Septem (esp. Part I & II, i.e. OT 9)
-      - Engl. Transl.: Fredosso & Kelley, Quodlibeta Questions, Yales Uni. Press, *not* available as pdf/txt
+      - Engl. Transl.: Fredosso & Kelley, Quodlibeta Questions, Yales Uni. Press, *not* available for free as pdf/txt
     * Ordinatio (esp. Part I, i.e. OT 1)
     * Reportatio (esp. Part II & IV, i.e. OT 5 & 7)
 
@@ -64,7 +64,6 @@ The historical line drawn between medieval and (early) modern philosophy is only
 4. **Francisco Suárez**
 
     * De Anima (DA, esp. Parts I & II)
-      - Engl. transl.: Kranen & Reedy, Selections from De Anima (Disp. 1 & Disp. 2, Q. 3), Philosophia Verlag, *not* available as pdf/txt
-    * Commentaria una cum quaestionibus in libros Aristotleis (QDA, esp. Disp. 1, 2 & 3)
+      - Engl. transl.: Kranen & Reedy, Selections from De Anima (Disp. 1 & Disp. 2, Q. 3), Philosophia Verlag, *not* available for free as pdf/txt
     * Disputationes Metaphysicae (DM, esp. Part 12.2 & 18.5)
     * De actibus qui vocantur passiones (esp. I.3)
