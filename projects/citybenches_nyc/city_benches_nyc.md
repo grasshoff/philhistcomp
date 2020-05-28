@@ -1,25 +1,15 @@
-# Projekttitel
-
-Abstände zwischen Sitzbänken in NYC
-
-## Datensatz
-
-https://www1.nyc.gov/html/dot/downloads/pdf/citybench-locations.pdf
+## Shortes distance between city benches in NYC
 
 
-## Frage bezogen auf die Daten
+## Research Objects
 
-Unterscheidet sich die durchschnittlich kürzeste Distanz von Sitzbank zu Sitzbank in den fünf New Yorker Bezirken?
+**research objects** = All city benches in New York City in 2019
 
-Research Objects: Alle Sitzbänke in New York im Jahr 2019 
+**empirical sources** = https://www1.nyc.gov/html/dot/downloads/pdf/citybench-locations.pdf
+
+**research question** = What is the shortest distance between two city benches in 2019?
 
 
 ## Namen der Autoren
 
-
 Noah Nasarek, Manuel Dedio, Daria Zakharova
-
-
-
-
-
