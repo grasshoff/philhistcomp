@@ -39,7 +39,7 @@
 
 ![image-20200521130611200](assets/photos/image-20200521130611200.png)
 
-![2020-05-21 (16)](assets/photos/2020-05-21 (16)-1590666284357.png)
+![image-20200521130647354](assets/photos/image-20200521130647354.png)
 
 - Sociopaths; 
 - Retarded
