@@ -1,6 +1,6 @@
 # **"Nurse hate thread": the nurse as the pandemic's female other **
 
-<img src="image-20200522104646573.png" alt="image-20200522104646573" style="zoom:50%;" />
+<img src="1587912165823.jpg" alt="1587912165823" style="zoom:50%;" />
 
 ### Background
 
