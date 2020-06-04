@@ -1,5 +1,5 @@
 
-# Materials for seminar conferences 
+# Materials for seminar conferences
 
 ### Week: June 4th, 2020
 
@@ -18,7 +18,13 @@
   - Programmes
     - Import of libraries
     - Import of sources, raw data
-    - Data wrangling: generating research data
+    - Process and perform data wrangling -> generating research data
+- Info material of the seminar class repository
+  - projects: Content of text, data and notebooks for each project
+  - posts:
+    - packages: info about installation, packages, tutorials
+    - course: Information from Gerd Graßhoff accompanying the seminar
+    - solutions: small info addressing tasks and challenges
 - Jupyterlab
   - Title, Task
   - import of program libraries
@@ -32,7 +38,6 @@
       - Copy, slice
       - Filtering of subsets
       - Searching with regular expressions
-      - Similar expressions (fuzzy)
 - Spacy and the art of linguistic analysis
   - 2 lines to set up
   - From text to doc
