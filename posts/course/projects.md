@@ -10,9 +10,9 @@
     - Explanatory narrative text
     - Comprehensible part of the program by others
   - Rules of construction
-    - Not too lengthy notebooks, few tasks
+    - Non-lengthy notebooks, few tasks
     - only required textual explanations
-  - Hilfe/Tutorials/Info jeder Art
+  - Hilfe/Tutorials/Info of all kinds
   - Project considerations
   - Title and description of the task
   - Programmes
@@ -24,7 +24,7 @@
   - posts:
     - packages: info about installation, packages, tutorials
     - course: Information from Gerd Graßhoff accompanying the seminar
-    - solutions: small info addressing tasks and challenges
+    - solutions: brief info addressing tasks and challenges
 - Jupyterlab
   - Title, Task
   - import of program libraries
