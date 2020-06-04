@@ -8,7 +8,7 @@ The real world case I want to consider is the research on Chloroquine (CQ)or its
 
 ## Research objects
 
-**research objects**: 18 scientific publications from 2020 about Chloroquine/Hydroxychloroquine as a possible treatment for COVID-19.
+**research objects**: 19 scientific publications from 2020 about Chloroquine/Hydroxychloroquine as a possible treatment for COVID-19.
 
 **empirical sources**:
 
@@ -35,19 +35,21 @@ The real world case I want to consider is the research on Chloroquine (CQ)or its
     DOI: https://doi.org/10.1186/s12969-020-00422-z
 11. Matthieu Mahevas *et al.* (2020): "No evidence of clinical efficacy of hydroxychloroquine in patients hospitalized for COVID-19 infection with oxygen requirement: results of a study using routinely collected data to emulate a target trial", in: *medRxiv*. [preprint]
     DOI: https://doi.org/10.1101/2020.04.10.20060699
-12. S.A. Meo/D.C. Klonoff/J. Akram (2020): "Efficacy of chloroquine and hydroxychloroquine in the treatment of COVID-19", in: *European Review for Medical and Pharmacological Sciences* 24:8, 4539-4547.
+12. Mandeep R. Mehra/Sapan S. Desai/Frank Ruschitzka/Amit N. Patel (2020): "Hydroxychloroquine or chloroquine with or without a macrolide for treatment of COVID-19: a multinational registry analysis", in: *The Lancet*.
+    DOI: https://doi.org/10.1016/S0140-6736(20)31180-6
+13. S.A. Meo/D.C. Klonoff/J. Akram (2020): "Efficacy of chloroquine and hydroxychloroquine in the treatment of COVID-19", in: *European Review for Medical and Pharmacological Sciences* 24:8, 4539-4547.
     DOI: https://doi.org/10.26355/eurrev_202004_21038
-13. Durga Prasanna Misra *et al.* (2020): "Rheumatologists' perspective on coronavirus disease 19 (COVID-19) and potential therapeutic targets", in: *Clinical Rheumatology*
+14. Durga Prasanna Misra *et al.* (2020): "Rheumatologists' perspective on coronavirus disease 19 (COVID-19) and potential therapeutic targets", in: *Clinical Rheumatology*
     DOI: https://doi.org/10.1007/s10067-020-05073-9
-14. J. M. Molina *et al.* (2020): "No evidence of rapid antiviral clearance or clinical benefit with the combination of hydroxychloroquine and azithromycin in patients with severe COVID-19 infection", in: *Médecine et Maladies Infectieuses* 50:4, 384. [Letter to the editor]
+15. J. M. Molina *et al.* (2020): "No evidence of rapid antiviral clearance or clinical benefit with the combination of hydroxychloroquine and azithromycin in patients with severe COVID-19 infection", in: *Médecine et Maladies Infectieuses* 50:4, 384. [Letter to the editor]
     DOI: https://doi.org/10.1016/j.medmal.2020.03.006
-15. Amir Shamshirian *et al.* (2020): "Hydroxychloroquine Versus COVID-19: A Periodic Systematic Review and Meta-Analysis", in: *medRxiv*. [preprint]
+16. Amir Shamshirian *et al.* (2020): "Hydroxychloroquine Versus COVID-19: A Periodic Systematic Review and Meta-Analysis", in: *medRxiv*. [preprint]
     DOI: https://doi.org/10.1101/2020.04.14.20065276
-16. Xiaoxuan Sun/Yicheng Ni/Miaojia Zhang (2020): "Rheumotologists' view on the use of hydroxychloroquine to treat COVID-19", in: *Emerging Microbes & Infections* 9:1, 830-832. [Letter]
+17. Xiaoxuan Sun/Yicheng Ni/Miaojia Zhang (2020): "Rheumotologists' view on the use of hydroxychloroquine to treat COVID-19", in: *Emerging Microbes & Infections* 9:1, 830-832. [Letter]
     DOI: https://doi.org/10.1080/22221751.2020.1760145
-17. Wei Tang *et al.* (2020): "Hydroxychloroquine in patients mainly with mild to moderate COVID-19: an open-label, randomized, controlled trial", in: *medRxiv*. [preprint]
+18. Wei Tang *et al.* (2020): "Hydroxychloroquine in patients mainly with mild to moderate COVID-19: an open-label, randomized, controlled trial", in: *medRxiv*. [preprint]
     DOI: https://doi.org/10.1101/2020.04.10.20060558
-18. Franck Touret/Xavier de Lamballerie (2020): "Of chloroquine and COVID-19", in: *Antiviral Research* 177: 104762.[Commentary]
+19. Franck Touret/Xavier de Lamballerie (2020): "Of chloroquine and COVID-19", in: *Antiviral Research* 177: 104762.[Commentary]
     DOI: https://doi.org/10.1016/j.antiviral.2020.104762
 
 
