@@ -1,7 +1,3 @@
-# directory structure
-
-<img src="assets/markdown-img-paste-20200424104807469.png" style="zoom:33%;" />
-
 
 # Materials for seminar conferences 
 
