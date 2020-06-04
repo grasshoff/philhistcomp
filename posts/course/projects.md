@@ -1,11 +1,11 @@
 # directory structure
 
-![](assets/markdown-img-paste-20200424104807469.png)
+<img src="assets/markdown-img-paste-20200424104807469.png" style="zoom:33%;" />
 
 
-# Materials for individual seminar conferences
+# Materials for seminar conferences 
 
-## June 4th, 2020
+### Week: June 4th, 2020
 
 - Goals
   - Starting the Jupyter Lab working environment
@@ -25,19 +25,20 @@
     - Data wrangling: generating research data
 - Jupyterlab
   - Title, Task
-  - import
-  - Importing Sources
-  - research data
-  - Define functions
-  - Pandas Functions
-    - read
-    - .head()
-    - Copy, slice
-    - Filtering of subsets
-    - Suchen mit regulären Ausdrücken
-    - Ähnliche Ausdrücke (fuzzy)
-- Spacy und die Kunst der linguistischen Analyse
-  - 2 Zeilen zum Einrichten
-  - Von Text zu Doc
-  - Was sind und können Docs
-  - Spacy Tutorials 
+  - import of program libraries
+  - Importing research sources
+  - creation of research data
+  - Python tips
+    - Define functions
+    - Pandas Functions
+      - read
+      - .head()
+      - Copy, slice
+      - Filtering of subsets
+      - Searching with regular expressions
+      - Similar expressions (fuzzy)
+- Spacy and the art of linguistic analysis
+  - 2 lines to set up
+  - From text to doc
+  - What are and can Docs
+  - Spacy Tutorials
