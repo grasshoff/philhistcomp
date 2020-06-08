@@ -1,4 +1,4 @@
-# Terminological Continuity between Medieval and Early Modern Philosophy - First Steps of Analysis
+### Terminological Continuity between Medieval and Early Modern Philosophy - First Steps of Analysis
 
 1. **Choosing a sample text**
 
