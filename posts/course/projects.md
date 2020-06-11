@@ -43,3 +43,16 @@
   - From text to doc
   - What are and can Docs
   - Spacy Tutorials
+
+### Week: 11. June 2020
+
+- filter records of dataframe
+  - boolean function
+  - result of test matching
+  - filter hierarchy of intesting structures structures
+- Spacy
+  - similar expressions
+  - POS
+  - matching POS
+
+### Week: 18. June 2020

@@ -38,7 +38,7 @@ def scrape(url):
     
     all_posts.append({"title": titles[0].text, "comments": comments})
 
-for i in range(1, 5):
+for i in range(1, 6):
     findLinks(url+'/page/'+str(i)) 
 
 for link in all_links:
