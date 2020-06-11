@@ -1,0 +1,17 @@
+# Background
+
+DYCD program sites & demography
+
+Research question: Are DYCD program sites correlated with demographic characteristics?
+DYCD = New York City Department of Youth and Community Development
+
+Variables
+- Number DYCD 2019 program sites per zip code
+  https://data.cityofnewyork.us/Social-Services/DYCD-Program-Sites/ebkm-iyma
+- 2019 NY Demographic statistics per zip code
+  https://data.cityofnewyork.us/City-Government/Demographic-Statistics-By-Zip-Code/kku6-nxdu
+
+Goals
+- Compute correlations between demographic characteristics and number of DYCD 2019 program sites per zip code
+  Demographic characteristics: population count, gender, ethnicity, US citizens, public assistance
+- Create data visualisation of the results
