@@ -12,7 +12,7 @@
     1. create doc-objects for each of the three txt-files, divide into sentences using "sentencizer", get rid of new lines
     2. create dataframe_A with 4 columns:
         1. sentence number
-        2. enumeration of all senteces in doc_Descartes
+        2. enumeration of all sentences in doc_Descartes
         3. enumeration of all senteces in doc_Suarez
         4. enumeration of all senteces in doc_Ockham
     3. turn dataframe_A into json-file. This is the **first checkpoint**
@@ -38,7 +38,7 @@
         12. text of corresponding sentence
     5. turn dataframe_B into json-file. This is the **second checkpoint**
     6. analyse linguistic features of the sentences in columns 4 (d), 8 (h), and  12 (l) using part-of-speech tag and dependency (maybe turn into 3 separate doc-objects, one for each author, in order to facilitate analysis)
-    7. extract all adjectives and verbs that stand in direct relation with matches (i.e. with the terms "soul" and/or "faculty" as well as with the substituting pronouns). The underlying idea of step 7 is the following: since *all* sentences are dealing with the concept of "soul" and/or "faculty", an analysis of their semantic similarity will yield a high degree of similarity, no matter *how* the three authors elaborate on those concepts. One should thus ignore the common feature of all those sentences (i.e. the term "soul" and/or "faculty") by only taking into account the verbs and adjectives used in conncetion with those terms. Important: include negation *as part of* the adjectives and verbs
+    7. extract all adjectives and verbs that stand in direct relation with matches (i.e. with the terms "soul" and/or "faculty" as well as with the substituting pronouns). The underlying idea of step 7 is the following: since *all* remaining sentences are dealing with the concept of "soul" and/or "faculty", an analysis of their semantic similarity will yield a high degree of similarity, no matter *how* the three authors elaborate on those concepts. One should thus ignore the common feature of all those sentences (i.e. the term "soul" and/or "faculty") and only take into account the verbs and adjectives used in connection with those terms. This will allow for a more fine-grained semantic comparison. Important: include negation *as part of* the adjectives and verbs
     8. create dataframe_C with 2 columns for each author, i.e. 6 columns in total:
         1. all adjectives used in direct connection with "soul" and/or "faculty" in Descartes
         2. all verbs used in direct connection with "soul" and/or "faculty" in Descartes
@@ -55,4 +55,4 @@
         1.  doc_AdjVrbDescartes.similarity(doc_AdjVrbSuarez)
         2.  doc_AdjVrbDescartes.similarity(doc_AdjVrbOckham)
         3.  doc_AdjVrbSuarez.similarity(doc_AdjVrbOckham)
-    2. compare degree of semantic similarity: if degree of similarity Descartes/Ockham > degree of similarity Suarez/Ockham, then this amounts to an empirical validation of Perler's thesis with respect to the progressive/evolutionary development from medieval to early modern philosophy which devaluates Descartes as the "grounding father" 
+    2. compare degree of semantic similarity: if degree of similarity Descartes/Ockham > degree of similarity Suarez/Ockham, then this amounts to an empirical validation of Perler's thesis with respect to the progressive/evolutionary development from medieval to early modern philosophy which devaluates Descartes as the "grounding father"
