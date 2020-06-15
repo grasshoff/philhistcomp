@@ -16,14 +16,14 @@
         1. sentence number
         2. enumeration of all sentences in doc_Meditationes
         3. enumeration of all senteces in doc_DeAnima
-    3. turn dataframe_A into json-file. This is the **first checkpoint**
+    * turn dataframe_A into json-file. This is the **first checkpoint**
 
 
 3. **Comparing the texts with SpaCy**
 
     * load statistical model for English: *nlp = spacy.load('en_core_web_lg')*
     * identify all sentences in which Suárez and Descartes mention the word (i.e. the token) "soul", using SpaCy Matcher: *pattern = [{'LEMMA' : 'soul'}]* (or alternatively by using the package *regular expressions*)
-    * create dataframe_B with 4 columns for each author, i.e. 8 columns in total (creation of dataframes requires several steps, maybe divide into 2 separate dataframes, one for spans and sentence number, one for sentence number and corresponding sentence):
+    * create dataframe_B with 4 columns for each author, i.e. 8 columns in total (creation of dataframe requires several steps, maybe divide into 2 separate dataframes, one for spans and sentence number, one for sentence number and corresponding sentence):
         1. span_start for matches in Descartes
         2. span_end for matches in Descartes
         3. sentence number (acc. to dataframe_A) in which span occurs

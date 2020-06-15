@@ -23,7 +23,7 @@
     1. use SpaCy Matcher to define pattern = [{"LEMMA" : "soul" *and/or* "faculty"}]
     2. write algorithm to detect implicit references to the terms in question: *if* match acc. to pattern defined in 3.1, *then* check also subsequent sentence: if subject of the sentence = a pronoun, then count as match. If match, then check also subsequent sentence: ... (this is only a first formulation of a possible strategy for detecting implicit references, still requires some refinement)
     3. apply steps 3.1 and 3.2 to doc_Descartes, doc_Suarez, and doc_Ockham
-    4. create dataframe_B with 4 columns for each author, i.e. 12 columns in total (creation of dataframes requires several steps, maybe divide into 2 separate dataframes, one for spans and sentence number, one for sentence number and corresponding sentence):
+    4. create dataframe_B with 4 columns for each author, i.e. 12 columns in total (creation of dataframe requires several steps, maybe divide into 2 separate dataframes, one for spans and sentence number, one for sentence number and corresponding sentence):
         1. span_start for matches in Descartes
         2. span_end for matches in Descartes
         3. sentence number (acc. to dataframe_A) in which span occurs
