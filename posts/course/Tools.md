@@ -23,8 +23,11 @@ Die Inhalte des Kurses werden in einer kooperativen Plattform mit github realisi
   - Typora
 
 - Graphs:
+  - graph
+  - mermaid
   - plantuml
     - https://blog.anoff.io/2018-07-31-diagrams-with-plantuml/
+    -
 
 # Python packages
 
