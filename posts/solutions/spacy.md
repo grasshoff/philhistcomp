@@ -1,0 +1,4 @@
+- custom components
+  - https://github.com/explosion/spaCy/blob/develop/examples/pipeline/custom_component_countries_api.py
+- relations between entities
+  - https://github.com/explosion/spaCy/blob/develop/examples/information_extraction/entity_relations.py
