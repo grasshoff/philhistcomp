@@ -13,16 +13,22 @@ Early in the debate about drugs against corona virus played a prominent role. It
 
 # Research objects
 
-## **research objects** = Abstracts of all scientific publications since January 2020 about the possible treatment for coronavirus with remdesivir.
+## **research objects**
+
+Abstracts of all scientific publications since January 2020 about the possible treatment for coronavirus with remdesivir.
 
 
-## **empirical sources** = [Data Dimension](https://app.dimensions.ai/discover/publication?search_text=%222019-nCoV%22%20OR%20%22COVID-19%22%20OR%20%E2%80%9CSARS-CoV-2%E2%80%9D%20OR%20((%22coronavirus%22%20%20OR%20%22corona%20virus%22)%20AND%20(Wuhan%20OR%20China))&search_type=kws&search_field=full_search&and_facet_year=2020)
+## **empirical sources**
+
+[Data Dimension](https://app.dimensions.ai/discover/publication?search_text=%222019-nCoV%22%20OR%20%22COVID-19%22%20OR%20%E2%80%9CSARS-CoV-2%E2%80%9D%20OR%20((%22coronavirus%22%20%20OR%20%22corona%20virus%22)%20AND%20(Wuhan%20OR%20China))&search_type=kws&search_field=full_search&and_facet_year=2020)
 
 ![](assets/markdown-img-paste-20200527112136856.png)
 
 ![](assets/markdown-img-paste-20200527112434799.png)
 
-## **research question** = Chronology of causal hypotheses on the effects of Remdesivir and the evolution of their empirical justification.
+## **research question**
+
+Chronology of causal hypotheses on the effects of Remdesivir and the evolution of their empirical justification.
 
 # References, appendix, ressources
 
