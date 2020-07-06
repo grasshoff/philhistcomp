@@ -1,3 +1,3 @@
 author: Regine Rørstad Torbjørnsen
 
-title: "Nurse hate thread" - The pandemic's female Other 
+title: Nurse hate threads - "She's not a hero" 

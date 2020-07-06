@@ -1,4 +1,4 @@
-# **"Nurse hate thread" - The pandemic's female other **
+# **Nurse hate threads - "She's not a hero" **
 
 <img src="assets/photos/image-20200522104646573.png" alt="image-20200522104646573" style="zoom:50%;" />
 
@@ -6,15 +6,15 @@
 
 Since the beginning of the covid-19 pandemic nurses (alongside doctors and other medical workers) have been celebrated around the word for risking their health and working overtime in order to fight the virus. The work done by nurses has been subject to increased attention, which has among other led to a debate on their work conditions and wages. 
 
-The global mainstream celebration of nurses has, however, also provoked hatred and frustration, mainly among men. On the male dominated online imageboard [4chan.org](4chan.org) there has been a rise of discussion threads revolving around hatred against nurses. These threads mostly appear on the board /pol/ ("Politically Incorrect"). Such threads are often referred to as "nurse hate" threads. The vast majority of these discussions combine the hatred against nurses with explicit misogyny; the nurses are mostly incapable, immoral or immature in virtue of being women. 
+The global mainstream celebration of nurses has, however, also provoked hatred and frustration. On the male dominated online imageboard [4chan.org](4chan.org) there has been a rise of discussion threads revolving around hatred against nurses. These threads mostly appear on the board /pol/ ("Politically Incorrect"). Such threads are often referred to as "nurse hate" threads. The vast majority of these discussions combine the hatred against nurses with explicit misogyny; the nurses are mostly incapable, immoral or immature in virtue of being women. Importantly, the characterization of nurses often aims at creating an antithesis to the figure of the hero. Nurses are ridiculed as not skilled, moral, mature, or smart enough to be real heroes. Rather, they are seen as people who exploit the current attention to stage themselves as heroes. 
 
-I will investigate how female nurses are described in online debate on 4chan, and if the expressed hatred against female nurses functions as a vent for misogyny. Once I have systematized these descriptions, I want to sketch out how the pandemic influences the online construction of the female other, on the example of nurses. Do new misogynist characteristics emerge as a consequence of the pandemic? 
+I will investigate how female nurses are described in online debate in the board /pol/ on 4chan. More concretely, I will look closer at how nurses are negatively defined within this discourse as non-heroes. 
 
 ---
 
 **Research question**
 
-How is the female other constructed in "nurse hate threads" on /pol/ during the pandemic? 
+How are nurses defined negatively as non-heroes within the discourse of nurse hate threads (/pol/, 4chan)?
 
 **Research object**
 
