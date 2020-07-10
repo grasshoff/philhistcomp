@@ -14,5 +14,6 @@
 
 - Reeve, Advanced text analysis
   - https://github.com/explosion/spacy-notebooks/blob/master/notebooks/conference_notebooks/advanced_text_analysis.ipynb
+
 - Pride and Prejudice
   - https://github.com/explosion/spacy-notebooks/blob/master/notebooks/conference_notebooks/pycon_nlp/01_pride_and_predjudice.ipynb
