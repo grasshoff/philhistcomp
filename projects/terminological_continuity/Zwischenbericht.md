@@ -49,7 +49,7 @@ With respect to the distinction between medieval and early modern philosophy, th
 
     1. use SpaCy Matcher to define pattern = [{"LEMMA" : "soul" *and/or* "faculty"}]
     2. use Prodigy to train/improve model for  coreference relationships in order to detect implicit references to the terms in question
-    3. apply steps 3.1 and 3.2 to doc_Descartes, doc_Suarez, and doc_Ockham
+    3. apply steps 3.1 and 3.2 to doc_Descartes, doc_Suarez, and doc_Ockham (i.e. identify all explicit and implicit references to concept(s) in question)
     4. create dataframe_B with 4 columns for each author, i.e. 12 columns in total (creation of dataframe requires several steps, maybe divide into 2 separate dataframes, one for spans and sentence number, one for sentence number and corresponding sentence):
         1. span_start for matches in Descartes
         2. span_end for matches in Descartes
