@@ -1,0 +1,10 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\babel@toc {english}{}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\nonumberline Background}{2}{section*.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\nonumberline Press Conference on Remdesivir at 29th April 2020}{2}{section*.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\nonumberline Research objects}{3}{section*.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\nonumberline References}{5}{section*.5}%
