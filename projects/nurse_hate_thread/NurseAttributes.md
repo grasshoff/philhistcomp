@@ -2,37 +2,51 @@
 
 *in progress*
 
+Attributions extracted from the representative examples 
+
 - **Nouns**: 
 
-  career nurse, (a) class, (a) collection 
+  career nurse; (a) class; (a) collection 
+
   (european loyalist) gene pool
-  faggots
-  females
+
+  faggots; females
+
   (decent) intellect
-  mothers
-  (stay home) mum
+
+  mothers; (stay home) mum
+
   national heroes
+
   (fucking) retards
-  shameless
-  (my) sister
-  (a piece of) shit
+
+  shameless; (my) sister; (a piece of) shit
+
   tik tok dancers
-  woman
-  women 
+
+  woman; women 
 
 - **Adjectives**:  
 
   european
+  
   good
-  immature
+  
+  (emotionally) immature
+  
   other
+
   lonely
+
+  shameless
+
   valuable
+  
   white
-
   
-
   
-
+  
+  
+  
   
 
