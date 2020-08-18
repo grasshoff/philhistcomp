@@ -1,0 +1,33 @@
+---
+
+author: Gerd Graßhoff
+title: Philosophy of Remdesivir
+date: "July 2020"
+lang: de
+
+output:
+  pdf_document:
+    toc: true
+    highlight: pygments
+    fontsize: 10pt
+    geometry: margin=1in
+
+bibliography:
+
+    - CoronaVirus.bib
+
+csl: chicago-note-bibliography-with-ibid.csl
+
+style: numeric
+
+titlepage: true
+link-citations: true
+book: false
+tables: true
+logo: assets/Hu-Logo.jpg
+number-sections: true
+classoption: oneside
+titlepage-text-color: "FFFFFF"
+titlepage-rule-color: "FFFFFF"
+
+...
