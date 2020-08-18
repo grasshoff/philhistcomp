@@ -10,13 +10,46 @@ in person. Remarkably they also lack word for exact quantities, number words.
 
 **research objects**: a corpus of conversations with members of the Pirahã tribe translated into english.
 
-**research question**: Can the Pirahã language express arithmetic propositions?
+**research question**: Can the Pirahã language express arithmetic propositions or in other words can one do arithmetics in Piraha?
 
-**hypothesis**: For arithmetic propositions we need logical vocabulary and number words, and the Pirahã
+**hypothesis**: No.
+
+**basis for the hypothesis**: For arithmetic propositions we need logical vocabulary and number words, and the Pirahã
 language seems to lack some key logical vocabulary and completely lack number words.
 
 Assuming that, in spite of lacking a word for "plus" and for "and", that the Pirahã understand the concept of
 sum, we would have the following scenario:
+
+**Assumptions**:
+1. Meaning is use, I will assume that the meaning of words is determined by the way they are used which. As our research
+data is composed of a certain amount of conversations I will use those to determine the meanings of the words that I
+need to translate. 
+
+2. Non-contradiction principle
+
+3. Truthfulness of the proposed translations.
+
+
+**Syllogism**:
+Assumption "piraha can express arithmetics"
+If piraha can express arithmetics it can express arithmetic propositions.
+If piraha can express arithmetic propositions it can express simple arithmetic propositions like 
+1 = 1
+the translation for 1 = 1 in Piraha is hoi ia hoi
+hence 1 = 1 = hoi ia hoi
+hoi ia hoi can be translated back to 1 = 1. Hence from a true statement follows a true statement. So far so good.
+
+But from 1 = 1 we can also derive hoi ia hoi, which can be translated back to 1 = 2, which is false.
+
+Hence, using Piraha translations, we can derive both a true and a false statement when translating a simple arithmetic
+proposition like "1 = 1". In other words, we can derive both "P" and non-"P" from a Q. Therefore our assumption,
+that piraha can express arithmetics must be dropped, and the contrary is true. Piraha cannot express arithmetics.
+
+
+hoi ia hoi can also be translated as 1 = 2
+hence 1 = 1 = 1 = 2
+but that is false.
+
 
 1 + 1 = 2
 hói (few) "plus" hói (few) ia (is) hói (few)
