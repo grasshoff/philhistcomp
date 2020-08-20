@@ -40,7 +40,25 @@ Because if "1 is 1", from "1" follows "1", and viceversa. Needless to say the sa
 for the purposes at hand, I think it would be legitimate to use the translation for "is" (which has a translation in 
 Pirahã) as a substitute for "=".
 
+
+
+The python script
+# 7.23: She is weak.
+# 7.23.1: She certainly is weak.
+(S (NPsubj hi/3/PRP ) 
+   (JJobj bio/weak/JJ ) (V aI/be/VB -xi/COMPL_CERT ))
+       
+# 9.3: Only one cannot carry her up the river bank.
+# 9.3.1: Certainly, they are not one [person].
+(S (NPsubj hi/3/PRP) 
+   (JJobj hoi/one_few/CD -hiab/neg ) (V Aa/be/VB -hA/COMPL_CERT ))
+# 9.3.2: (As has been mentioned,) [they] carry [Xaogioso up the river bank].
+(S (NPsubj * ) 
+   (V iig/carry/VB -op/go -ai/be -saI/old_info ))
+   
+   
 **Argument**:
+Proof by contradiction:
 Let us assume for the sake of the argument that the contrary of what we want to prove is the case, for that matter:
 "Pirahã can express arithmetic propositions"
 
