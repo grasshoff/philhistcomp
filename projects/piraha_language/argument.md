@@ -8,17 +8,15 @@ in person. Remarkably they also lack word for exact quantities, number words.
 
 ## Research objects
 
-**research objects**: a corpus of conversations with members of the Pirahã tribe translated into english.
+**Research objects**: a corpus of conversations with members of the Pirahã tribe translated into english.
 
-**research question**: Can the Pirahã language express arithmetic propositions?
+**Research question**: Can the Pirahã language express arithmetic propositions?
 
-**hypothesis**: Pirahã cannot express arithmetic propostitions.
+**Hypothesis**: The Pirahã language cannot express arithmetic propostitions.
 
-**basis for the hypothesis**: The intuition would be that for arithmetic propositions we need logical vocabulary and number words, and the Pirahã
-language seems to lack some key logical vocabulary and completely lack number words.
-
-Assuming that, in spite of lacking a word for "plus" and for "and", that the Pirahã understand the concept of
-sum, we would have the following scenario:
+**Basis for the hypothesis**: The intuition would be that for arithmetic propositions we need number words, and the Pirahã
+language seems to lack number words, only having words for inexact quantities. But this is just an intuition and not actual
+proof that my hypothesis is correct.
 
 **Assumptions**:
 1. Meaning is use, I will assume that the meaning of words is determined by the way they are used which. As our research
@@ -34,17 +32,19 @@ The sentence I want to analyze in Pirahã is the following very basic propositio
 proposition into Pirahã I have written a script that crawls the entire data set to find usages of the two
 words "1" and "=". The closest translation to "1" that I have found is "hoi", the closest translation for "="
 I have found is "ia". "ia" seems to mean "is" rather than "=", but its the only candidate that could 
-come into question.
+come into question. In English the sentence "1 is 1" does not mean the same as "1 = 1", perhaps already because
+one is used in a mathematical context and the other one in natural language. I learned in predicata logic that
+the "=" relationship could be substituted by logical equivalence, in otherwords the bidirectional "->". I would
+say that both in the case of "1 is 1" and "1 = 1" we could substitute each of these propositions by "1 <--> 1".
+Because if "1 is 1", from "1" follows "1", and viceversa. Needless to say the same goes for the equals sign. Hence,
+for the purposes at hand, I think it would be legitimate to use the translation for "is" (which has a translation in 
+Pirahã) as a substitute for "=".
 
-
-**Syllogism**:
+**Argument**:
 Let us assume for the sake of the argument that the contrary of what we want to prove is the case, for that matter:
-"Pirahã can express arithmetics"
-
-If Pirahã can express arithmetics it can express arithmetic propositions.
+"Pirahã can express arithmetic propositions"
 
 If Pirahã can express arithmetic propositions it can express simple arithmetic propositions like 1 = 1
-(is this problematic?)
 
 The translation for 1 = 1 in Pirahã is "hoi ia hoi", hence, in some sense, "1 = 1 = hoi ia hoi".
 
