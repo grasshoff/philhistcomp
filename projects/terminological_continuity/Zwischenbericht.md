@@ -188,6 +188,6 @@ The following challenges, concerns, and questions are still to be resolved over 
 4. **Francisco Suárez**
 
     * De Anima (DA, esp. Parts I & II)
-      - Engl. transl.: Kranen & Reedy, Selections from De Anima (Disp. 1 & Disp. 2, Q. 3), Philosophia Verlag, *not* available for free as pdf/txt
+      - Engl. transl.: Kronen & Reedy, Selections from De Anima (Disp. 1 & Disp. 2, Q. 3), Philosophia Verlag, *not* available for free as pdf/txt
     * Disputationes Metaphysicae (DM, esp. Part 12.2 & 18.5)
     * De actibus qui vocantur passiones (esp. I.3)
