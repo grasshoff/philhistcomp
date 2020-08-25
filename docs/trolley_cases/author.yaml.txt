@@ -1,3 +1,0 @@
-author: Daniel Sorge
-
-title: Statistical evaluation of deontological and utilitarian choices in trolley cases
