@@ -1,10 +1,9 @@
 site_name: Seminar SS 2020 Comp.Phil.Hist.Science
 nav:
-  - Introduction: index.md
   - Projekte:
       Aztekten: aztec_classification_of_butterflies/FlorentineCodexButterflies.md
 theme:
-  name: material
+  name: readthedocs
   font: Roboto
   language: en
   palette:
@@ -16,7 +15,6 @@ markdown_extensions:
   - footnotes
 plugins:
   - search
-  - mknotebooks
   - mkdocstrings
   - bibtex:
       bib_file:  "seminar.bib"
