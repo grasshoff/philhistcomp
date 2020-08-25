@@ -1,0 +1,541 @@
+                                                              Last revision: February 13, 2012
+                         Francisco Suárez, S. J.
+                                                         1
+                         DEANIMADISP.12,Q.2
+                         ©SydneyPenner2011
+                                            Whether the will is free in its acts.
+                              1. After what was said about its object and acts, we should next
+                         talk about the power, about which (as I noted in previous disputations)
+                         it is already clear that it is a spiritual power apart from a bodily organ.
+                         One can, nevertheless, ask whether it is really distinct from the intel-
+                         lect or not. For many think that intellect and will are distinguished only
+                                              2       3
+                         formally, as Durandus, Scotus, andotherssayinI,dist.3,q.7. AndAu-
+                         gustineinDeTrinitateX4 seemstoplacenostrongerdistinctionbetween
+                         intellect and will than between memory and intellect.
+                              Nevertheless, we think along with St. Thomas that they are really
+                                                                                            5
+                         distinguished. Aristotle also seems to say this in De anima III, text. 29.
+                         And, of course, having supposed that they are really distinguished from
+                         the essence [of the soul], it is much more probable that they are also [re-
+                         ally] distinguished from each other. Nothing disagreeable results from
+                         positing this distinction, but all those things pertaining to these powers
+                         are understood much more easily.
+                              2. Assuming this, therefore, only the question about the freedom
+                         of the will remains of those that can be discussed about the power it-
+                         self. And this question most strongly depends on theology, for a per-
+                         fect division of it requires knowing how God can ﬁrmly cognize free
+                            1TheDeanimahasacomplicatedtextualhistorythatIwillnotgointohere. Sufﬁce
+                         to say that the main text translated here is that found in Salvador Castellote’s edition,
+                         volume3(Madrid: FundaciónXavierZubiri,1991),pp.380–406. Mostofthefootnotes
+                         are based on the footnotes in Castellote’s edition.
+                           Earlier editions as edited posthumouslybyAlvarezomitmostofthistextongrounds
+                         that Suárez has better treatments of the subject in other works. The corresponding
+                         section as found, for example, in the Vivès edition is lib. V, cap. 8 (Opera Omnia, vol. 3,
+                         pp. 773–74). I have appended at the end of this document a translation of the note with
+                         whichAlvarezreplaces the original text in lib. v, cap. 8.
+                            2Sent. I, dist. 2, q. 4.
+                            3Sent. II, dist. 16, q. 1, n. 18.
+                            4Cap. 11, n. 18.
+                            5Cf. De anima 414a31, 432b3, and 433a9. Cf. Aquinas, ST Ia.79.1 ad 2.
+                        Suárez, DA disp. 12, q. 2                                       2
+                        operations without taking away freedom. Also, how the providence
+                        and concursus of God and, especially, how his prevenient grace stands
+                                    6
+                        with freewill. Also, how predestination and conﬁrmation in grace does
+                        not destroy freedom. Nevertheless, refraining from all these matters,
+                        weshould brieﬂy discuss the question according to its proper principles
+                        alone. Nor can I entirely omit it, since it is proper to the matter that
+                                                7
+                        St. Thomas discusses here.
+                             3. It seems, therefore, that the negative answer to the question is
+                        true.
+                             First, because a power which deliberates towards one [object] is not
+                        free. But the will is terminated in one [object], namely, the good. There-
+                        fore.
+                             Second, that the same power act both freely and necessarily is con-
+                        tradictory. But out will acts necessarily in many things, for it necessarily
+                        loves happiness and the clear vision of God. Therefore.
+                             Third, a free power for acting is one which, once all the requisites
+                        for acting are in place, can either act or not act. But the will is not like
+                        this. Therefore. The minor premise is proven: for the will requires the
+                        concursus of the divine will so that it can issue an act. But once the will
+                        of Godis posited, our will cannot not act. Therefore.
+                             Fourth, for either God knows that I will do this thing or he does
+                        not know it. If the former, then I will infallibly do it. If the latter, then
+                        I will infallibly not do it. Therefore, in neither case is there the freedom
+                        to act or not to act.
+                             Fifth, if our power is free, then either [it is free] while it acts or
+                        before it actually acts. But not the latter, for in that case it has not yet
+                        acted [at all] and therefore has not acted freely. But neither when it is
+                        acting, since then it acts necessarily. For it is necessary that a thing be
+                        whenitis. Andwhenitisacting,it is necessary that it be acting.
+                             Sixth, becauseoursoulistheformofthebody. Therefore,itfollows
+                        theconditionofthebodyinitsoperations. Therefore,justasotherforms
+                        depend on the heavens in their operations and follow inﬂuence from it,
+                        so also our soul and will. But the heavens’ inﬂuence operates naturally.
+                        Therefore, our will, which follows it, also operates naturally.
+                             Seventh, will and sensitive appetite are powers rooted in the same
+                           6I take ‘liberum arbitrii’ as a technical term naming the item under dispute. The
+                        equivalent term in contemporary philosophy might be ‘freedom of the will’, though it
+                        has the disadvantage of already suggesting a theory as to which faculty would provide
+                        us with this freedom. I will translate ‘liberum arbitrii’ with ‘freewill’ as a single word
+                        and reserve ‘freedom of the will’ for ‘libertas voluntatis’ where it is clear that it is the
+                        will’s freedom that is being considered.
+                           7ST I.82.1–2 and I.83.
+                          Suárez, DA disp. 12, q. 2                                            3
+                          soul. Therefore, whatever one of these powers desires, the other also
+                          desires. For it is the same soul desiring in either case. Moreover, the
+                          same soul cannot at the same time desire contraries. But the sensitive
+                          appetite operates naturally. Therefore, etc.
+                               Eighth, if our will were free by its nature, it could not be necessi-
+                          tated by God. The consequent is false; therefore. The consequence is
+                          obvious, both because God cannot change the nature of thigns and be-
+                          causeGodcannotbringitaboutthatapoweractfreelythatisnotfreeby
+                          its nature. Therefore, neither can God bring it about that a free power
+                          act necessarily. The catholic faith is to the contrary.
+                               4. All the ancient pagans who asserted that our soul is material
+                          and mortal especially erred in this question. And it is descended from
+                          the error of the Stoics who said that all our operations are subject to
+                          the necessity of fate, as is seen in Cicero, De fato;8 Plutarch, De placitis
+                          philosophorum I, cap. 28 and 29; and Augustine, De civitate Dei V, cap. 8
+                          and 9, and De haeresibus cap. 70. Almost the same error was followed
+                          bythePriscillians, who said that we necessarily operate according to the
+                                                                                       9
+                          inﬂuence of the stars, as is gathered from St. Leo, Letter 93; Jerome,
+                                              10                                 11
+                          Letter to Ctesiphon;   and the Council of Braga, cap. 9.  The error of
+                          the Manichaeans was similar to this. Just as they posited two gods, one
+                          the principle of goods, the other of bads, so also they posited two souls
+                          in us, one which necessitates to good, the other to bad.
+                               These three errors completely remove freedom from the will as a
+                          result of its intrinsic nature.
+                               Otherheretics remove freedom as a result of other extrinsic causes.
+                               Some say that the foreknowledge and providence of God remove
+                          our freedom. Abelard held this view, whom Wycliffe—condemned in
+                          the Council of Constance, sess. 812—followed. And the same view is
+                          followed in part by Luther.
+                               Others remove freewill, especially in the baptized, on account of
+                                                                                          13
+                          God’s grace necessitating them. Jovinian, against whom Jerome     and
+                                    14
+                          Augustine oftendisputed, held this error.
+                               Others say that freewill was removed on account of original sin,
+                          after which human beings are necessitated to sinning. Luther erred in
+                             8VI–XVII.
+                             9Letter 15 (numbered 93 prior to Quesnell’s edition), cap. 11.14.
+                            10Letter 133, v-x.
+                            11Denzinger 239.
+                            12Denzinger 607.
+                            13Cf. Adversus Iovinianum.
+                            14De haeres.
+                            Suárez, DA disp. 12, q. 2                                                 4
+                                                                15
+                            this way, saying in art. 36 to Leo X  that ‘freewill after sin is a matter of
+                            title only’ and is imagined in things.
+                                 Many saints have already been cited against these heretics. Also:
+                            Augustine, De libero arbitrio; St. Bernard;16 Anselm;17 Origen;18 and
+                                       19
+                            Tertullian,   under the same title. And especially against Luther: John
+                                                           20
+                            Fisher (c. 1469–1535), cap. 36.   Merit is said to be the gift of grace and
+                                                      21
+                            freedom: Albert Pighius;     John Eck, Enchiridion locorum communium
+                            adversusLutherum,cap.30;Soto,Denaturaetgratia,cap.15;andCastro,
+                            Dehaeresibus, s.v. ‘liberum arbitrium’.22
+                                 5. It should be known, nevertheless, that freedom is in one way
+                            opposed to slavery, according to the passages John 8[:36] ‘If, therefore,
+                            the son shall make you free ...’ and Romans 6[:20] ‘When you were
+                            slaves to sin, you were free [of justice]’. In another way it is opposed
+                            to necessity. 1 Corinthians 7[:37]: ‘For he who stands steadfast, not
+                            having necessity, but having the power of his own will’. And it is also
+                            opposed to compulsion, for he who is compelled is necessitated. And
+                            we are asking about this freedom here, for freewill, as Soto, above, in
+                            cap. 15, lib. 5, noted, with the word ‘libet’ having been said, he is said
+                            to be free, as it were, who by his own will (sponte) does whatever pleases
+                            him. Moreover, this freedom consists in this, namely, that a power can
+                            issue an act or not issue the act, once all the requisites for acting have
+                            been posited. For example, if an eye was able both to see and not to see
+                            with a visible object in place and the eyelid open, it would be free. The
+                            phrase ‘once all the requisites ...’ is included because failing to do an
+                            action because of a lack of the object or some other impediment where
+                            something is lacking is also not freedom.
+                                 6. Second, it should be noted that this question can have two senses.
+                            The ﬁrst: whether our will is absolutely free. The second: whether,
+                            given this, our will exercises this freedom in all its acts or only in some
+                            andwhichonesthoseare.
+                                 7. With respect to the ﬁrst, the ﬁrst conclusion is that the will has
+                            freedomanddominionofitsoperationsoractions.
+                                 This conclusion is one from the foundations of our faith. For He-
+                            brews 11[:6] says that ‘he who comes to God must believe that he is
+                              15De servo arbitrio. Cf. Leo X’s bull Exsurge Domine, error 36.
+                              16De gratia et libero arbitrio and Sermo 81 in Cantica.
+                              17Dialogus de libero arbitrio.
+                              18Cf. De principiis.
+                              19Cf. De anima XX.5 and Adversus Marcionem II.6.6.
+                              20Confutatio cap. 36.
+                              21Cf. De libero hominis arbitrio et divina gratia, libri decem, lib. 1, cap. 2.
+                              22Adversus haereses lib. 9, s.v. ‘libertas’.
+                         Suárez, DA disp. 12, q. 2                                          5
+                         andthatisarewarderofthosewhocometohim’. Butthereisnoreward
+                         wherethereisnotfreedom. Fornecessaryactions,moreover—Augustine
+                         says it well—we neither give credit nor take away credit.23 Genesis 4[:7]
+                         says ‘If you do well, will you not receive? But if you do ill, will sin not
+                         be at the door at once?’ And the same is gathered from Deuteronomy
+                         30[:11–20]. And Sirach 15[:14] says that ‘[God] left him in the hand of
+                         his own counsel’. And Sirach 31[:10]: ‘He that could have transgressed
+                         and did not transgress; and could do bad things and did not.’ And 1
+                         Corinthians 7[:37]: ‘having power of his own will ...’
+                              In addition, Holy Scripture is full of precepts, exhortations, warn-
+                         ings, and promises, none of which can be understood without freedom,
+                         as St. Augustine well describes in Letter 46.24 Also, God punishes the
+                         wicked—Matthew 25[:41–46]—but if they were not free, they would be
+                         punishedwithoutcause. Thisisamostcertainmatterofthefaith,forthe
+                         testimony brought up speaks generally. And this truth was established
+                         against the Lutherans in the Council of Trent, sess. 6, cap. 5 and 6.
+                              8. This conclusion is also evident to natural reason, which Epictetus
+                                                                           25
+                         followed, who—asAgostinoSteucoreportsincap.16 —says: ‘Notonly
+                         didGodgivethesefacultiestous,bywhichweendurealladversitieswith
+                         dignity ...But because it was of a good king and true father, he give this
+                         to us free and unencumbered, not coerced, and he planted and placed
+                         each one in us and did not wish any remaining force that could be an
+                         impediment.’
+                              Furthermore, experience supports the conclusion: for we ourselves
+                         see that we act and we cease from that activity when we wish. And in
+                         this human beings differ from brute animals and the judicious from the
+                         insane.
+                              Furthermore, according to the sense of every human being, human
+                         operations are deserving of praise and blame, reward and punishment.
+                         Andthis is, as it were, a ﬁrst principle of rational nature. Therefore, we
+                         are free.
+                              Also, human beings are by their nature ﬁt for counsel, admonition,
+                         and precepts. [If we were not free], counsel would be vain and laws su-
+                         perﬂuous,whichisagainsttheinclinationofnature. Moreover,ifhuman
+                         beings are not free, they are not useful, for human beings would always
+                         act necessarily, as if counsel were given to brute animals or law imposed
+                         on them. Hence, to remove freewill is to destroy the order of the state,
+                         of religion, and of piety.
+                           23Cf. De libero arbitrio III I 1.4 and III I 3.13.
+                           24Nownumbered214.
+                           25De perenni philosophia lib. 9.
+                          Suárez, DA disp. 12, q. 2                                             6
+                               Furthermore, it is obvious according to the light of nature that hu-
+                          man beings often sin and do evil. Therefore, they act necessarily and
+                          are necessitated by nature itself and consequently by the author of that
+                          nature to doing evil. The consequent is absurd.
+                               Furthermore,humanbeingsbytheirnaturearelordoftheiractions.
+                          This lordship consists in being able by their freedom to exercise or not
+                          to exercise those actions. Therefore, they are free. The antecedent is
+                          proven, for human beings are lords of other things, for every natural
+                          reason dictates that human beings are capable of lordship and that it is
+                          evil to take away from someone what is his. But that lordship consists
+                          in being free to use his things. And lordship over his actions consists in
+                          human beings being made in the image of God, as was noted by John
+                          Damascene in Fideo lib. II, cap. 12, and Augustine in Psalm 57. And for
+                          this reason after God said ‘let us make humankind in our image and in
+                                                                    26
+                          our likeness’, he added ‘and may he rule’.    All these are a posteriori
+                          demonstrations.
+                               9. But in order to demonstrate it a priori, it is necessary to explain
+                                                                                               27
+                          in what freedom formally and at root consists. In what was said above:
+                               First, this freedom is ﬁtting for human beings in accordance with
+                          their being rational, which in no way is ﬁtting for any other animal.
+                          This is evidence, therefore, that it is ﬁtting for human beings by reason
+                          of that power in which they supersede other animals.
+                               The same thing is evident by experience, for human beings do not
+                          experience freedom in themselves except insofar as they use reason.
+                               Also, since this part is spiritual, freedom belongs to the spiritual
+                          part. Hence, St. Thomas in ST IaIIae.1.1 and the Teacher in Sent. II,
+                          dist. 24, cap. 5, say that freewill in its proper signiﬁcation refers to a
+                          certain act, yet the term is carried over to signifying the principle of the
+                          act. Hence, it now signiﬁes a power, as St. Thomas noted in ST Ia.83.2.
+                          Andtherefore it is called a faculty, namely, natural. For natural faculties
+                          are powers. Still, ‘of the will and of reason’ is added, because freedom
+                          consists partly in reason and partly in will; in reason as in a root and in
+                          will as in a formally free subject.
+                               Each claim is proven. For freedom consists formally in the will for
+                          it consists formally in indifference of election. A human being is free for
+                          thereasonthathecanelecteitherthisorthat. Italsoconsistsinafreeuse
+                          of his own operations. But to elect and to use other powers belongs to
+                          the will, as is obvious. Therefore, freedom formally belongs to the will.
+                          Andeveryoperation is thought free only insofar as it is subjected to the
+                            26Genesis 1:26.
+                            27Cf. disp. 2, q. 3, n. 18.
+                        Suárez, DA disp. 12, q. 2                                       7
+                        will.
+                             Butthatthisfreedomarisesfromreasonisobviousintheﬁrstplace,
+                        because desire arises from cognition, as was shown above.28 Therefore,
+                        the mode of desire and of that will also arise from the mode and proper-
+                        ties of the cognized.
+                             10. But it is necessary to explain in particular how freedom in the
+                        will arises from reason.
+                             TheThomistscommonlyexplainthatthefreedomofthewillarises
+                        fromtheindifferenceoftheintellect. Forthatreason—theysay—thewill
+                        canlovesomethingornotloveit,becausetheintellectisnotnecessitated
+                        to judging that thing to be better. Rather, the intellect can ﬁnd some
+                        aspect of good and some aspect of bad in the object. St. Thomas seems
+                        to teach this view in ST Ia.83.1, where he says that brute animals do not
+                        have freedom because they do not act by the judgement of reason. But
+                        humanbeingshavefreewill,becausetheyactbythejudgementofreason
+                        because it has the power for opposites.
+                             It is also proven by reason, for freedom of the will consists in being
+                        able to love and not to love an object once proposed as good. But it
+                        cannot do this as it pleases. Rather, it can only love it insofar as it ﬁnds
+                        some aspect of good and it can only not love it insofar as it ﬁnds some
+                        aspect of bad. Therefore, freedom consists in this, namely, that both
+                        aspects of good and of bad can be found in the same object.
+                             It is conﬁrmed: for if the intellect were to cognize some good in the
+                        love for which it could ﬁnd no aspect of bad, the will would not be able
+                        not to love it. Therefore.
+                             FrancisSylvesterofFerraraholdsthisviewinSCGIII,thelastchap-
+                        ter, as does Soncinas in Metaphysics IX, q. 14. And from this they infer
+                        that the will ought always to elect that which the intellect judges to be
+                        better and more agreeable, since it cannot reject something except be-
+                        cause it found in it some aspect of bad or of lesser good.
+                             Theirargumentseemstobethatthefreedomofthewilloughttobe
+                        within the latitude of its object, which is the good.
+                             But that way has a difﬁculty, for if this is true, the will is not more
+                        free than the intellect. For just as the intellect necessarily assents to the
+                        true, so also the will loves the good to which no bad is communicated.
+                        And just as the will can fail to love the good because it ﬁnds an aspect
+                        of bad, so also the intellect can fail to assent if the true does not appear
+                        certain but is mixed with falsity in a certain way.
+                             Furthermore, it follows that, absolutely speaking, the will is not
+                        free, for it always follows the judgement of the intellect and must elect
+                          28Disp. 10, q. 1, nn. 2–3.
+                           Suárez, DA disp. 12, q. 2                                             8
+                           whattheintellect judges to be better. But the intellect is not free. There-
+                           fore, neither is the will free.
+                                Furthermore, this opinion is soaked in the opinion of Durandus,
+                           which almost all theologians disprove, namely, that freedom is formally
+                           in the intellect. For insofar as freedom in the will arises from the indif-
+                           ference and freedom of the intellect’s judgement, freedom will be prior
+                           andmoreperfectintheintellect.
+                                Anotherwayofspeakingisthatthefreedomofthewillarisesfrom
+                           the intellect, yet not from its indifference but from its perfection and
+                           universality. For the intellect surpasses the other sensitive powers in this,
+                           namely, that it not just cognizes confusedly that this thing is agreeable,
+                           but that it distinctly perceives the aspect of agreeability, by separating
+                           it from all the other aspects with which it is conjoined and considering
+                           it insofar as it is desirable. And from this perfection of cognition arises
+                           the perfection in the desire of the will. For just as the intellect perceives
+                           in each thing how much goodness or badness it has, so the will can love
+                           it according to the goodness examined in it. And for this reason those
+                           things which appear good are not loved necessarily but freely. And all
+                           the particular things which occur in this life are of this sort. For partic-
+                           ular things are never apprehended as necessary [goods], either because
+                           happiness is not placed in that in which it should be placed, because it is
+                           not actually considered, or, at least, because numerically these acts and
+                                                                29
+                           this object are not deemed necessary.   From here, therefore, arises the
+                           freedomofthewill. Andthereforewhateverparticulargoodisproposed
+                           to the will, it can love the good for the sake of the goodness that it has
+                           andit can fail to love it because it is not deemed necessary for happiness,
+                           at least here and now.
+                                But it should be responded that it is one thing [not] to love and
+                           another to pursue hatred.30 Not to love implies freedom with respect to
+                           exercise. And it is not necessary to ﬁnd an aspect of bad in the object
+                           for this; rather, it is sufﬁcient not to ﬁnd a necessary aspect of good.31
+                           But for hatred it is necessary to ﬁnd some aspect of bad. And the ﬁrst
+                           view—whichshouldbeexplainedratherthanwhollyrepudiated—points
+                           in this direction.
+                                11. Fromallofthis,anaprioriargumentfortheconclusion: forthe
+                             29This sentence makes as little sense to me in the Latin as in this English version.
+                             30Latintextdoesnothavethenegation,butsenserequiresit(andCastellote’sSpanish
+                           translation includes it without comment).
+                             31This is an awkward way to say that it is sufﬁcient to fail to ﬁnd an aspect of good
+                           necessary for happiness; the point is not about whether the goodness is a necessary
+                           property of the object.
+            Suárez, DA disp. 12, q. 2    9
+            will follows the rational and discursive power. Therefore it is free. The
+            conclusionholdsbecausefreewillfollowsontheintellectandreason,for,
+            as is proven from what was said, the intellect apprehends the aspects of
+            good and bad and of each thing it judges by what aspect and way it is
+            desirable and good. Therefore, appetite, which follows such cognition,
+            will be able to love each cognized good by that aspect and way by which
+            it is desirable and therefore [it will be able to love] freely.
+              It is conﬁrmed: for desire follows cognition. Therefore, an appeti-
+            tive power in the highest grade follows the cognoscitive power existing
+            in the highest grade, and, therefore, freely. But the intellect is such a
+            poweramongthecognoscitivepowers;therefore,thewillamongappeti-
+            tive powers.
+              12. Whetherthewillandfreewillarereallydistinguished. Fromwhich
+            it is also proven that the will and freewill are the same in thing and na-
+            ture. They are distinguished just like intellect and reason. For just as
+            intellect is called intellect ﬁrst and absolutely, insofar as it understands
+            or insofar as it understands (intuetur) a thing, strictly speaking, but is
+            called reason insofar as it reasons discursively, so also the will is called
+            such either insofar as it wills or insofar as it tends in a simple way to the
+            end, but is called freewill insofar as it turns to means by free election.
+              13. In which acts or concerning which objects the will is free. But
+            concerning this conclusion we still need to explain in which acts and
+            concerning which objects the will is free. But this cannot be explained
+            without discussing multiple theological questions at the same time. And
+            for that reason I say brieﬂy that willing with respect to exercise is one
+            thing (it consists in being able to have an act and to cease from that act)
+            and willing with respect to speciﬁcation is another (it consists in being
+            able to have this act or its contrary, either love or hatred, or in being able
+            to love either this thing or its opposite).
+              I say, therefore, that the will is determined with respect to speci-
+            ﬁcation to the good and happiness in general, but not with respect to
+            exercise.
+              The ﬁrst part is proven: for no aspect of bad appears in happiness
+            or in the good in general so that the will could pursue hatred of it.
+              Thesecondpartisproven: for a love of this good or of happiness is
+            never offered in this life as strictly speaking necessary and therefore the
+            will is not necessitated to exercising it. On the other hand, the will is
+            not necessitated to any particular good in this life, neither with respect
+            to exercise (because one does not plainly and clearly see a complete and
+            necessary aspect of good in it) nor with respect to speciﬁcation (because
+            there is no good in this life which is not mixed up with bads and difﬁ-
+                        Suárez, DA disp. 12, q. 2                                      10
+                        culties). Hence, the will differs in this respect from the intellect, for the
+                        intellect is not free in itself with respect to exercise, but depends on the
+                        motion of the will, as was shown above.32 But with respect to speciﬁca-
+                        tion, if the object appears evidently true, the intellect is necessitated to
+                        assenting. But the will is not necessitated to loving something even if it
+                        appears evidently good. This is because the aspect of truth is only one
+                        in kind and so, if a thing has truth, all falsity is excluded. On the other
+                        hand, the aspect of goodness is not only one and so one goodness can
+                        be mixed up with other aspect of bad. After this life, however, if a hu-
+                        manbeing attains the vision of God, it will be necessitated to a love for
+                        Godbothwithrespect to exercise and with respect to speciﬁcation. For
+                        there no aspect of bad can be found, but always the most supreme and
+                        necessary aspect of good. But in all other acts the will is free, as much in
+                        election as in intention for the end, although in different ways. For con-
+                        cerning means it acts not only freely but with deliberation and counsel.
+                        But concerning the end it acts without deliberation. But about all these
+                        things one should talk about ST IaIIae, some of q. 1 and some of qq. 9,
+                        10, and 13.
+                             14. Response to the ﬁrst and second arguments. From here the so-
+                        lution to the ﬁrst and second arguments is proven. I respond that the
+                        same power which operates freely concerning some objects can operate
+                        naturally and necessarily concerning other objects. This is because it is a
+                        higher power and operates according to the exigency of the objects, just
+                        as the will of God necessarily loves his essence because that object is wor-
+                        thy of being loved that way but loves creatures freely because they are
+                        also worthy of being loved in this way. So also our will proportionately.
+                             15. Response to the third. How God concurs with our will. The third
+                        argument begs for a long treatise about the way in which God concurs
+                        withourwillinexercisingacts,naturalaswellassupernatural,whilepre-
+                        serving our will’s freedom. Many theologians speak about this matter,
+                        whichcanbeseeninST Ia.19, 22, and 23 and IaIIae.109. Nevertheless, I
+                        brieﬂy say, along with St. Thomas in the mentioned places as well as IaI-
+                        Iae.10.3, that since the will is free by its nature, God, since he is inﬁnite
+                        in wisdomandpower,adjustshimselftothecausesofthingsandconcurs
+                        with each one in that way which its nature requires. And thus he works
+                        withthewillwithoutnecessitating it but leaving it to determine itself to
+                        whatitwishedandofferingassistance and counsel to it.
+                             Therefore, I respond to the argument in form, that once everything
+                        required has been posited in the ﬁrst act, the will can issue and not issue
+                        a second act. For God, for his part, is prepared to concur with the will
+                          32Disp. 12, q. 1, n. 7.
+                            Suárez, DA disp. 12, q. 2                                                11
+                            for the act which it wishes to effect. It is in my power whether God
+                            concurs with me or does not concur. And therefore, there is freedom
+                            in election. Hence, when it is said that once the divine will is posited,
+                            the will cannot not act, it still carries through, nevertheless, that the will
+                            acts freely. For that proposition has a compound sense and only posits a
+                            conditional necessity.
+                                 16. Response to the fourth. I respond to the fourth argument that the
+                            will, when it acts, acts freely strictly speaking. And when it does not act,
+                            it freely does not act. For in that same instant in which it could act as
+                            far as it is concerned it could also not act. In order to understand this
+                            the will should be considered in that instant in which it elicits an act as
+                            a nature prior to the act itself. And this power as such freely determines
+                            itself to eliciting this act. And after it is already understood under the
+                            act, it necessarily is under that act which then is, because the composite
+                            has been made. And that is only the necessity of the consequence rather
+                            than the necessity of the consequent, since with that the freedom stands
+                                              33
+                            strictly speaking.   This argument is discussed more extensively in ST
+                            Ia.14.13 and 19.7. And in this way freedom also remains.
+                                 17. Response to the ﬁfth. [I respond to] the ﬁfth argument: for God
+                            doesnotknowmyfreeactsexceptinsofarastheyareinsomewaypresent
+                            to his eternity. And in that way he knows them to be future, as they are,
+                            andhisknowledgedoesnotimplynecessityexceptconditionally.
+                                 18. Response to the sixth. The sixth argument introduces another
+                            difﬁculty: in what way the heavens have dominion over the operations
+                            of our will. Concerning this matter, [see] ST IaIIae.9.5. But this is not
+                            the place for discussing it in its entirety. Nevertheless, I say brieﬂy that
+                            the heavens have an inﬂuence over the bodies of human being and over
+                            all corporeal powers, which intrinsically in their dispositions depend on
+                            thedispositionsofthebodies. But,ontheotherhand,theheavensdonot
+                            directly have an inﬂuence or dominion over the acts of the intellect and
+                            will. For these powers are spiritual and of a higher order, for although
+                            oursoulistheformofthebodyit,nevertheless,isnotwhollyimmersed
+                            inthebodybutisraisedfromthebodyinsomeofitsacts. Indirectlyand,
+                            as it were, by consequence, insofar as reason follows sense and will fol-
+                            lows appetite, the heavens, inﬂuencing these material powers, indirectly
+                            and, as it were, by consequence, draw the will, not directly but by inclin-
+                            ing it. Nevertheless, the will can through its freedom resist the inﬂuence
+                              33Take a sentence of the form ‘if p, then p’. The sentence is necessarily true, but the
+                            necessity attaches to the entire conditional (i.e., consequence), rather than to the conse-
+                            quent. In other words, it is ‘necessarily(if p, then p)’ rather than ‘if p, then necessarily
+                            p’.
+                           Suárez, DA disp. 12, q. 2                                              12
+                           of the heavens and have dominion over it. As it is said: ‘A wise person
+                                                              34
+                           will have dominion over the stars’.
+                                19. In response to the seventh argument, so that we may oppose
+                           the impiety of Luther’s assertion that the concupiscence of the sensitive
+                           appetite is always a mortal sin and the will is always necessitated by the
+                           disordering of the appetite that remains after sin. But the theologians
+                           provokethis and therefore it should be said brieﬂy that appetite and will
+                           are two distinct powers following different cognitions. And for this rea-
+                           son they are inclined to different things. And one draws the other after
+                           itself not by necessitating the other power but by inclining it in some
+                           way. Nor is it repugnant that the same soul desire contraries through
+                           different powers, especially if it constrains the inclination of one power
+                           through the other power. Concerning this matter, see ST IaIIae.9.2.
+                                20. The eighth argument raises another difﬁculty, namely, whether
+                           God necessitates or compels the will. Concerning this matter, [see]
+                                                                 35
+                           St. Thomas, ST Ia.89.1 and IaIIae.6.4.   I answer brieﬂy—for it is a theo-
+                           logical matter—that although the will of itself is free, it can, nevertheless,
+                           be necessitated by God, for ‘the heart of the king is in the hand of God
+                                                                     36
+                           and he can turn it wherever he wishes’.      For God is omnipotent and
+                           has dominion over the will. Nor is what is brought up in the argument
+                           similar. For a thing which operates necessarily is material and of a lower
+                           order and for that reason it is incapable of freedom of itself by its own
+                           nature. For that reason, freedom cannot be conferred on it by God, for
+                           freedom has to be from something intrinsic. For freedom expresses a
+                           certain intrinsic dominion over one’s own acts and for that reason it in
+                           unintelligible that freedom be attributed to something by an extrinsic
+                           thing. But, on the other hand, necessity is from something extrinsic and
+                           therefore God can impose necessity on a thing that is free according to
+                           its own nature. Nevertheless, God cannot impose violence on the will.
+                           Forviolenceexpresswhatiscontrarytothewillandinclination. Butthe
+                           will cannot will something contrary to its own willing, for by the fact
+                           that it wills, it already has a willing and inclination to that. And for that
+                           reason compulsion in the will implies a contradiction. But there is more
+                           to be said about these matters in their places.
+                              34This quotation appears to have been popular in seventeenth-century Spain and can
+                           be traced back to Ptolemy. See Herbert W. Greene, ‘ “Sapiens Dominabitur Astris”
+                           ’, Notes and Queries s12-IX, no. 193 (1921): 509, and Edward Bensly, ‘ “Sapiens Dom-
+                           inabitur Astris” ’, Notes and Queries s12-X, no. 195 (1922): 12–13.
+                              35Cf. IaIIae.10.4.
+                              36Proverbs 21:1.
+              Suárez, DA disp. 12, q. 2            13
+                        DEANIMALIB.V,CAP.8
+                         (AS FOUND IN VIVÈS EDITION)
+                  WHETHERTHEWILLISAFREEPOWERINALLITSACTS.
+                 Weomitted this whole chapter that was in the autograph, because
+              [the subject] is discussed more extensively in the De gratia, tom. I, pro-
+              leg. 1, and in Disputatio metaphysica XIX, from sect. 2 onwards. Also
+              because not just a few of the arguments can be seen as the same as in the
+              fourthOpusculum, De libertate divinae voluntatis.
+                 But one might ask for more about whether the rational appetite or
+              will is a species of the lowest level or whether instead it is distinguished
+              into different species in human beings and in angels. Recent theologians
+              dispute about this question in ST Ia.59.1, where Cumelius [discusses it].
+              Franciscus de Herrera also discusses it in Sent. II, dist. 13, q. 1, as well as
+              the present author himself in De angelis III, cap. 1. Secondly, one might
+              askwhetherthewillorrationalappetiteisdistinguishedinhumanbeings
+              into concupiscible and irascible just as the sensitive appetite is usually
+              distinguished by many. Aboutthismatter,oneshouldseethepresentau-
+              thor in De angelis III, cap. 1, after Scotus and Gabriel in Sent. III, dist. 26
+              and34,andHenryofGhent,Quodlibet8,q.15.

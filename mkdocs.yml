@@ -1,0 +1,24 @@
+site_name: Seminar SS 2020 Comp.Phil.Hist.Science
+nav:
+  - Introduction: index.md
+  - Projekte:
+      Aztekten: .md
+theme:
+  name: material
+  font: Roboto
+  language: en
+  palette:
+    primary: teal
+    accent: "deep orange"
+extra_css:
+    - 'stylesheets/extra.css'
+markdown_extensions:
+  - footnotes
+plugins:
+  - search
+  - mknotebooks
+  - mkdocstrings
+  - bibtex:
+      bib_file:  "seminar.bib"
+      cite_style:  "pandoc"
+      csl_file: "chicago.csl"
