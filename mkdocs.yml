@@ -1,7 +1,11 @@
 site_name: Seminar SS 2020 Comp.Phil.Hist.Science
 nav:
   - Projekte:
-      Aztekten: aztec_classification_of_butterflies/FlorentineCodexButterflies.md
+      Aztekten: 
+	Text: aztec_classification_of_butterflies/FlorentineCodexButterflies.md
+	Notebook: aztec_classification_of_butterflies/papalotlFlorentineCodex.md
+	
+		
 theme:
   name: readthedocs
   font: Roboto
