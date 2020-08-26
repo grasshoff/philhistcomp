@@ -6,6 +6,10 @@ theme:
   name: readthedocs
   font: Roboto
   language: en
+  highlightjs: true
+  hljs_languages:
+     - python
+     - yaml
   palette:
     primary: teal
     accent: "deep orange"
