@@ -2,8 +2,7 @@
 \tableofcontents
 
 # Background
-This research question refers to ongoing publications on corona research and might change in due course.
-In the public debate about early therapies concerning COVID-19 all sorts of drugs beside vacines played a prominent role. It is scientifically established that it is not directly affecting the virus. This study aims to analyse the methodological issues of the dynamics of scientific understanding of the causal effects that the drug creates according to the global set of scientific publications on remdesivir
+This research question refers to ongoing publications on corona research and might change in due course. In the public debate about early therapies concerning COVID-19 all sorts of drugs beside vacines played a prominent role. It is scientifically established that it is not directly affecting the virus. This study aims to analyse the methodological issues of the dynamics of scientific understanding of the causal effects that the drug creates according to the global set of scientific publications on remdesivir
 
 ## Press Conference on Remdesivir at 29th April 2020
 [CNN White House Press confernce](https://edition.cnn.com/2020/04/29/health/gilead-sciences-remdesivir-covid-19-treatment/index.html)

@@ -1,0 +1,28 @@
+site_name: Seminar SS 2020 Comp.Phil.Hist.Science
+nav:
+  - Projekte:
+      Aztekten:
+        Text: aztec_classification_of_butterflies/FlorentineCodexButterflies.md
+        Notebook: aztec_classification_of_butterflies/papalotlFlorentineCodex.md
+theme:
+  name: readthedocs
+  font: Roboto
+  language: en
+  highlightjs: true
+  hljs_languages:
+     - python
+     - yaml
+  palette:
+    primary: teal
+    accent: "deep orange"
+extra_css:
+    - 'stylesheets/extra.css'
+markdown_extensions:
+  - footnotes
+plugins:
+  - search
+  - mkdocstrings
+  - bibtex:
+      bib_file:  "seminar.bib"
+      cite_style:  "pandoc"
+      csl_file: "chicago.csl"

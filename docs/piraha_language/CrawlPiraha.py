@@ -10,7 +10,7 @@ ff = io.open(file_to_open, 'r', encoding='utf-8')
 nlp = spacy.load("en_core_web_sm")
 matcher = Matcher(nlp.vocab)
 
-patterns = [[{"LOWER": "two"}], [{"LOWER": "one"}], [{"LOWER": "is"}], [{"LOWER": "plus"}]]
+patterns = [ [{"LOWER": "one"}], [{"LOWER": "is"}]]
 
 doc = nlp(ff.read())
 for pattern in patterns:
