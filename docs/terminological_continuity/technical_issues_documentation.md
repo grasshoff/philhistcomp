@@ -2,14 +2,14 @@
 
 1. **OCR-preparation: image2pdf**
 
-  1. for now two versions (i.e. notebooks), one in which automated renaming of output files (images) works, one in which output is directly saved to designated folder. Desired result: both correct naming and saved in designated folder
+   1. for now two versions (i.e. notebooks), one in which automated renaming of output files (images) works, one in which output is directly saved to designated folder. Desired result: both correct naming and saved in designated folder
 
 
 2. **OCR: Tesseract**
 
-  1. choosing right *page segmentation mode* for double pages (book format) if necessary
-  2. OCR works fine for main text but problems with footnotes/footers/headers. Possible solution: eliminating sentences containing words with low word confidence (e.g. less than 50%), hence footnotes will not be taken into account in subsequent NLP (prodigy, spacy)
-  3. try out Latin model for OCR
+   1. choosing right *page segmentation mode* for double pages (book format) if necessary
+   2. OCR works fine for main text but problems with footnotes/footers/headers. Possible solution: eliminating sentences containing words with low word confidence (e.g. less than 50%), hence footnotes will not be taken into account in subsequent NLP (prodigy, spacy)
+   3. try out Latin model for OCR
 
 
 3. **specialised NER-model: Prodigy**
