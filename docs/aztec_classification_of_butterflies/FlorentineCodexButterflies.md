@@ -22,7 +22,7 @@ Sahagún organized the work in two columns: on the right is the original text in
 
 1. Tlilpapalotl (black-butterfly)
 2. Tlecôzpapalotl (will-go-up-butterfly)
-3. Iztacpapalotl (white-butterfly)
+3. Iztapapalotl (white-butterfly)
 4. Chianpapalotl (chia-seeds-butterfly)
 5. Xicalpapalotl (gourd-butterfly)
 6. Texopapalotl (blue-butterfly)
