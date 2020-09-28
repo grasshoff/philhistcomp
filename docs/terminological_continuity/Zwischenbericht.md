@@ -148,7 +148,7 @@ After a short summer break, I will turn to the actual elaboration of my project 
 
 The following challenges, concerns, and questions are still to be resolved over the next weeks and months:
 
-  * I have not yet found all the relevant writings in txt-format (esp. Ockham) and in one coherent language (presumably Latin). Thus, I will probably spend some time on looking for those texts on the internet (suggestions for archives and/or digital databases are very welcome!). *Possible solution*: (i) scan original Latin texts and/or English translations, (ii) extract text from images/pdfs using OCR-software (Tesseract)  
+  * I have not yet found all the relevant writings in txt-format (esp. Ockham) and in one coherent language (presumably Latin). Thus, I will probably spend some time on looking for those texts on the internet (suggestions for archives and/or digital databases are very welcome!). *Possible solution*: (i) scan original Latin texts and/or English translations, (ii) extract text from images/pdfs using OCR-software (Tesseract)
   * although I do have basic knowledge of Latin, it might well exceed my capacities to manually train a Latin model for named entity recognition. For this taks, I might thus need some external help
   * if the main project uses the original Latin texts, does it still make sense to train an English model for the specialised NER?
   * for final comparison: what does it means for a degree of semantic similarity to be *significantly higher* than another?
@@ -191,3 +191,14 @@ The following challenges, concerns, and questions are still to be resolved over 
       - Engl. transl.: Kronen & Reedy, Selections from De Anima (Disp. 1 & Disp. 2, Q. 3), Philosophia Verlag, *not* available for free as pdf/txt
     * Disputationes Metaphysicae (DM, esp. Part 12.2 & 18.5)
     * De actibus qui vocantur passiones (esp. I.3)
+
+
+5. **John Kronen's suggestions for additional literature**
+
+    * Étienne Gilson (arguing for different kind of influence on Descartes, namely that of Suárez; if there really is a tension between Perler's and Gilson's accounts, then this would make my investigation even more interesting - as the outcome of my analysis could either point into Perler's *or* Gilson's direction)
+    * Wells, Norman J. (also on Suárez' influence on Descartes)
+       * "Objective Being: Descartes and His Sources,"  Modern Schoolman  45  (1969), 49-61.
+       * "Suarez on the Eternal Truths, I and II," The Modern Schoolman 58  (1980-81), 73-104, 159-174.
+       * "Material Falsity in Descartes, Arnauld, and Suárez," Journal of the History of Philosophy 22  (1984), 25-50.
+       * "Descartes' Idea and its Sources," American Catholic Philosophical Quarterly 67 (1993), 513-535.
+    * Dennis Des Chene (see Intro to *Selections from De Anima*)
