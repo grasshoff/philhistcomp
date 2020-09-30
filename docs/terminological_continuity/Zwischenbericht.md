@@ -11,7 +11,7 @@ As a consequence, this assumption gives rise to a much more continuous, and thus
 
 ## The Idea
 
-The present investigation aims at re-evaluating the role of Descartes' work in the transition from scholasticism to modern philosophy by applying computational means to the field of the history of ideas. To do so, texts from Descartes, Ockham and Suárez are going to be compared with respect to their degree of conceptual similarity, i.e. the way certain philosophical key concepts are characterised throughout their writings, in particular (but maybe not exlusively) the concept of faculty and/or soul. The analysis thus amounts to an empirical verification of Perler's argument according to which Descartes' thinking is still heavily influenced by the scholastic tradition - a claim that ultimately casts doubt on the dominant view of the French philosopher as the founding father of modern philosophy.
+The present investigation aims at re-evaluating the role of Descartes' work in the transition from scholasticism to modern philosophy by applying computational means to the field of the history of ideas. To do so, texts from Descartes, Ockham and Suárez are going to be compared with respect to their degree of conceptual similarity, i.e. the way certain philosophical key concepts are characterised throughout their writings, in particular (but maybe not exlusively) the concept of faculty and/or soul (clear dist. between theory of soul and theory of mind?). The analysis thus amounts to an empirical verification of Perler's argument according to which Descartes' thinking is still heavily influenced by the scholastic tradition - a claim that ultimately casts doubt on the dominant view of the French philosopher as the founding father of modern philosophy.
 
 
 But the historical line drawn between medieval and early modern philosophy is only one example of the historians' tendency to divide the continuous development of philosophical thinking into distinct periods, each of them having a definite beginning and ending. The present investigation on the yet unexplored potential of what current advancements in the field of natural language processing can contribute to historical questions in philosophy is thus at the same time intended to provide a new method which offers a novel perspective on the history of ideas. Hence, future research could apply the method developed in here to other distinctions in the history of philosophy and thereby contribute to the emergence of a (fairly?) new field of research at the intersection of philosophy and computer science, i.e. to a computational approach to the history of philosophy.
@@ -30,8 +30,9 @@ With respect to the distinction between medieval and early modern philosophy, th
 1. **Preparation 1 (before importing the txt-files into Jupyter Notebook)**
 
     1. find all the relevant writings in txt-format and in one coherent language (already done except for Ockham, probably in Latin as most parts of the writings haven't been translated into English yet. I will thus use the spaCy model for Latin, whose efficiency is uncertain.)
-    2. merge all the relevant writings of the three authors, i.e. create 3 big txt-files, one for each author, containing all the relevant raw data: Descartes.txt, Suarez.txt, Ockham.txt
-    3. clean up the txt-files: page numbers, footnotes, words sticking together etc. (ideally: write or find an algorithm to do the job for me)
+    2. if source = pdf/scan, use tesseract to obtain txt-file. also consider some (manual) pre-processing (either before using tesseract or as part of step 4 below): cut out cover page, foreword/intro/epilogue (if not written by author in question), index, etc. Special treatment for 'dialogues' (such as objection-and-response section in Descartes' Meditations, or Plato's socratic dialogues): only take into account responses, i.e. those parts of the dialogue which express the view of the author. Another problematic 'style' requiring special treatment: citations (a kind of 'Fremdautorenzuschreibung' which cannot be identified without context)
+    3. merge all the relevant writings of the three authors, i.e. create 3 big txt-files, one for each author, containing all the relevant raw data: Descartes.txt, Suarez.txt, Ockham.txt
+    4. clean up the txt-files: page numbers, footnotes, words sticking together etc. (ideally: write or find an algorithm to do the job for me)
 
 
 2. **Preparation 2 (in Jupyter Notebook)**
@@ -47,7 +48,7 @@ With respect to the distinction between medieval and early modern philosophy, th
 
 3. **Preparatory Analysis**
 
-    1. use SpaCy Matcher to define pattern = [{"LEMMA" : "soul" *and/or* "faculty"}]
+    1. use SpaCy Matcher to define pattern = [{"LEMMA" : "soul" *and/or* "faculty"}]. What about key concept of "mind"? Clear diff. between theories of soul and theories of mind? Also a problem of translation? Important to mention this in my paper (whether or not I have decided to also take into account term "mind")!
     2. use Prodigy to train/improve model for  coreference relationships in order to detect implicit references to the terms in question
     3. apply steps 3.1 and 3.2 to doc_Descartes, doc_Suarez, and doc_Ockham (i.e. identify all explicit and implicit references to concept(s) in question)
     4. create dataframe_B with 4 columns for each author, i.e. 12 columns in total (creation of dataframe requires several steps, maybe divide into 2 separate dataframes, one for spans and sentence number, one for sentence number and corresponding sentence):
@@ -190,6 +191,7 @@ The following challenges, concerns, and questions are still to be resolved over 
 
     * De Anima (DA, esp. Parts I & II)
       - Engl. transl.: Kronen & Reedy, Selections from De Anima (Disp. 1 & Disp. 2, Q. 3), Philosophia Verlag, *not* available for free as pdf/txt
+      - Sydney Penner's (2011) Engl. transl. of Suárez' De Anima, Disputation 12, Question 2 (10 occurences of term 'soul'; however, translation probably not consistent with Kronen & Reedy's transl., thus only use if desperately in need of more examples)
     * Disputationes Metaphysicae (DM, esp. Part 12.2 & 18.5)
     * De actibus qui vocantur passiones (esp. I.3)
 
