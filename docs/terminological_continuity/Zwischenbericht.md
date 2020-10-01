@@ -157,6 +157,7 @@ The following challenges, concerns, and questions are still to be resolved over 
   * improve the chain of operations in the different Notebooks, i.e. 'automatise' the operations which, for now, I carried out manually
   * alternatively to defining the different patterns as named entities, I could also define them as text classifications (i.e. an alternative way to train models using Prodigy). Or even do both. I still have to look into this in more detail
   * figure out how to deal with implicit references: train a model for coreference relationships
+  * the method, as conceived at present, presupposes that every author (philosopher) in question defends *one consistent* theoretical position throughout all of his works (or at least in all the works that are taken into account for the analysis). However, this is usually not the case: people change their view. Two solutions: (i) only take into account those writings of which one knows that they are in line with a certain position held by the author at a particular moment in his lifetime. (ii) possibility of applying method developed in here (comparison of different phil. eras/trad.) to comparison of different 'stages' in a philosopher's thinking, i.e. move method from broad historical level to individual level
 
 
 
@@ -168,32 +169,48 @@ The following challenges, concerns, and questions are still to be resolved over 
 
     * Dominik Perler, "What are Faculties of the Soul? Descartes and his Scholastic Background", in: John Marenbon, *Continuity and Innovation in Medieval and Modern Philosophy: Knowledge, Mind and Language*, Oxford, OUP, 2013.
 
-    * Dominik Perler, "Classifying the Passions:	Descartes	and	His	Scholastic	Background",	in: Belgioioso & Carraud (eds.), *Les	passions	de l’âme*, Turnhout: Brepols	(forthcoming, maybe I can get a copy of the draft, if not, then the first reference should still be enough).
+    * Dominik Perler, "Classifying the Passions:	Descartes	and	His	Scholastic	Background",	in: Belgioioso & Carraud (eds.), *Les	passions	de l’âme*, Turnhout: Brepols	(the first ref. is enough, but could serve as suggestion/inspiration for future research!).
 
 
 2. **René Descartes**
 
     * Meditationes de prima philosophia (esp. Med. IV & VI)
+      - pdf of Engl. transl.
     * The Passions of the Soul (esp. Part I & II)
+      - pdf of Engl. transl.
     * Principia Philosophiae (esp. Part I)
+      - pdf of Engl. transl.
     * La Recherche de la Vérité (esp. Eluc. X)
+      - pdf of Engl. transl.
 
 
 3. **William of Ockham**
 
-    * Quodlibeta Septem (esp. Part I & II, i.e. OT 9)
-      - Engl. Transl.: Fredosso & Kelley, Quodlibeta Questions, Yales Uni. Press, *not* available for free as pdf/txt
+    * Quodlibetal Septem (esp. Part I & II, i.e. OT 9)
+      - Engl. Transl.: Fredosso & Kelley, Quodlibeta Questions, Yales Uni. Press, *not* available for free as pdf/txt (waiting for answer from YUP, otherwise: OCR relevant passages)
     * Ordinatio (esp. Part I, i.e. OT 1)
+      - list of Engl. transl. of Ockham's writings (incl. those of Reportatio and Ordinatio listed below) found in Intro to *Cambridge Compaion to Ockham* (published 2006, thus not up to date!)  
+      - Boehner, 1990, 18-25, (from I.Prol.i); found in: Boehner (ed., 1964) Ockham's Philosophical Writings (also check for other relevant Engl. translations!)
     * Reportatio (esp. Part II & IV, i.e. OT 5 & 7)
+      - Hyman & Walsh, 1983, 670-9 (from II.12-13), 689 (from III.4); (maybe) found in Walsh & Hyman (2010) Philosophy in the Middle Ages
 
 
 4. **Francisco Suárez**
 
     * De Anima (DA, esp. Parts I & II)
-      - Engl. transl.: Kronen & Reedy, Selections from De Anima (Disp. 1 & Disp. 2, Q. 3), Philosophia Verlag, *not* available for free as pdf/txt
-      - Sydney Penner's (2011) Engl. transl. of Suárez' De Anima, Disputation 12, Question 2 (10 occurences of term 'soul'; however, translation probably not consistent with Kronen & Reedy's transl., thus only use if desperately in need of more examples)
+      - Engl. transl.: Kronen & Reedy, Selections from De Anima (Disp. 1 & Disp. 2, Q. 3), Philosophia Verlag, *not* available for free as pdf/txt (obtained, 600-800 occ.)
+      - Sydney Penner's (2011, *not revised*) Engl. transl. of Suárez' De Anima, Disputation 12, Question 2 (10 occurences of term 'soul'; however, translation probably not consistent with Kronen & Reedy's transl., thus only use if desperately in need of more examples)
     * Disputationes Metaphysicae (DM, esp. Part 12.2 & 18.5)
+      - Sydney Penner's Engl. transl. of selected passages, some revised (sections of DM8, 10, 12, 13, 23, 24, 30, 32, 48), some unrevised (20 occ. of term soul in his revised transl.)
+      - Kronen & Reedy's transl. of DM15: On the formal cause of substance, Marquette Uni. Press (obtained, 300 occ. of soul)
+      - Vollert's transl. of DM7: On the various kinds of distinctions, Marquette Uni. Press (obtained, 6 occ. of soul)
+      - Wells' Engl. transl. of DM31: On the essence of finite being as such, and the existence of that essence and their distinction, Marquette Uni. Press (obtained, 70 occ. of  soul)
+      - Dolye's Engl. transl. of DM47: On real relation, Marquette Uni Press (obtained, 5 occ.)
+      - Ross' Engl. transl. of DM6: On formal and universal unity, Marqutte Uni. Press (not yet obtained)
+      - Freddoso's Engl. transl. of DM17-19: On efficient causality, Yale Uni. Press (not yet obtained)
     * De actibus qui vocantur passiones (esp. I.3)
+      - not yet found an Engl. transl.
+
 
 
 5. **John Kronen's suggestions for additional literature**
