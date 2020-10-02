@@ -187,12 +187,16 @@ The following challenges, concerns, and questions are still to be resolved over 
 3. **William of Ockham**
 
     * Quodlibetal Septem (esp. Part I & II, i.e. OT 9)
-      - Engl. Transl.: Fredosso & Kelley, Quodlibeta Questions, Yales Uni. Press, *not* available for free as pdf/txt (waiting for answer from YUP, otherwise: OCR relevant passages)
+      - Engl. Transl.: Fredosso & Kelley, Quodlibeta Questions, Yales Uni. Press, *not* available for free as pdf/txt (waiting for answer from YUP, otherwise: OCR relevant passages acc.to index entry on term soul)
     * Ordinatio (esp. Part I, i.e. OT 1)
-      - list of Engl. transl. of Ockham's writings (incl. those of Reportatio and Ordinatio listed below) found in Intro to *Cambridge Compaion to Ockham* (published 2006, thus not up to date!)  
-      - Boehner, 1990, 18-25, (from I.Prol.i); found in: Boehner (ed., 1964) Ockham's Philosophical Writings (also check for other relevant Engl. translations!)
+      - Engl. transl. of Ordinatio: Prologue, dist.2,q.9, dist.11,q.8,  dist.38, in Boehner (1964) Ockham's Phil. Writings, Hackett Publishing (obtained)
+      - Engl. transl. of Ordinatio: dist.2,q5&6, dist.30,q.1, in Walsh & Hyman (eds., 2010) Philosophy in the Middle Ages, Hackett Publishing (obtained)
+      - Engl. tranls. of Ordinatio: dist.2, q.4-8, in Spade (1994) Five texts on the medieval problem of universals, Hackett Publishing
     * Reportatio (esp. Part II & IV, i.e. OT 5 & 7)
-      - Hyman & Walsh, 1983, 670-9 (from II.12-13), 689 (from III.4); (maybe) found in Walsh & Hyman (2010) Philosophy in the Middle Ages
+      - Engl. tranls. of Reportation (III): q.8&9, in Boehner (1964) Ockham's Phil. Writings, Hackett Publishing (obtained)
+      - Engl. transl. of Reportatio (II): q.12&13, in Walsh & Hyman (eds., 2010) Philosophy in the Middle Ages, Hackett Publishing (obtained)
+    * (those are, to the best of my knowledge, all the sections of Ockham's writings that have been translated into English (up to this day) and that are relevant for my research question (i.e. sections in which Ockham (potentially) discusses questions concerning the soul and its faculites; I did not include Engl. transl. of O's Summa Logicae in spite of numerous occ. of term soul because those rather concern logical questions and/or serve as examples). Search primarily based on SEP (footnotes), Intro to Cambridge Companion to Ockham (list of Engl. transl.), several other bib-entries of books on Ockham containing lists of Engl. transl., and Google. In Hausarbeit, maybe discuss problem/challenge of 'pre-selection' of writings of a particular author: not *all* occ. of a certain concept/term are relevant or even appropriate for analysing a specific research question) 
+
 
 
 4. **Francisco Suárez**
