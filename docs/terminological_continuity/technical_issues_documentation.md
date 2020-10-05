@@ -12,6 +12,8 @@
    3. processing multipe double pages at once, i.e. processing all images in one directory (see test 5: 5.1 vs 5.2 vs 5.3)
    4. try out Latin model for OCR (even if it works, keep in mind further obstacles for subsequent NLP-analysis: SpaCy model for English probably much more powerful than Latin model; one *possible* problem:  SpaCy Matcher to define pattern = [{"LEMMA" : "soul" and/or "faculty"}] much more complex for Latin than for English!)
    5. wrt original Latin texts: (a) research on Internet (one last time) for Latin texts in txt-format or as "searchable pdf", (b) if OCR works for Latin, download pdf-versions of scanned books available at various online archives (instead of scanning them by myself)
+   6. post-processing: one coherent txt-file (ocr'ed output of individual images merged into one file), get rid of footnotes/headers, sent. with low confidence, page numbers etc.
+   7. pre-processing (?): (i) for pdfs: cut intro, toc, index etc.; (ii) for doc (De Anima): in add. to (i), also cut footnotes, page numbers etc. For both (i) and (ii): pre-processing manual or automatic?
 
 
 3. **specialised NER-model: Prodigy**
