@@ -1,19 +1,21 @@
 ## A Computational Approach to the History of Philosophical Ideas - Documentation of Technical Issues (to be solved later on)
 
-1. **OCR-preparation: image2pdf**
+1. **OCR-preparation**
 
    1. for now two versions (i.e. notebooks), one in which automated renaming of output files (images) works, one in which output is directly saved to designated folder. Desired result: both correct naming and saved in designated folder
+   2. pre-editing: cut irrelevant material (i.e. entire pages: (i) for pdfs: cut intro, toc, index etc.; (ii) for doc (De Anima): in add. to (i), also cut footnotes, page numbers etc.), for now by using pdf24 (external, manual). Easier with Python? I guess there is no way of 'automising' this preliminary step (as different books come with different kinds/amounts of additional material)?
 
 
 2. **OCR: Tesseract**
 
-   1. choosing right *page segmentation mode* for double pages (book format) if necessary. result: psm=1 not more accurate and even a bit slower than psm=default (repeat comparison on bigger sample to verify results)
-   2. OCR works fine for main text but problems with footnotes/footers/headers. Possible solution: eliminating sentences containing words with low word confidence (e.g. less than 50%), hence footnotes will not be taken into account in subsequent NLP (prodigy, spacy). Desired result: get one coherent txt-file containing text from all images (excluding sentences with low word confidence, e.g. footnotes) in correct order, thus ready for subsequent NLP. problem: how to (automatically) identify footnotes if number of fn (e.g. footnote "20") is not always ocr'ed as such? (but, e.g., as special character). Eliminating *all* sentences with low word confidence = risk of eliminating important sentences...
-   3. processing multipe double pages at once, i.e. processing all images in one directory (see test 5: 5.1 vs 5.2 vs 5.3)
-   4. try out Latin model for OCR (even if it works, keep in mind further obstacles for subsequent NLP-analysis: SpaCy model for English probably much more powerful than Latin model; one *possible* problem:  SpaCy Matcher to define pattern = [{"LEMMA" : "soul" and/or "faculty"}] much more complex for Latin than for English!)
-   5. wrt original Latin texts: (a) research on Internet (one last time) for Latin texts in txt-format or as "searchable pdf", (b) if OCR works for Latin, download pdf-versions of scanned books available at various online archives (instead of scanning them by myself)
-   6. post-processing: one coherent txt-file (ocr'ed output of individual images merged into one file), get rid of footnotes/headers, sent. with low confidence, page numbers etc.
-   7. pre-processing (?): (i) for pdfs: cut intro, toc, index etc.; (ii) for doc (De Anima): in add. to (i), also cut footnotes, page numbers etc. For both (i) and (ii): pre-processing manual or automatic?
+   1. *page segmentation mode* for double pages (book format)? psm=1 vs psm=3 (default). result: psm=1 not more accurate and even a bit slower than psm=default (repeat comparison on bigger sample to verify results)
+   2. OCR works fine for main text but problems with footnotes/footers/headers. Possible solution: eliminating sentences containing words with low word confidence (e.g. less than 50%), hence footnotes will not be taken into account in subsequent NLP (prodigy, spacy).
+    - Desired result of 'post-editing': get one coherent txt-file  containing text from all images in correct order (i.e. ocr'ed output of individual images merged into one txt-file, excluding sentences with low word confidence, i.e. get rid of footnotes, headers, page numbers etc.), thus ready for subsequent NLP.
+    - Problem: how to (automatically) identify footnotes if number of fn (e.g. footnote "20") is not always ocr'ed as such? (but, e.g., as special character). Eliminating *all* sentences with low word confidence = risk of eliminating important sentences...
+    - try to come up with a different soulution (solely relying on elimination of sentences with low word confidence seems problematic..)
+
 
 
 3. **specialised NER-model: Prodigy**
+
+   1. how to pick all sentences in which SpaCy identified occurence of term soul and enumerate them in a txt-file *and/or* how to (automatically) create jsonl-file containing all of those sentences and relevant metadata (as example, see file "prodigy_input_data_sample.jsonl")
