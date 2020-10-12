@@ -12,7 +12,7 @@ The mainstream celebration of nurses has, however, also provoked hatred and frus
 
 The observations sketched above give rise to multiple questions. Why is the figure of a female hero so negatively received in certain online sub-discourses? Are such misogynist attitudes augmented in the context of a pandemic? The covid-19 virus is a source of global fear and instability. Thus, there is reason to believe that the hatred against female nurses is partly nurtured by a notion of powerlessness and a fear of transforming power relations. There is indeed a connection between the caring provided by nurses and the notion of power. If somebody has the skills and knowledge to improve or save your life it may give rise to a strong feeling of dependence.[^1] In the current situation the world's societies are absolutely dependent on medical workers, both for health and financial reasons. In other words, the pandemic has emphasized the necessity of nurses and the fact that their profession is crucial in a time of crisis.  
 
-There is an obvious conflict between nurses framed as crucial, courageous and powerful professionals and the more stereotypical image of nurses. Female nurses have always been subject to stereotyping and prejudice, especially in cinema and pornography. They have, amongst other, been framed as less intelligent, angle-like or as sex symbols.[^2] Are the strong reactions in the sub-discourse on 4chan a consequence of a long-lived stereotype threatened by more powerful and heroic narratives? This important question cannot be answered before the portrayal of female nurses on 4chan has been properly analyzed. In that sense, this project is only the beginning of a much larger endeavor. The project aims at exploring which attributes are used to describe female nurses on 4chan and how such attributes contribute to a negative construction of female nurses as non-heroes. Additionally, it seeks to identified, how female nurses are classified in different ways. Hopefully the result of this analysis can be utilized in future projects that examine the relation between misogynist nurse hatred and transforming power relations. 
+There is an obvious conflict between nurses framed as crucial, courageous and powerful professionals and the more stereotypical image of nurses. Female nurses have always been subject to stereotyping and prejudice, especially in cinema and pornography. They have, amongst other, been framed as less intelligent, angle-like or as sex symbols.[^2] Are the strong reactions in the sub-discourse on 4chan a consequence of a long-lived stereotype threatened by more powerful and heroic narratives? This important question cannot be answered before the portrayal of female nurses on 4chan has been properly analyzed. In that sense, this project is only the beginning of a much larger endeavor. The project aims at exploring which attributes are used to describe female nurses on 4chan and how such attributes contribute to a negative construction of female nurses as non-heroes. Additionally, it seeks to identify how female nurses are classified in different ways. Hopefully the result of this analysis can be utilized in future projects that examine the relation between misogynist nurse hatred and transforming power relations. 
 
 ----
 
@@ -48,23 +48,31 @@ I then printed the beginning of all 116 posts in order to search for representat
 
 #### 3. Example analysis 
 
-##### Example A: 
+##### Thread A: Gene pool/stay home mother 
 
 "Most women whom work at hospitals with any job are feminen, nuturing, of decent intellect (for a woman) and lonely (to the point of suicide). Their genes are valuable european genes that we should replicate. We need to snatch nurses for our european loyalist gene pool and turn them in to stay at home mums for >4 children so that they dont work for the state, we collapse the welfare state, produce white babies and prevent the nurse from dealing with negroes and other abominations STDs and can opener accidents. #pumpanurse"
 
 This post is dense with attributions and assumptions. As can already be observed through the splitting of the post into single sentences (sents) it can be re-constructed as an argument: 
 
-**P1**: Most women whom work at hospitals with any job are feminen, nuturing, of decent intellect (for a woman) and lonely (to the point of suicide)
+**P1**: "Most women whom work at hospitals with any job are feminen, nuturing, of decent intellect (for a woman) and lonely (to the point of suicide)."
 
-**P2**: Their genes are valuable european genes that we should replicate.
+**P2**: "Their genes are valuable european genes that we should replicate."
 
-**C**: We need to snatch nurses for our european loyalist gene pool and turn them in to stay at home mums for >4 children so that they dont work for the state, we collapse the welfare state, produce white babies and prevent the nurse from dealing with negroes and other abominations STDs and can opener accidents.
+**C**: "We need to snatch nurses for our european loyalist gene pool and turn them in to stay at home mums for >4 children so that they dont work for the state, we collapse the welfare state, produce white babies and prevent the nurse from dealing with negroes and other abominations STDs and can opener accidents."
 
 According to the author, turning nurses into "stay at home mums" is beneficial both for the European society and for the nurses themselves. The European society would use the nurses to produce "white babies", that is, a white supremacist aim. Simultaneously, these nurses would be freed from their loneliness while realizing their feminine and nurturing nature. 
 
+Another interesting aspect are the properties, nouns and adjectives, attributed to nurses. In a first step I took a closer look at the noun chunks in the post. Noun chunks are flat phrases, which have a noun as their head. Or, in other words, the noun chunk is the noun in addition to the words that describe it. The first noun chunk is "Most women". This generic appeals to some kind of female essence. The generic can be traced back to the sentence: "Most women whom work at hospitals with any job are feminen, nuturing, of decent intellect (for a woman) and lonely (to the point of suicide)". 
 
+With this sentence the author establishes a category: women who work at hospitals. The quantifier "most" signifies that the majority of women who works at hospitals are assumed (by the author) to be feminine, nurturing, of decent intellect and lonely. These properties are attributed to women who work at hospitals in general, that is, if a woman would work at a hospital and not have these attributes she would be an exception from the rule. Furthermore, the property "decent intellect" is qualified by the phrase "for a woman", which means that the author assumes a female standard for intelligence that is lower than the male standard. Other relevant categories established are "home mums" and "nurses". Female nurses are also referred to as "they" which currently is in an antagonistic relation to a unspecified "we". The nurses, that is, employed women,  are also considered a consequence of the welfare state, which again is an institution that "we" must destroy. 
 
-##### Example B:
+The most striking noun chunk, however, is the attribution "our european loyalist gene pool". Female nurses should not work because their bodies are needed for other aims. The white European female nurse is considered a pool of "valuable genes". 
+
+##### Overview of comments in thread
+
+The comments on the post described above are interesting as they display both resonance and disagreement. There are thirteen answers (comments) in the thread (see table), mainly expressions of agreement. Five representative posts are printed in their totality. ComA3 refers to the assumed nature of female nurses (being a "hoe") as something unchangeable: "You cant turn a hoe into a housewife". The comments also add further and similar properties like overweight, sleep-deprived, lustful (ComA5), rough and aggressive (ComA6). ComA6 furthermore refers to nurses as "bitches" and "sloots".[^4]  ComA8 contributes to the sexualized narrative by stating that "I can get behind this classic fetish". In one sense ComA7 constitutes an exception as the author points out that they [female nurses] "are all emotional wrecks from the suffering they see all day long over decades". Although the description "emotional wrecks" is clearly derogatory and diminishing, the comment appeals to actual events (suffering at hospitals) rather than a given female essence (e.g. emotional immaturity). 
+
+##### Example B: Incapable 
 
 "ok /pol/, let's talk nurses.  This is a collection of women and faggots who weren't smart enough to become doctors and now suddenly are national heroes. A piece of shit out of my asshole could become a nurse.  fucking retards"
 
@@ -94,6 +102,8 @@ According to the author, turning nurses into "stay at home mums" is beneficial b
 [^2] See for example Kalisch et al. (1982), Hallam (2005) and Daly et al. (2005). 
 
 [^3] More infos: "How do I get things removed?" in FAQ 4plebs: https://archive.4plebs.org/_/articles/faq/, downloaded 16.09.2020. 
+
+[^4] "Sloot" is a transformation of the derogatory term "slut" where the number of O's may indicate the degree of "sluttyness". 
 
 ---
 
