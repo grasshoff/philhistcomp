@@ -22,7 +22,7 @@ This project investigates how female nurses are described in online debate on th
 
 ### **Research object**
 
-All threads on /pol/ (4chan) containing the word "nurse", dating from the 25th of January to 8th of June 2020. This amounts to 116 threads including xxxxx comments. The posts and comments are mainly written in English. 
+All threads on /pol/ (4chan) containing the word "nurse", dating from the 25th of January to 8th of June 2020. This amounts to 116 threads including more than 14 000 comments. The posts and comments are mainly written in English. 
 
 ### **Empirical source: 4plebs** 
 
@@ -48,7 +48,7 @@ I then printed the beginning of all 116 posts in order to search for representat
 
 #### 3. Example analysis 
 
-##### Thread A: Gene pool/stay home mother 
+##### Example A: Gene pool/stay home mother 
 
 "Most women whom work at hospitals with any job are feminen, nuturing, of decent intellect (for a woman) and lonely (to the point of suicide). Their genes are valuable european genes that we should replicate. We need to snatch nurses for our european loyalist gene pool and turn them in to stay at home mums for >4 children so that they dont work for the state, we collapse the welfare state, produce white babies and prevent the nurse from dealing with negroes and other abominations STDs and can opener accidents. #pumpanurse"
 
@@ -68,21 +68,27 @@ With this sentence the author establishes a category: women who work at hospital
 
 The most striking noun chunk, however, is the attribution "our european loyalist gene pool". Female nurses should not work because their bodies are needed for other aims. The white European female nurse is considered a pool of "valuable genes". 
 
-##### Overview of comments in thread
+###### Overview of comments in thread
 
-The comments on the post described above are interesting as they display both resonance and disagreement. There are thirteen answers (comments) in the thread (see table), mainly expressions of agreement. Five representative posts are printed in their totality. ComA3 refers to the assumed nature of female nurses (being a "hoe") as something unchangeable: "You cant turn a hoe into a housewife". The comments also add further and similar properties like overweight, sleep-deprived, lustful (ComA5), rough and aggressive (ComA6). ComA6 furthermore refers to nurses as "bitches" and "sloots".[^4]  ComA8 contributes to the sexualized narrative by stating that "I can get behind this classic fetish". In one sense ComA7 constitutes an exception as the author points out that they [female nurses] "are all emotional wrecks from the suffering they see all day long over decades". Although the description "emotional wrecks" is clearly derogatory and diminishing, the comment appeals to actual events (suffering at hospitals) rather than a given female essence (e.g. emotional immaturity). 
+The comments on the post described above are interesting as they display both resonance and disagreement. There are thirteen answers (comments) in the thread (see table), mainly expressions of agreement. Five representative posts are printed in their totality. ComA3 refers to the assumed nature of female nurses (being a "hoe") as something unchangeable: "You cant turn a hoe into a housewife". The comments also add further and similar properties like overweight, sleep-deprived, lustful (ComA5), rough and aggressive (ComA6). ComA6 furthermore refers to nurses as "bitches" and "sloots".[^4]  ComA8 contributes to the sexualized narrative by stating that "I can get behind this classic fetish". In one sense ComA7 constitutes an exception as the author points out that they [female nurses] "are all emotional wrecks from the suffering they see all day long over decades". Although the description "emotional wrecks" is clearly derogatory and diminishing, the comment appeals to actual events (exposure to suffering at hospitals) rather than a given female essence (e.g. emotional immaturity). 
 
 ##### Example B: Incapable 
 
 "ok /pol/, let's talk nurses.  This is a collection of women and faggots who weren't smart enough to become doctors and now suddenly are national heroes. A piece of shit out of my asshole could become a nurse.  fucking retards"
 
+The example post B is less complex than the post discussed above. The author addresses his audience (/pol/) directly and immediately sets the topic ("let's talk nurses"). Nurses are defined as "a collection of women and faggots who weren't smart enough to become doctors", a generic that displays both misogyny and homophobia. The topic of heroism is not discussed further, rather it is stated that anyone or anything could become a nurse, which would mean that nurses as a category cannot qualify as national heroes. The post is ended with the provocative noun chunk "fucking retards". 
+
+###### Overview of comments in thread
+
+There are 308 responds to post B. A possible reason for the many reactions is the post's brief, direct, and provocative nature. Given the high number of of comments I used a random sample function to search for relevant examples. ComB2 makes reference to the trend of nurses dancing on videos uploaded on [TikTok](tiktok.com), and labels nurses as "dancing cunts".  On the other hand, ComB4 makes use of information he allegedly has from the inside; his sister who is a nurse. Nurses are referred to as "scum of the earth", bullies and as sexually interested in the older male doctors. 
+
 ##### Example C:
 
 "AAHAHAHAHHAHAHA  Let's be clear, all nurses as a class deserve severe punishment for being shameless tik tok dancers, but this is a good start. https://www.dailydot.com/irl/tiktok-jeanette-mckenna-death/ >Jeanette McKenna, 53, passed away from what her co-workers suspect to be the coronavirus. She was recently seen dancing with a 102-year-old patient on TikTok.  If you are a nurse you are a piece of shit."
 
-##### Example D:
+###### Overview of comments in thread 
 
-"Was talking with my sister who is a career nurse. Very good at her job and dedicated to her craft.  We were talking about the nurse tiktok videos and how they negatively affect public perceptions of this whole situation and she should probably advise her staff to stop it or keep it private. I told her some people (meaning females) are too emotionally immature to handle praise and hero worship. She then had this to say.  Pic related"
+
 
 ----
 
@@ -91,7 +97,6 @@ The comments on the post described above are interesting as they display both re
 ### **Challenges and concerns** 
 
 - Archive, 4plebs
-- Data quantity 
 
 ----
 
@@ -103,7 +108,7 @@ The comments on the post described above are interesting as they display both re
 
 [^3] More infos: "How do I get things removed?" in FAQ 4plebs: https://archive.4plebs.org/_/articles/faq/, downloaded 16.09.2020. 
 
-[^4] "Sloot" is a transformation of the derogatory term "slut" where the number of O's may indicate the degree of "sluttyness". 
+[^4] "Sloot" is a transformation of the derogatory term "slut" where the number of o's may indicate the degree of "sluttyness". 
 
 ---
 
