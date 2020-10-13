@@ -36,20 +36,21 @@ The data retrieved from 4plebs was prepared and analyzed in the attached Jupyter
 
 #### 1. Preparing data
 
-A script was written to scrape the text from all posts on the board /pol/ containing the word "nurse" (dating from 01.25.2020 to 06.08. 2020). This amounts to 116 posts with a total of more than xxxxxx comments. I imported this scrape result and created a data frame (named "df") using pandas . Given the quantity of the dataset I have chosen to only show the three first threads in the notebook. Moreover, the dataset contained unnecessary information and needed to be cleaned. Redundant letters and post numbers were removed for the purpose of clarity. The column of comments to be analyzed is thus named "clean". 
+A script was written to scrape the text from all posts on the board /pol/ containing the word "nurse" (dating from 01.25.2020 to 06.08. 2020). This amounts to 116 posts with a total of more than 14 000 comments. I imported this scrape result and created a data frame (named "df") using pandas . Given the quantity of the dataset only the three first threads are displayed here. Moreover, the dataset contained unnecessary information. Redundant letters and post numbers were removed for the purpose of clarity. The column of comments to be analyzed is thus named "clean". 
 
 #### **2. Preparing NLP**
 
 Subsequently the data was to be prepared for the natural language processing (NLP). I imported spaCy, which is an open-source software library developed for advanced NLP. The textual data (4chan posts) was almost exclusively in English and I therefore loaded spaCy's core model for English (en_core_web_sm). Core models are models pretrained to predict i.a. part-of-speech tags and syntactic dependencies. These two features were especially important in detecting both attributions ascribed to nurses and the various ways of classifying nurses in groups. 
 
-##### **Ten representative examples**
+##### x representative examples
 
-I then printed the beginning of all 116 posts in order to search for representative examples. Interesting posts were printed in their totality, and my search resulted in ten representative posts. The ten posts display a certain variety within the 4chan discourse. In post72, for example, the author points out that "Nurses are necessary, without them hospitals don't function. They do 90% of the work inpatients need and are a wealth of knowledge. If you've every been hospitalized for any length of time you already know this."  Although some positive accounts of nurses are shared and discussed, the majority of the 4chan discussions revolve around the female nurse as incompetent, reckless, overworked, immature or as a female ignoring her motherly and feminine duties. The selection of example posts underneath are therefore examples of mainly such degrading discussion. 
+I then printed the beginning of all 116 posts in order to search for representative examples. Interesting posts were printed in their totality, and my search resulted in ten representative posts. The ten posts display a certain variety within the 4chan discourse. In post72, for example, the author points out that "Nurses are necessary, without them hospitals don't function. They do 90% of the work inpatients need and are a wealth of knowledge. If you've every been hospitalized for any length of time you already know this."  Although some positive accounts of nurses are shared and discussed, the majority of the 4chan discussions revolve around the female nurse as incompetent, reckless, overworked, immature or as a female ignoring her motherly and feminine duties. The selection of example posts and comments underneath are therefore examples of mainly such degrading discussion. 
 
 #### 3. Example analysis 
 
-##### Example A: Gene pool
+##### Example A: Sexualized gene pools 
 
+The post: 
 "Most women whom work at hospitals with any job are feminen, nuturing, of decent intellect (for a woman) and lonely (to the point of suicide). Their genes are valuable european genes that we should replicate. We need to snatch nurses for our european loyalist gene pool and turn them in to stay at home mums for >4 children so that they dont work for the state, we collapse the welfare state, produce white babies and prevent the nurse from dealing with negroes and other abominations STDs and can opener accidents. #pumpanurse"
 
 This post is dense with attributions and assumptions. As can already be observed through the splitting of the post into single sentences (sents) it can be re-constructed as an argument: 
@@ -60,7 +61,7 @@ This post is dense with attributions and assumptions. As can already be observed
 
 **C**: "We need to snatch nurses for our european loyalist gene pool and turn them in to stay at home mums for >4 children so that they dont work for the state, we collapse the welfare state, produce white babies and prevent the nurse from dealing with negroes and other abominations STDs and can opener accidents."
 
-According to the author, turning nurses into "stay at home mums" is beneficial both for the European society and for the nurses themselves. The European society would use the nurses to produce "white babies", that is, a white supremacist aim. Simultaneously, these nurses would be freed from their loneliness while realizing their feminine and nurturing nature. 
+According to the author, turning nurses into "stay at home mums" is beneficial both for the European society and for the nurses themselves. The postulated European society would use the nurses to produce "white babies", that is, a white supremacist aim. Simultaneously, these nurses would be freed from their loneliness while realizing their feminine and nurturing nature. 
 
 Another interesting aspect are the properties, nouns and adjectives, attributed to nurses. In a first step I took a closer look at the noun chunks in the post. Noun chunks are flat phrases, which have a noun as their head. Or, in other words, the noun chunk is the noun in addition to the words that describe it. The first noun chunk is "Most women". This generic appeals to some kind of female essence. The generic can be traced back to the sentence: "Most women whom work at hospitals with any job are feminen, nuturing, of decent intellect (for a woman) and lonely (to the point of suicide)". 
 
@@ -70,9 +71,9 @@ The most striking noun chunk, however, is the attribution "our european loyalist
 
 ###### Overview of comments in thread
 
-The comments on the post described above are interesting as they display both resonance and disagreement. There are thirteen answers (comments) in the thread (see table), mainly expressions of agreement. Five representative posts are printed in their totality. comA3 refers to the assumed nature of female nurses (being a "hoe") as something unchangeable: "You cant turn a hoe into a housewife". The comments also add further and similar properties like overweight, sleep-deprived, lustful (comA5), rough and aggressive (comA6). comA6 furthermore refers to nurses as "bitches" and "sloots".[^4]  comA8 contributes to the sexualized narrative by stating that "I can get behind this classic fetish". In one sense comA7 constitutes an exception as the author points out that they [female nurses] "are all emotional wrecks from the suffering they see all day long over decades". Although the description "emotional wrecks" is clearly derogatory and diminishing, the comment appeals to actual events (exposure to suffering at hospitals) rather than a given female essence (e.g. emotional immaturity). 
+The comments on the post described above are interesting as they display both resonance and disagreement. There are thirteen answers (comments) in the thread (see table), mainly expressions of agreement. Five representative posts are printed in their totality. coma3 refers to the assumed nature of female nurses (being a "hoe") as something unchangeable: "You cant turn a hoe into a housewife". The comments also add further and similar properties like overweight, sleep-deprived, lustful (coma5), rough and aggressive (coma6). coma6 furthermore refers to nurses as "bitches" and "sloots".[^4]  coma8 contributes to the sexualized narrative by stating that "I can get behind this classic fetish". In one sense coma7 constitutes an exception as the author points out that they [female nurses] "are all emotional wrecks from the suffering they see all day long over decades". Although the description "emotional wrecks" is clearly derogatory and diminishing, the comment appeals to actual events (exposure to suffering at hospitals) rather than a given female essence (e.g. emotional immaturity). 
 
-##### Example B: Incapable 
+##### Example B: Incapability and attention 
 
 "ok /pol/, let's talk nurses.  This is a collection of women and faggots who weren't smart enough to become doctors and now suddenly are national heroes. A piece of shit out of my asshole could become a nurse.  fucking retards"
 
@@ -80,17 +81,22 @@ The example post B is less complex than the post discussed above. The author add
 
 ###### Overview of comments in thread
 
-There are 308 responds to post B. A possible reason for the many reactions is the post's brief, direct, and provocative nature. Given the high number of of comments I used a random sample function to search for relevant examples. comB2 makes reference to the trend of nurses dancing on videos uploaded on [TikTok](tiktok.com), and labels nurses as "dancing cunts".  On the other hand, comB4 makes use of information he allegedly has from the inside; his sister who is a nurse. Nurses are referred to as "scum of the earth", bullies and as sexually interested in the older male doctors. ....................
+There are 308 responds to post B. A possible reason for the many reactions is the post's brief, direct, and provocative nature. Given the high number of of comments I used a random sample function to search for relevant examples. comb2 makes reference to the trend of nurses dancing on videos uploaded on [TikTok](tiktok.com), and labels nurses as "dancing cunts".  On the other hand, comb4 makes use of information he allegedly has from the inside; his sister who is a nurse. Nurses are referred to as "scum of the earth", bullies and as sexually interested in the older male doctors. The angel-like figure of the goodhearted and kind nurse is represented to some extent, but it is claimed that such nurses are bullied out of the profession. The ones remaining are those who seek glory and who will use their bodies to get it (comb7). It is even claimed that some women only became nurses to get status, attention, and money (comb10). 
 
-##### Example C: Necessary?
+##### Example C: Necessity and heroism 
 
 "Every other thread is some anti-nurse topic. Nurses are necessary, without them hospitals don't function. They do 90% of the work inpatients need and are a wealth of knowledge. If you've every been hospitalized for any length of time you already know this. Is it because /pol/ is filled with real life incels or is it Chinese shills?"
 
-The author begins by addressing the fact that the pandemic has led to a high number of threads dominated by a negative attitude towards nurses. Then the necessity of nurses in terms of work capacity and knowledge is emphasized. Further, the post appeals to personal experience; people who have been hospitalized should be aware of this. The post ends with a question. Are the negative attitudes displayed a result of the discussants in 4chan being "real life incels" or is it due to "Chinese shills"? The term incel is short for "involuntary celibates" and refers to an online subculture of men who consider themselves unable to establish romantic and sexual relationships despite a desire to do so. Importantly, incels blame women for their involuntary celibate.[^5]  
+The author begins by addressing the fact that the pandemic has led to a high number of threads dominated by a negative attitude towards nurses. Then the necessity of nurses in terms of work capacity and knowledge is emphasized. Further, the post appeals to personal experience; people who have been hospitalized should be aware of this. The post ends with a question. Are the negative attitudes displayed a result of the discussants in 4chan being "real life incels" or is it due to "Chinese shills"? The term incel is short for "involuntary celibates" and refers to an online subculture of men who consider themselves unable to establish romantic and sexual relationships despite a desire to do so. Importantly, incels blame women for their involuntary celibate.[^5]  This is a clear reference to the misogynist dimension of the nurse hatred displayed on 4chan.  
+
+A "shill" is defined as someone who helps a person persuade other people to do something.[^6] There has been online discussion on the so-called "Chinese shills", where it is suggested that the Chinese government pays both American and Chinese citizens to spread pro-Chinese and anti-American propaganda.[^7] The term gained a new meaning with the Covid-19 outbreak. There are online communities committed to reveal various government's alleged attempts to obscure and downplay the amount of cases in China and on a global scale.[^8] The post seems to imply that the skepticism and hatred towards nurses may be fueled by forces trying to ridicule and diminish the current global health crisis.   
 
 ###### Overview of comments in thread 
 
+The post described above is atypically positive and mostly constructive, and the comments are thus more varied than in other nurse related threads. One of the first comments (comc2) states the following: "Nurses and doctors are unironically heroes right now. Risking their lives to save other lives. Definition of heroism." A further comments admits to the importance of nurses but underlines that nurses are essentially motivated by the need for attention (comc5), whereas yet another post claims "Nurses should die in a fire" due to their selfishness and uselessness (comc34). 
 
+The last comment printed in its totality in the notebook reads as follows: "There’s constant demand for nurses because our societies are constantly growing fatter, older, and sicker. Once the boomers die off and wine aunts an hero demand for nurses will collapse" (comc35). 
+https://www.nytimes.com/2019/10/29/style/ok-boomer.html
 
 ----
 
@@ -112,7 +118,13 @@ The author begins by addressing the fact that the pandemic has led to a high num
 
 [^4] "Sloot" is a transformation of the derogatory term "slut" where the number of o's may indicate the degree of "sluttyness". 
 
-[^5] See for example Byerly (2020). 
+[^5] See for example Byerly (2020).
+
+[^6] See https://dictionary.cambridge.org/dictionary/english/shill. 
+
+[^7] See for example Kredo (2012). 
+
+[^8] An example is the group "nCovshills" on reddit.com: https://www.reddit.com/r/ncovshills/, link retrieved 13.10.2020. 
 
 ---
 
@@ -122,9 +134,11 @@ Byerly, Carolyn, "Incels online reframing sexual violence", The Communication Re
 
 Daly, John et al., 2005, *Professional Nursing: Concepts, Issues, and Challenges*, New York: Springer Publishing. 
 
-Hallam, Julia, 2005, "Angels, Battleaxes and Good -Time Girls: Cinema's images of nurses". In G. Harper, & A. Moore (Eds.), *Signs of Life: Medicine and Cinema*, London, New York: Wallflower Press, 105-120. 
+Hallam, Julia, 2005, "Angels, Battleaxes and Good - Time Girls: Cinema's images of nurses". In G. Harper, & A. Moore (Eds.), *Signs of Life: Medicine and Cinema*, London, New York: Wallflower Press, 105-120. 
 
 Kalisch et al. 1982, "The Nurse as a Sex Object in Motion Pictures, 1930 to 1980", in *Research in Nursing and Health*, New York: Wiley, 147-154. 
+
+Kredo, Adam, 2012, "The China Shills", The Washington Free Bacon, https://freebeacon.com/politics/the-china-shills/, retrieved 13.10.2020. 
 
 Rafael, Adeline R.F., 1996, "Power and caring: A dialectic in nursing". In *Advances in Nursing Science*, 19(1), 3–17.
 
