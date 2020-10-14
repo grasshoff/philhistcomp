@@ -26,7 +26,7 @@ All threads on /pol/ (4chan) containing the word "nurse", dating from the 25th o
 
 ### **Empirical source: 4plebs** 
 
-The threads on 4chan are ephemeral as they are constantly deleted from the website. To access posts dating back to January 2020 I have retrieved data from an archive of 4chan posts, [4plebs](archive.4plebs.org). This unofficial archive uses the software [Asagi](http://eksopl.github.io/asagi/) to save all the posts of selected 4chan boards. 4plebs uses Asagi to dump and archive all threads from selected 4chan boards, including /pol/. No threads are removed unless they are reported to contain child pornography, personally identifiable information, or copyrighted material not permitted under fair use doctrine.[^3]  
+The content on 4chan is ephemeral as the threads are constantly deleted from the website. To access posts dating back to January 2020 I have retrieved data from an archive of 4chan posts, [4plebs](archive.4plebs.org). This unofficial archive uses the software [Asagi](http://eksopl.github.io/asagi/) to save all the posts of selected 4chan boards. 4plebs uses Asagi to dump and archive all threads from selected 4chan boards, including /pol/. No threads are removed unless they are reported to contain child pornography, personally identifiable information, or copyrighted material not permitted under fair use doctrine.[^3]  
 
 ---
 
@@ -45,8 +45,6 @@ Subsequently the data was to be prepared for the natural language processing (NL
 ##### x representative examples
 
 I then printed the beginning of all 116 posts in order to search for representative examples. Interesting posts were printed in their totality, and my search resulted in ten representative posts. The ten posts display a certain variety within the 4chan discourse. In post72, for example, the author points out that "Nurses are necessary, without them hospitals don't function. They do 90% of the work inpatients need and are a wealth of knowledge. If you've every been hospitalized for any length of time you already know this."  Although some positive accounts of nurses are shared and discussed, the majority of the 4chan discussions revolve around the female nurse as incompetent, reckless, overworked, immature or as a female ignoring her motherly and feminine duties. The selection of example posts and comments underneath are therefore examples of mainly such degrading discussion. 
-
-----
 
 #### 3. Example analysis 
 
@@ -114,10 +112,13 @@ ____
 
 ### **Challenges and concerns** 
 
-ARCHIVE: 
-The biggest challenge was to access the relevant data. Since 
+###### Data
 
-- Analysis 
+The first substantial challenge was to access the relevant data. Given the high number of posts published every day, the threads on /pol/ are constantly deleted. You can normally only access threads from the same day as all earlier threads are already deleted. As the beginning and development of the covid-19 influenced  discourse on nurses were objects of interest, I needed access to posts dating back to January 2020. Thus, the project was dependent on an archive (4plebs, see "Empirical source").  For future 4chan related projects the software used by 4plebs (Asagi imageboard dumper) could be a way of creating an independent archive for 4chan threads.  
+
+###### Analysis 
+
+A data frame with 116 posts and more than 14 000 comments constitutes a well of opportunities. For time and capacity reasons this project looked closer at three relevant posts (including their comments) to cover a certain variety in both argumentation and perspective. Further examples, however, would surely have broadened the range of displayed attitudes towards nurses. Nevertheless, the project developed a methodology for exploring the online nurse-hatred, both in terms of codes and analysis strategies. This methodology can be utilized further to analyze additional examples.  
 
 ----
 
