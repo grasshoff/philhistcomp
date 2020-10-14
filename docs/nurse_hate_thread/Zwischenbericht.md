@@ -6,13 +6,13 @@
 
 Since the beginning of the covid-19 pandemic nurses (alongside doctors and other medical workers) have been celebrated globally for risking their health and working overtime in order to fight the virus. The work done by nurses has been subject to increased attention, which has led to a debate on their work conditions, wages, and the social recognition of their profession. 
 
-The mainstream celebration of nurses has, however, also provoked hatred and frustration in sub-discourses. On the male dominated online imageboard [4chan](4chan.org) there has been a rise of discussion threads revolving around hatred against nurses. These threads mostly appear on the board /pol/ ("Politically Incorrect"). Such threads are often referred to as "nurse hate threads". The vast majority of these discussions combine the hatred against nurses with explicit misogyny; the nurses are mostly incapable, immoral or immature in virtue of being women. Importantly, these characterizations of nurses mostly aim at creating an antithesis to the figure of the hero. Nurses (predominantly in virtue of being women) are ridiculed as not skilled, moral, mature, or smart enough to be real heroes. Rather, they are assumed to exploit the current attention in order to stage themselves as heroes. Thus, they are not only framed as not having the properties of a hero. They are framed as the explicit opposite of a hero; a non-hero. 
+The mainstream celebration of nurses has, however, also provoked hatred and frustration in sub-discourses. On the male dominated online imageboard [4chan](4chan.org) there has been a rise of discussion threads revolving around hatred against nurses. These threads mostly appear on the board /pol/ ("Politically Incorrect"). Such threads are often referred to as "nurse hate threads". The vast majority of these discussions combine the hatred against nurses with explicit misogyny; the nurses are mostly incapable, immoral or immature in virtue of being women. Importantly, these characterizations of nurses mostly aim at creating an antithesis to the figure of the hero. Nurses (predominantly in virtue of being women) are ridiculed as not skilled, ethical, mature, or smart enough to be real heroes. Rather, they are assumed to exploit the current attention in order to stage themselves as heroes. Thus, they are not only framed as not having the properties of a hero. They are framed as the explicit opposite of a hero; a non-hero. 
 
 ### **Project motivation**
 
 The observations sketched above give rise to multiple questions. Why is the figure of a female hero so negatively received in certain online sub-discourses? Are such misogynist attitudes augmented in the context of a pandemic? The covid-19 virus is a source of global fear and instability. Thus, there is reason to believe that the hatred against female nurses is partly nurtured by a notion of powerlessness and a fear of transforming power relations. There is indeed a connection between the caring provided by nurses and the notion of power. If somebody has the skills and knowledge to improve or save your life it may give rise to a strong feeling of dependence.[^1] In the current situation the world's societies are absolutely dependent on medical workers, both for health and financial reasons. In other words, the pandemic has emphasized the necessity of nurses and the fact that their profession is crucial in a time of crisis.  
 
-There is an obvious conflict between nurses framed as crucial, courageous and powerful professionals and the more stereotypical image of nurses. Female nurses have always been subject to stereotyping and prejudice, especially in cinema and pornography. They have, amongst other, been framed as less intelligent, angle-like or as sex symbols.[^2] Are the strong reactions in the sub-discourse on 4chan a consequence of a long-lived stereotype threatened by more powerful and heroic narratives? This important question cannot be answered before the portrayal of female nurses on 4chan has been properly analyzed. In that sense, this project is only the beginning of a much larger endeavor. The project aims at exploring which attributes are used to describe female nurses on 4chan and how such attributes contribute to a negative construction of female nurses as non-heroes. Additionally, it seeks to identify how female nurses are classified in different ways. Hopefully the result of this analysis can be utilized in future projects that examine the relation between misogynist nurse hatred and transforming power relations. 
+There is an obvious conflict between nurses framed as crucial, courageous and powerful professionals and the more stereotypical image of nurses. Female nurses have always been subject to stereotyping and prejudice, especially in cinema and pornography. They have, amongst other, been framed as less intelligent, angle-like or as sex symbols.[^2] Are the strong reactions in the sub-discourse on 4chan a consequence of a long-lived stereotype threatened by more powerful and heroic narratives? This important question cannot be answered before the portrayal of female nurses on 4chan has been properly analyzed. In that sense, this project is only the beginning of a much larger endeavor. **The project aims at exploring attributes used to describe female nurses on 4chan and how such attributes contribute to a negative construction of female nurses as non-heroes**. Hopefully the result of this analysis can be utilized in future projects that examine the relation between misogynist nurse hatred and transforming power relations. 
 
 ----
 
@@ -46,11 +46,12 @@ Subsequently the data was to be prepared for the natural language processing (NL
 
 I then printed the beginning of all 116 posts in order to search for representative examples. Interesting posts were printed in their totality, and my search resulted in ten representative posts. The ten posts display a certain variety within the 4chan discourse. In post72, for example, the author points out that "Nurses are necessary, without them hospitals don't function. They do 90% of the work inpatients need and are a wealth of knowledge. If you've every been hospitalized for any length of time you already know this."  Although some positive accounts of nurses are shared and discussed, the majority of the 4chan discussions revolve around the female nurse as incompetent, reckless, overworked, immature or as a female ignoring her motherly and feminine duties. The selection of example posts and comments underneath are therefore examples of mainly such degrading discussion. 
 
+----
+
 #### 3. Example analysis 
 
-##### Example A: Sexualized gene pools 
+##### Thread A: Sexualized gene pools 
 
-The post: 
 "Most women whom work at hospitals with any job are feminen, nuturing, of decent intellect (for a woman) and lonely (to the point of suicide). Their genes are valuable european genes that we should replicate. We need to snatch nurses for our european loyalist gene pool and turn them in to stay at home mums for >4 children so that they dont work for the state, we collapse the welfare state, produce white babies and prevent the nurse from dealing with negroes and other abominations STDs and can opener accidents. #pumpanurse"
 
 This post is dense with attributions and assumptions. As can already be observed through the splitting of the post into single sentences (sents) it can be re-constructed as an argument: 
@@ -73,7 +74,7 @@ The most striking noun chunk, however, is the attribution "our european loyalist
 
 The comments on the post described above are interesting as they display both resonance and disagreement. There are thirteen answers (comments) in the thread (see table), mainly expressions of agreement. Five representative posts are printed in their totality. coma3 refers to the assumed nature of female nurses (being a "hoe") as something unchangeable: "You cant turn a hoe into a housewife". The comments also add further and similar properties like overweight, sleep-deprived, lustful (coma5), rough and aggressive (coma6). coma6 furthermore refers to nurses as "bitches" and "sloots".[^4]  coma8 contributes to the sexualized narrative by stating that "I can get behind this classic fetish". In one sense coma7 constitutes an exception as the author points out that they [female nurses] "are all emotional wrecks from the suffering they see all day long over decades". Although the description "emotional wrecks" is clearly derogatory and diminishing, the comment appeals to actual events (exposure to suffering at hospitals) rather than a given female essence (e.g. emotional immaturity). 
 
-##### Example B: Incapability and attention 
+##### Thread B: Incapability and attention 
 
 "ok /pol/, let's talk nurses.  This is a collection of women and faggots who weren't smart enough to become doctors and now suddenly are national heroes. A piece of shit out of my asshole could become a nurse.  fucking retards"
 
@@ -83,7 +84,7 @@ The example post B is less complex than the post discussed above. The author add
 
 There are 308 responds to post B. A possible reason for the many reactions is the post's brief, direct, and provocative nature. Given the high number of of comments I used a random sample function to search for relevant examples. comb2 makes reference to the trend of nurses dancing on videos uploaded on [TikTok](tiktok.com), and labels nurses as "dancing cunts".  On the other hand, comb4 makes use of information he allegedly has from the inside; his sister who is a nurse. Nurses are referred to as "scum of the earth", bullies and as sexually interested in the older male doctors. The angel-like figure of the goodhearted and kind nurse is represented to some extent, but it is claimed that such nurses are bullied out of the profession. The ones remaining are those who seek glory and who will use their bodies to get it (comb7). It is even claimed that some women only became nurses to get status, attention, and money (comb10). 
 
-##### Example C: Necessity and heroism 
+##### Thread C: Necessity and heroism 
 
 "Every other thread is some anti-nurse topic. Nurses are necessary, without them hospitals don't function. They do 90% of the work inpatients need and are a wealth of knowledge. If you've every been hospitalized for any length of time you already know this. Is it because /pol/ is filled with real life incels or is it Chinese shills?"
 
@@ -95,16 +96,28 @@ A "shill" is defined as someone who helps a person persuade other people to do s
 
 The post described above is atypically positive and mostly constructive, and the comments are thus more varied than in other nurse related threads. One of the first comments (comc2) states the following: "Nurses and doctors are unironically heroes right now. Risking their lives to save other lives. Definition of heroism." A further comments admits to the importance of nurses but underlines that nurses are essentially motivated by the need for attention (comc5), whereas yet another post claims "Nurses should die in a fire" due to their selfishness and uselessness (comc34). 
 
-The last comment printed in its totality in the notebook reads as follows: "There’s constant demand for nurses because our societies are constantly growing fatter, older, and sicker. Once the boomers die off and wine aunts an hero demand for nurses will collapse" (comc35). 
-https://www.nytimes.com/2019/10/29/style/ok-boomer.html
+The last comment printed in its totality in the notebook reads as follows: "There’s constant demand for nurses because our societies are constantly growing fatter, older, and sicker. Once the boomers die off and wine aunts an hero demand for nurses will collapse" (comc35). In this comment the celebration of nurses is explained exclusively by a society in decay; obesity, age, and increasing health issues. The term "boomers" is inspired by the term baby boomers and refers to middle aged or older people who do not understand the mindset of the so-called "generation Z".[^9] The wine aunts may refer to the generation before, feeding into the narrative of a sick society, here on the example of elders and alcoholism. The prophecy seems to be that once these people are dead society will revitalize and the demand for nurses will decrease, which will lead to collapse of the heroic nurse figure. In other words, the celebration of nurses as heroes is considered a consequence of a sick society.  
 
 ----
 
 ### **Preliminary results**
 
+The project was aimed at exploring attributes used to describe female nurses on 4chan and how such attributes contribute to a negative construction of female nurses as non-heroes. I used data from a 4chan archive to create a data frame with 116 threads including more than 14 000 comments revolving around the topic of nurses. Although the project was informed by many of the 116 threads, the thorough analysis focused on three main examples (Thread A, B, and C. The analysis of the first example thread was concerned with the nurse reduced to a female body, the second with the incapability and desire of attention attributed to nurses and the third with the 4chan community's discussion of the necessity of nurses and their status as heroes. While each of the three threads were written from a specific angle they all display numerous attempts of diminishing the female nurse, mostly as a way of disclaiming her status as a (potential) hero. 
+
+The most striking aspect of thread A are the two pairs of contrast used to reduce female nurses into female bodies. The post claims nurses to be lonely to the point of suicide and thereby not fulfilling their natural given task as gene pools for reproduction. They are an example of working women who neglect their role as nurturing mothers in a white supremacist society. These women are thus not only considered a tool for survival of the human species; their bodies are politicized as means towards a racist end. In the comments a further pair of contrast is introduced. Nurses are described as "bitches" and "sloots", and are contrasted by the figure of the housewife. 
+
+Thread B is more concerned with degrading the concept of heroism. It is claimed that nurses are women who are too unintelligent to become doctors, and the conclusion from this assumption seems to be that anything (and anyone) could become a national heroes. "National hero" is in other words a worthless attribution. The analyzed comments on the post expand on this narrative by framing nurses as bullies desiring glory and sex. The thread thus displays an interesting contradiction between the unintelligent nurse and the manipulative nurse exploiting her position for attention sexual relations. 
+
+The post in thread C is an exception to the many anti-nurse posts in the data frame. Nurses are portrayed as necessary, knowledgeable, and hard-working. Some comments undermine the post and it is claimed that nurses are "unironically heroes". The need for an adjective like "unironically" is a consequence of the ironically distorted meaning of the term "hero" in the /pol/ discourse on nurses. While some comments argue that nurses are important yet attention-seeking, others insist that nurses are selfish and unintelligent "attention whores". In one sense the circle is ended the comment that claims that nurses are indeed heroes, but only because we live in a sick society that is dependent nurses. Once society rises again, it is claimed, "the hero demand for nurses will collapse". 
+
+____
+
 ### **Challenges and concerns** 
 
-- Archive, 4plebs
+ARCHIVE: 
+The biggest challenge was to access the relevant data. Since 
+
+- Analysis 
 
 ----
 
@@ -114,7 +127,7 @@ https://www.nytimes.com/2019/10/29/style/ok-boomer.html
 
 [^2] See for example Kalisch et al. (1982), Hallam (2005) and Daly et al. (2005). 
 
-[^3] More infos: "How do I get things removed?" in FAQ 4plebs: https://archive.4plebs.org/_/articles/faq/, downloaded 16.09.2020. 
+[^3] More infos: "How do I get things removed?" in FAQ 4plebs: https://archive.4plebs.org/_/articles/faq/. 
 
 [^4] "Sloot" is a transformation of the derogatory term "slut" where the number of o's may indicate the degree of "sluttyness". 
 
@@ -124,7 +137,11 @@ https://www.nytimes.com/2019/10/29/style/ok-boomer.html
 
 [^7] See for example Kredo (2012). 
 
-[^8] An example is the group "nCovshills" on reddit.com: https://www.reddit.com/r/ncovshills/, link retrieved 13.10.2020. 
+[^8] An example is the group "nCovshills" on reddit.com: https://www.reddit.com/r/ncovshills/, link retrieved 13.10.2020.
+
+[^9] See Lorenz (2019). 
+
+*All links retrieved 14.10.2020.*
 
 ---
 
@@ -138,9 +155,13 @@ Hallam, Julia, 2005, "Angels, Battleaxes and Good - Time Girls: Cinema's images 
 
 Kalisch et al. 1982, "The Nurse as a Sex Object in Motion Pictures, 1930 to 1980", in *Research in Nursing and Health*, New York: Wiley, 147-154. 
 
-Kredo, Adam, 2012, "The China Shills", The Washington Free Bacon, https://freebeacon.com/politics/the-china-shills/, retrieved 13.10.2020. 
+Kredo, Adam, 2012, "The China Shills", *The Washington Free Bacon*, 18.07.2012, https://freebeacon.com/politics/the-china-shills/. 
 
-Rafael, Adeline R.F., 1996, "Power and caring: A dialectic in nursing". In *Advances in Nursing Science*, 19(1), 3–17.
+Lorenz, Taylor, 2019, "‘OK Boomer’ Marks the End of Friendly Generational Relations", *The New York Times*, 29.10.2019, https://www.nytimes.com/2019/10/29/style/ok-boomer.html. 
+
+Rafael, Adeline R.F., 1996, "Power and caring: A dialectic in nursing", *Advances in Nursing Science*, 19(1), 3–17.
+
+*All links retrieved 14.10.2020.*
 
   
 
