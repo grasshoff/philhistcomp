@@ -4,7 +4,7 @@
 
    1. for now two versions (i.e. notebooks), one in which automated renaming of output files (images) works, one in which output is directly saved to designated folder. Desired result: both correct naming and saved in designated folder
    2. pre-editing: cut irrelevant material (i.e. entire pages: (i) for pdfs: cut intro, toc, index etc.; (ii) for doc (De Anima): in add. to (i), also cut footnotes, page numbers etc.), for now by using pdf24 (external, manual). Easier with Python? I guess there is no way of 'automising' this preliminary step (as different books come with different kinds/amounts of additional material)?
-     - good idea to try out PyPDF2-package?
+     - now switched to PyPDF2-package to keep everything in python. Good idea?
 
 
 2. **OCR: Tesseract**
@@ -21,7 +21,11 @@
 
 3. **SpaCy: preparation-notebook**
 
-   1. how to pick all sentences in which SpaCy identified occurence of term soul and enumerate them in a txt-file *and/or* how to (automatically) create jsonl-file containing all of those sentences and relevant metadata (as example, see file "prodigy_input_data_sample.jsonl")
+   1. how to pick all sentences in which SpaCy identified occurence of term soul and enumerate them in a dataframe
+     - see, e.g., cell 142ff. in notebook "preparation_sample_DeAnima": for now, I have to (i) repeat command for every single match, (ii) copy those sentences into a new txt-file, and (iii) finally put them into a dataframe (for step iii, see notebook "analysis_sample_DeAnima")
+   2. how to (automatically) create jsonl-file containing all of those sentences and relevant metadata
+     - see notebook "prodigy_training_preparation.ipynb" as well as file "prodigy_input_data_sample.jsonl"
+     - maybe already add relevant metadata to pdf-files in 'pre-editing' of OCR-preparation, i.e. while cutting out irrelevant material? But is the metadata going to be transfered to the txt-files?
 
 
 4. **Prodigy: specialised NER-model**
