@@ -16,6 +16,8 @@
     - try to come up with a different soulution (solely relying on elimination of sentences with low word confidence seems problematic..)
        - possible solution (incl. 'interpretation'): only rely on elimination of sentences containing words with low word confidence *and* subsequently explain/rationalise this operation/decision: (i) some headers/footnotes will remain because tesseract is confident about ocr'ed output. But as long as those headers/footnotes do not contain the term soul and/or mind, they are not going to be taken into account by spacy's NLP-analysis anyway. (ii) some potentially important sentences are going to be eliminated by this operation but this is the price to pay for a large-scale computational analysis. Plus: as tesseract's performance is constantly improving, the risk of eliminating important sentences due to low word confidence is progressively diminishing.
    3. turn OCR-output into one coherent txt-file, ready for subsequent use in SpaCy
+   4. fine-tuning def. of "low word accuracy": 50, 60, 70?
+   5. fine-tuning psm?
 
 
 
