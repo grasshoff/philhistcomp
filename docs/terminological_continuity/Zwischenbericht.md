@@ -25,7 +25,7 @@ With respect to the distinction between medieval and early modern philosophy, th
 
 
 
-## The Method (work in progress)
+## The Method (last update: end of July)
 
 1. **Preparation 1 (before importing the txt-files into Jupyter Notebook)**
 
@@ -89,7 +89,7 @@ With respect to the distinction between medieval and early modern philosophy, th
     2. compare degree of semantic similarity: is degree of similarity Descartes/Ockham *significantly higher* than degree of similarity Suarez/Ockham?
 
 
-## What I have done so far
+## What I have done so far (last update: end of July)
 
 All the work I have done during the semester was rather preparatory and was mostly carried out for educational reasons, i.e. in order to improve my understanding of the numerous operations/tools provied SpaCy. For this reason, I decided to only work with two small, non-representative extracts of Suárez' and Descartes' writings: Sydney Penner's (2011) English translation of Suárez' *De Anima, Disputation 12, Question 2*, and Elizabeth S. Haldane's (1911) English translation of Descartes' *Meditationes*. With those two sample texts, I tried out different approaches for preparing, analysing, and comparing the data which allowed me to progressively develop a detailed strategy for my main project which I am now going to carry out in the form of a seminar paper.
 
@@ -143,7 +143,7 @@ After a short summer break, I will turn to the actual elaboration of my project 
   * find a set of approx. 500 sentences in which those patterns occur, turn into jsonl-format and train a specialised NER-model using Prodigy
   * apply the model to the sample texts to test their accuracy
   * if sufficiently accurate, proceed as outlined above in *The Method*
-  * overview of what (still) needs to be done:
+  * overview of what (still) needs to be done (last update: end of October):
     - 4 notebook-templates in total: (i) OCR-notebook, (ii) preparation-notebook, (iii) individual-analysis-notebook, (iv) final-analysis-notebook. (for notebooks i & ii: one per book; for notebook iii: one per author, for notebook iv: one for all)
     - 3 training sessions with prodigy: (i) specialied NER, (ii) co-references, (iii) word vectors
 
@@ -176,7 +176,7 @@ The following challenges, concerns, and questions are still to be resolved over 
        - possible solution: tesseract-config "preserve_interword_spaces=1", thereby identify headers/footnotes as being more distant from main text than lines of main text are from each other
        - problem with this solution: doesn't work for all books (different layouts), see e.g. Ockham's Quodlibetal Questions. Method for eliminating irrelevant material must thus be adapted to different book layouts (e.g. for Ockham: use spacy matcher to define pattern "number" for pagenumbers, and pattern "noun/word + number" as well as "spelled out number + quodlibet" for headers).
        - Ideally: different cells with different 'cleaning methods' that can be (de)activated acc. to 'requirements' book-specific layout. If not possible, then this is just the price to pay for large scale comp. analyses.
-       - worth to check: project of TU/BU Mannheim (scanning old newspaper), maybe they've already come up with diff. ways to handle complex page layouts?
+       - worth to check: project of UB Mannheim (scanning old newspaper), maybe they've already come up with diff. ways to handle complex page layouts?
 
 
 
