@@ -25,7 +25,7 @@ With respect to the distinction between medieval and early modern philosophy, th
 
 
 
-## The Method (work in progress)
+## The Method (last update: end of July)
 
 1. **Preparation 1 (before importing the txt-files into Jupyter Notebook)**
 
@@ -89,7 +89,7 @@ With respect to the distinction between medieval and early modern philosophy, th
     2. compare degree of semantic similarity: is degree of similarity Descartes/Ockham *significantly higher* than degree of similarity Suarez/Ockham?
 
 
-## What I have done so far
+## What I have done so far (last update: end of July)
 
 All the work I have done during the semester was rather preparatory and was mostly carried out for educational reasons, i.e. in order to improve my understanding of the numerous operations/tools provied SpaCy. For this reason, I decided to only work with two small, non-representative extracts of Suárez' and Descartes' writings: Sydney Penner's (2011) English translation of Suárez' *De Anima, Disputation 12, Question 2*, and Elizabeth S. Haldane's (1911) English translation of Descartes' *Meditationes*. With those two sample texts, I tried out different approaches for preparing, analysing, and comparing the data which allowed me to progressively develop a detailed strategy for my main project which I am now going to carry out in the form of a seminar paper.
 
@@ -143,6 +143,9 @@ After a short summer break, I will turn to the actual elaboration of my project 
   * find a set of approx. 500 sentences in which those patterns occur, turn into jsonl-format and train a specialised NER-model using Prodigy
   * apply the model to the sample texts to test their accuracy
   * if sufficiently accurate, proceed as outlined above in *The Method*
+  * overview of what (still) needs to be done (last update: end of October):
+    - 4 notebook-templates in total: (i) OCR-notebook, (ii) preparation-notebook, (iii) individual-analysis-notebook, (iv) final-analysis-notebook. (for notebooks i & ii: one per book; for notebook iii: one per author, for notebook iv: one for all)
+    - 3 training sessions with prodigy: (i) specialied NER, (ii) co-references, (iii) word vectors
 
 
 ## Some Challenges, Concerns, and Questions
@@ -162,6 +165,18 @@ The following challenges, concerns, and questions are still to be resolved over 
   * dist. between theories of soul and theories of mind? Maybe include both terms as key words and treat as equivalent? Important to discuss this problem (of translation? animus/anima, mens/mentis = soul and/or mind?) in my dissertation! In D's Meditationes, e.g., only 3 occ. of term soul... Isn't the translators' decision to use mind instead of soul already an (implicit/involuntary) act of modernising Descartes' thinking, i.e. a 'translation bias' enforcing the idea of a non-progressive distinction between medieval and early modern philosophy? (update: in original Latin version of D's Meditations, he frequently uses mens/metnis and only rarely animus/anima. BUT: both mens/mentis and animus/anima can be translated as soul and/or mind.
     - title of D's 6th Meditation = important hint for intepretation: in original Latin version, "De rerum materialium existentia & realis *mentis* a copore distinctione" (and thus, all Engl. transl. used mind instead of soul); however, in French version (which was read and approved by Descartes himself!), the title is "De l'existence des choses matérielles, et de la réelle distinction entre *l'âme* et le corps de l'homme". Hence, a reason to consider soul and mind as synonymes (at least in D's writings).
   * for training with Prodigy: when manually highlighting those passages of a sentence that correspond to a previously defined NER-category, should I try to *exlcude* occ. of term soul/mind in order to improve subsequent analysis of semantic similarity? But if I do so, is spacy still going to be able to 'make sense' of what I am trying to acheive with the training?
+    - Update: one of the main reasons to train specialised NER-categories was in fact to get rid of occ. of term soul, i.e. what's common to all sentences, and thus decrease spacy's judgement on degree of semantic similarity
+  * OCR-problem: OCR works (fairly) fine for main text but problems with footnotes/footers/headers.
+    - Possible solution: eliminating sentences containing words with low word confidence (e.g. less than 50%), hence footnotes will not be taken into account in subsequent NLP (prodigy, spacy).
+    - Desired result of 'post-processing': get one coherent txt-file containing text from all images in correct order (i.e. ocr'ed output of individual images merged into one txt-file, excluding sentences with low word confidence, i.e. get rid of footnotes, headers, page numbers etc.), thus ready for subsequent NLP.
+    - Problem: how to (automatically) identify footnotes if number of fn (e.g. footnote "20") is not always ocr'ed as such? (but, e.g., as special character). Eliminating all sentences with low word confidence = risk of eliminating important sentences...
+    - final solution (incl. 'interpretation'): only rely on elimination of sentences containing words with low word confidence and subsequently explain/rationalise this operation/decision: (i) some headers/footnotes will remain because tesseract is confident about ocr'ed output. But as long as those headers/footnotes do not contain the term soul and/or mind, they are not going to be taken into account by spacy's NLP-analysis anyway. (ii) some potentially important sentences are going to be eliminated by this operation but this is the price to pay for a large-scale computational analysis. Plus: as tesseract's performance is constantly improving, the risk of eliminating important sentences due to low word confidence is progressively diminishing.
+    - still to decide: def. of "low word confi", e.g. 60 or 70. And justify decision! (e.g. by referring to to its intended, subsequent use, i.e. for NER-training and -application, and how much inaccuracy is digestable for those tasks)
+    - still to solve: problem with spacy sentenciser (as part of OCR-notebook) when last sent. on page continues on next page. In this case: sentenciser considers footnotes as (second) part of last sentence, and header/pagenumber on top of next page as (first) part of second part of sentence from previous page
+       - possible solution: tesseract-config "preserve_interword_spaces=1", thereby identify headers/footnotes as being more distant from main text than lines of main text are from each other
+       - problem with this solution: doesn't work for all books (different layouts), see e.g. Ockham's Quodlibetal Questions. Method for eliminating irrelevant material must thus be adapted to different book layouts (e.g. for Ockham: use spacy matcher to define pattern "number" for pagenumbers, and pattern "noun/word + number" as well as "spelled out number + quodlibet" for headers).
+       - Ideally: different cells with different 'cleaning methods' that can be (de)activated acc. to 'requirements' book-specific layout. If not possible, then this is just the price to pay for large scale comp. analyses.
+       - worth to check: project of UB Mannheim (scanning old newspaper), maybe they've already come up with diff. ways to handle complex page layouts?
 
 
 

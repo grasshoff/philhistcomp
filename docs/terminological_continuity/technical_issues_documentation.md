@@ -2,21 +2,31 @@
 
 1. **OCR-preparation**
 
-   1. for now two versions (i.e. notebooks), one in which automated renaming of output files (images) works, one in which output is directly saved to designated folder. Desired result: both correct naming and saved in designated folder
-   2. pre-editing: cut irrelevant material (i.e. entire pages: (i) for pdfs: cut intro, toc, index etc.; (ii) for doc (De Anima): in add. to (i), also cut footnotes, page numbers etc.), for now by using pdf24 (external, manual). Easier with Python? I guess there is no way of 'automising' this preliminary step (as different books come with different kinds/amounts of additional material)?
-     - now switched to PyPDF2-package to keep everything in python. Good idea?
+  * done
 
 
 2. **OCR: Tesseract**
 
-   1. *page segmentation mode* for double pages (book format)? psm=1 vs psm=3 (default). result: psm=1 not more accurate and even a bit slower than psm=default (repeat comparison on bigger sample to verify results)
-   2. OCR works fine for main text but problems with footnotes/footers/headers. Possible solution: eliminating sentences containing words with low word confidence (e.g. less than 50%), hence footnotes will not be taken into account in subsequent NLP (prodigy, spacy).
-    - Desired result of 'post-editing': get one coherent txt-file  containing text from all images in correct order (i.e. ocr'ed output of individual images merged into one txt-file, excluding sentences with low word confidence, i.e. get rid of footnotes, headers, page numbers etc.), thus ready for subsequent NLP.
-    - Problem: how to (automatically) identify footnotes if number of fn (e.g. footnote "20") is not always ocr'ed as such? (but, e.g., as special character). Eliminating *all* sentences with low word confidence = risk of eliminating important sentences...
-    - try to come up with a different soulution (solely relying on elimination of sentences with low word confidence seems problematic..)
-       - possible solution (incl. 'interpretation'): only rely on elimination of sentences containing words with low word confidence *and* subsequently explain/rationalise this operation/decision: (i) some headers/footnotes will remain because tesseract is confident about ocr'ed output. But as long as those headers/footnotes do not contain the term soul and/or mind, they are not going to be taken into account by spacy's NLP-analysis anyway. (ii) some potentially important sentences are going to be eliminated by this operation but this is the price to pay for a large-scale computational analysis. Plus: as tesseract's performance is constantly improving, the risk of eliminating important sentences due to low word confidence is progressively diminishing.
-   3. turn OCR-output into one coherent txt-file, ready for subsequent use in SpaCy
-
+   1. fine-tuning psm?
+     * esp. psm= 1 (autmatic page seg + OSD)
+     * and psm= 3 (fully automatic, default)
+   2. fine-tuning def. of "low word accuracy": 50, 60, 70?
+   3. fine-tuning oem? (*engine modes* with different performance and speed)
+     * 0 = Legacy engine only
+     * 1 = Neural nets LSTM engine only
+     * 2 = Legacy + LSTM engines
+     * 3 = Default, based on what is available
+   4. eliminate page-/footnote-*number* by defining white- or blacklist?
+     * result not as imagined but blacklist can be used to prevent common OCR-mistakes, e.g. mistaking "I" (pronoun 1st person singular) for "[" or "|"
+   5. eliminate headers by defining book-layout-specific spacy Matcher (or RE), then identify, replace, and delete?
+   6. last-sent-on-page-problem for spacy sentenciser
+     * possible (part of) solution: preserve_interword_spaces = 1
+     * solution requires exact def. of:
+       * last-sent-on-page-problem: occurs when (i) last sent. in (last) paragraph not ending with punctuation ('.', '!', '?'), and (ii) first sent. in next paragraph (i.e. first paragraph on next page) not starting with upper case letter (in short: defined by missing punctuation and lower case)
+       *  headers: first paragraph on a page, spatially separated from main text, usually not longer than x words/characters, missing punctuation
+       *  footers: paragraphs starting with a number, last (spatially separated) paragraph(s) on page
+    * alternative solution: use computer vision (AI/ML) to recognise/analyse page layout, incl. headers & footnotes, e.g. Luminoth, DetectronV2, Larex, OCRopus, OpenCV
+  7. maybe descrew some images (esp. the books/chapters I scanned myself) to improve quality of OCR-output
 
 
 3. **SpaCy: preparation-notebook**
