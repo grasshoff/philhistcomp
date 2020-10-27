@@ -177,6 +177,8 @@ The following challenges, concerns, and questions are still to be resolved over 
        - problem with this solution: doesn't work for all books (different layouts), see e.g. Ockham's Quodlibetal Questions. Method for eliminating irrelevant material must thus be adapted to different book layouts (e.g. for Ockham: use spacy matcher to define pattern "number" for pagenumbers, and pattern "noun/word + number" as well as "spelled out number + quodlibet" for headers).
        - Ideally: different cells with different 'cleaning methods' that can be (de)activated acc. to 'requirements' book-specific layout. If not possible, then this is just the price to pay for large scale comp. analyses.
        - worth to check: project of UB Mannheim (scanning old newspaper), maybe they've already come up with diff. ways to handle complex page layouts?
+  * explain why I decided for "Remove_Me"-Method instead of post (error) correction phase: ocr'ed output is only a mean (and not an end) of my project, thus I chose a more 'radical' (and faster) strategy wrt to faulty OCR-output
+  * if tesseract-intern solution for footnotes/headers works, then at least mention Larex for more complex layouts / application to old books 
 
 
 
