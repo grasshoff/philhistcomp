@@ -146,6 +146,7 @@ After a short summer break, I will turn to the actual elaboration of my project 
   * overview of what (still) needs to be done (last update: end of October):
     - 4 notebook-templates in total: (i) OCR-notebook, (ii) preparation-notebook, (iii) individual-analysis-notebook, (iv) final-analysis-notebook. (for notebooks i & ii: one per book; for notebook iii: one per author, for notebook iv: one for all)
     - 3 training sessions with prodigy: (i) specialied NER, (ii) co-references, (iii) word vectors
+  * in Hausarbeit, include some schemes, e.g. basic workflow of notebooks, connection between the different notebook-templates, visualisation of strategy/method (from data collection to final comparison), structure of folder 'data'
 
 
 ## Some Challenges, Concerns, and Questions
@@ -178,7 +179,13 @@ The following challenges, concerns, and questions are still to be resolved over 
        - Ideally: different cells with different 'cleaning methods' that can be (de)activated acc. to 'requirements' book-specific layout. If not possible, then this is just the price to pay for large scale comp. analyses.
        - worth to check: project of UB Mannheim (scanning old newspaper), maybe they've already come up with diff. ways to handle complex page layouts?
   * explain why I decided for "Remove_Me"-Method instead of post (error) correction phase: ocr'ed output is only a mean (and not an end) of my project, thus I chose a more 'radical' (and faster) strategy wrt to faulty OCR-output
-  * if tesseract-intern solution for footnotes/headers works, then at least mention Larex for more complex layouts / application to old books 
+  * if tesseract-intern solution for footnotes/headers works, then at least mention Larex for more complex layouts / application to old books
+  * on Betti & van den Berg's (2003?) Towards a Computational History of Ideas, Proceedings of the Third Conference on Digital Humanities, Luxembourg:
+    - not sure if my approach meets their two requirements (sound method & data organisation), maybe it will - still need some time to consider. But if not: maybe what I am doing is not a comp. approach to the hist. of ideas but to the hist. of a philosophical concept (in a relatively short period of time), thus not exactely the same requirement wrt to "sound method" (I have to ask myself: what is the method employed by historians of philosophy to study the evolution of a philosophical concept? Re-check, for example, the way Perler comes to the concluison that there *is* a certain conceptual continuity between medieval and early modern views on the human soul. Did *he* meet Betti & van den Berg's criterion of 'sound method'?)
+    - acc. to B&vdB, historians' trad. method = combination of close reading, historical contextualisation, and conceptual analysis. If lack of contextual knowledge, then text is meaningless (i.e. no comprehension possible as context. K serves as interpretive key). Possible answer: training SpaCy's word vectors on phil. terminology = providing the machine with contextual knowledge / an interpretive key
+    - useful vocab: "text mining"
+    - in general: possible to use B&vdB's paper to support and/or defend my method
+    - also see van Wierst et al. (2016) Phil@Scale: Comp. Methods within Philosophy (with Betti as co-author). After the previous, highly critical paper, it seems rather surprising that they now propose such a primitive method for analysing similarity between books solely based on number of occ. of certain terms. Serious conflict/incoherencey between what Betti is demaning and what Betti is proposing.
 
 
 
@@ -191,6 +198,10 @@ The following challenges, concerns, and questions are still to be resolved over 
     * Dominik Perler, "What are Faculties of the Soul? Descartes and his Scholastic Background", in: John Marenbon, *Continuity and Innovation in Medieval and Modern Philosophy: Knowledge, Mind and Language*, Oxford, OUP, 2013.
 
     * Dominik Perler, "Classifying the Passions:	Descartes	and	His	Scholastic	Background",	in: Belgioioso & Carraud (eds.), *Les	passions	de l’âme*, Turnhout: Brepols	(the first ref. is enough, but could serve as suggestion/inspiration for future research!).
+
+    *Betti & van den Berg (2003?) Towards a Computational History of Ideas, Proceedings of the Third Conference on Digital Humanities, Luxembourg
+
+    * also see further lit. on comp. phil., esp. Betti et al., "Philosophy in Ones and Zeros", in: Fischer et al. (2019) *Methodological Advances in Experimental Philosophy*. Incl. overview of current research!
 
 
 2. **René Descartes**
