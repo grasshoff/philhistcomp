@@ -7,8 +7,6 @@ Descartes is commonly conceived as the founding father of modern philosophy, a n
 As a consequence, this assumption gives rise to a much more continuous, and thus more differentiated, perspective on the history of philosophy by devaluating the role usually attributed to the 'great thinkers' such as Descartes. In other words, it opens up the possibility to rethink the history of philosophy by considering Descartes only as one - nonetheless highly important - contributer to the *progressive* development from medieval to early modern philosophy. According to this view, the line should not be drawn between medieval and early modern debates, but rahter between various competing conceptual approaches originating from the medieval era which were still the subject of philosophical discussion in the early modern period.
 
 
-![](assets/Laurentius_de_Voltolina_001.jpg) *Fig.1*: Laurentius de Voltolina, *Liber ethicorum des Henricus de Alemannia*, second half of 14th century.
-
 ## The Idea
 
 The present investigation aims at re-evaluating the role of Descartes' work in the transition from scholasticism to modern philosophy by applying computational means to the field of the history of ideas. To do so, texts from Descartes, Ockham and Suárez are going to be compared with respect to their degree of conceptual similarity, i.e. the way certain philosophical key concepts are characterised throughout their writings, in particular (but maybe not exlusively) the concept of faculty and/or soul (clear dist. between theory of soul and theory of mind? Isn't *both* mind *and* soul = anima/animus in Latin? see Sect. on Challenges below). The analysis thus amounts to an empirical verification of Perler's argument according to which Descartes' thinking is still heavily influenced by the scholastic tradition - a claim that ultimately casts doubt on the dominant view of the French philosopher as the founding father of modern philosophy.
@@ -197,11 +195,7 @@ The following challenges, concerns, and questions are still to be resolved over 
 
     * Dominik Perler, "What are Faculties of the Soul? Descartes and his Scholastic Background", in: John Marenbon, *Continuity and Innovation in Medieval and Modern Philosophy: Knowledge, Mind and Language*, Oxford, OUP, 2013.
 
-    * Dominik Perler, "Classifying the Passions:	Descartes	and	His	Scholastic	Background",	in: Belgioioso & Carraud (eds.), *Les	passions	de l’âme*, Turnhout: Brepols	(the first ref. is enough, but could serve as suggestion/inspiration for future research!).
-
-    *Betti & van den Berg (2003?) Towards a Computational History of Ideas, Proceedings of the Third Conference on Digital Humanities, Luxembourg
-
-    * also see further lit. on comp. phil., esp. Betti et al., "Philosophy in Ones and Zeros", in: Fischer et al. (2019) *Methodological Advances in Experimental Philosophy*. Incl. overview of current research!
+  * Dominik Perler, "Faculties in Medieval Philosophy", in: Dominik Perler (Ed.)...
 
 
 2. **René Descartes**
