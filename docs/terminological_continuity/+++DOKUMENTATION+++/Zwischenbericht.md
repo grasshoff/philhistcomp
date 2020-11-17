@@ -1,10 +1,12 @@
-# New Era, New Ideas? Conceptual Continuity between Medieval and Early Modern Philosophy: Initiating a Computational Approach to the History of Philosohpical Ideas
+# New Era, New Ideas? Conceptual Continuity between Medieval and Early Modern Philosophy
 
 ## Background
 
 Descartes is commonly conceived as the founding father of modern philosophy, a new era in the history of philosophy which put an end to the scholastic tradition of medieval thinkers. This view, however, has recently been challenged by Dominik Perler who claims that in spite of Descartes' attempt to overcome scholastic theories of mind such as Francisco Suárez's account, he nevertheless remains in the medieval paradigm. This is because, according to Perler, Descartes' seemingly new approach to the theory of mind does in fact implicitly draw on the work of William of Ockham, i.e. yet another medieval scholar.
 
 As a consequence, this assumption gives rise to a much more continuous, and thus more differentiated, perspective on the history of philosophy by devaluating the role usually attributed to the 'great thinkers' such as Descartes. In other words, it opens up the possibility to rethink the history of philosophy by considering Descartes only as one - nonetheless highly important - contributer to the *progressive* development from medieval to early modern philosophy. According to this view, the line should not be drawn between medieval and early modern debates, but rahter between various competing conceptual approaches originating from the medieval era which were still the subject of philosophical discussion in the early modern period.
+
+(*Anmerkung*: meine Behauptungen, inkl. die Darstellung von Perlers Posisiton, sind etwas grob. Daran muss ich noch feilen)
 
 
 ## The Idea
@@ -13,6 +15,8 @@ The present investigation aims at re-evaluating the role of Descartes' work in t
 
 
 But the historical line drawn between medieval and early modern philosophy is only one example of the tendency to divide the continuous development of philosophical thinking into distinct periods, each of them having a definite beginning and ending. The present investigation on the yet unexplored potential of what current advancements in the field of natural language processing can contribute to historical questions in philosophy is thus at the same time intended to provide a new method which offers a novel perspective on the history of ideas. Hence, future research could apply the method developed in here to other distinctions in the history of philosophy and thereby contribute to the emergence of a (fairly?) new field of research at the intersection of philosophy and computer science, i.e. to a computational approach to the history of philosophical ideas.
+
+(*Anmerkung*: auch hier alles etwas zu grob dargestellt)
 
 
 ## Research Question
@@ -167,17 +171,16 @@ The following challenges, concerns, and questions must still be addressed over t
 
 
 
-## Literature
+## Literature (*Anm.*: kann ggf. gestrichen werden)
 
 1. **Background**
 
   * Dominik Perler, "What are Faculties of the Soul? Descartes and his Scholastic Background", in: John Marenbon (ed.), *Continuity and Innovation in Medieval and Modern Philosophy: Knowledge, Mind and Language*, Oxford, OUP, 2013, pp.9-38
 
-  * Dominik Perler, "Faculties in Medieval Philosophy", in: Dominik Perler (ed.), *The Faculties. A History*, Oxford, OUP, 2015, pp.97-139
 
 
 2. **Empirical sources for tests conducted during the semester**
 
-   * René Descartes, *Meditations on First Philosophy*, transl. by Elizabeth Haldane, Cambridge, CUP, 1911 (open-access, copyright expired)
+   * René Descartes, *Meditations on First Philosophy*, transl. by Elizabeth Haldane, Cambridge, CUP, 1911 (open-access, copyright expired (?) *Anmerkung zu bib-entry*: in der von mir verwendeten txt-Version dieser Übersetzung heißt es *Copyright: 1996, Internet Encyclopedia of Philosophy. This file is of the 1911 edition of The Philosophical Works of Descartes (Cambridge University Press), translated by Elizabeth S. Haldane*. Deshalb bib-entry anpassen?)  
 
-   * Francisco Suárez, *De Anima, Disputation 12, Question 2*, transl. by Sydney Penner, online, 2011, [sydneypenner.ca/su/DA_d12q2.pdf](http://www.sydneypenner.ca/su/DA_d12q2.pdf), last retrieved on 12.11.20 (open-access, copyright S. Penner)
+  * Francisco Suárez, *De Anima, Disputation 12, Question 2*, transl. by Sydney Penner, online, 2011, [sydneypenner.ca/su/DA_d12q2.pdf](http://www.sydneypenner.ca/su/DA_d12q2.pdf), last retrieved on 12.11.20 (open-access, copyright S. Penner)
