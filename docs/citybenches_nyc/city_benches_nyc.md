@@ -1,4 +1,4 @@
-## Shortes distance between city benches in NYC
+## Title: Shortest distance between city benches in NYC
 
 
 ## Research Objects
@@ -10,6 +10,6 @@
 **research question** = What is the shortest distance between two city benches in 2019?
 
 
-## Namen der Autoren
+## Authors 
 
 Noah Nasarek, Manuel Dedio, Daria Zakharova

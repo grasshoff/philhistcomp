@@ -11,7 +11,7 @@ As a consequence, this assumption gives rise to a much more continuous, and thus
 
 ## The Idea
 
-The present investigation aims at re-evaluating the role of Descartes' work in the transition from scholasticism to modern philosophy by applying computational means to the field of the history of ideas. To do so, texts from Descartes, Ockham and Suárez are going to be compared with respect to their degree of conceptual similarity, i.e. the way certain philosophical key concepts are characterised throughout their writings, in particular (but maybe not exlusively) the concept of faculty and/or soul. The analysis thus amounts to an empirical verification of Perler's argument according to which Descartes' thinking is still heavily influenced by the scholastic tradition - a claim that ultimately casts doubt on the dominant view of the French philosopher as the founding father of modern philosophy.
+The present investigation aims at re-evaluating the role of Descartes' work in the transition from scholasticism to modern philosophy by applying computational means to the field of the history of ideas. To do so, texts from Descartes, Ockham and Suárez are going to be compared with respect to their degree of conceptual similarity, i.e. the way certain philosophical key concepts are characterised throughout their writings, in particular (but maybe not exlusively) the concept of faculty and/or soul (clear dist. between theory of soul and theory of mind? Isn't *both* mind *and* soul = anima/animus in Latin? see Sect. on Challenges below). The analysis thus amounts to an empirical verification of Perler's argument according to which Descartes' thinking is still heavily influenced by the scholastic tradition - a claim that ultimately casts doubt on the dominant view of the French philosopher as the founding father of modern philosophy.
 
 
 But the historical line drawn between medieval and early modern philosophy is only one example of the historians' tendency to divide the continuous development of philosophical thinking into distinct periods, each of them having a definite beginning and ending. The present investigation on the yet unexplored potential of what current advancements in the field of natural language processing can contribute to historical questions in philosophy is thus at the same time intended to provide a new method which offers a novel perspective on the history of ideas. Hence, future research could apply the method developed in here to other distinctions in the history of philosophy and thereby contribute to the emergence of a (fairly?) new field of research at the intersection of philosophy and computer science, i.e. to a computational approach to the history of philosophy.
@@ -25,13 +25,14 @@ With respect to the distinction between medieval and early modern philosophy, th
 
 
 
-## The Method (work in progress)
+## The Method (last update: end of July)
 
 1. **Preparation 1 (before importing the txt-files into Jupyter Notebook)**
 
     1. find all the relevant writings in txt-format and in one coherent language (already done except for Ockham, probably in Latin as most parts of the writings haven't been translated into English yet. I will thus use the spaCy model for Latin, whose efficiency is uncertain.)
-    2. merge all the relevant writings of the three authors, i.e. create 3 big txt-files, one for each author, containing all the relevant raw data: Descartes.txt, Suarez.txt, Ockham.txt
-    3. clean up the txt-files: page numbers, footnotes, words sticking together etc. (ideally: write or find an algorithm to do the job for me)
+    2. if source = pdf/scan, use tesseract to obtain txt-file. also consider some (manual) pre-processing (either before using tesseract or as part of step 4 below): cut out cover page, foreword/intro/epilogue (if not written by author in question), index, etc. Special treatment for 'dialogues' (such as objection-and-response section in Descartes' Meditations, or Plato's socratic dialogues): only take into account responses, i.e. those parts of the dialogue which express the view of the author. Another problematic 'style' requiring special treatment: citations (a kind of 'Fremdautorenzuschreibung' which cannot be identified without context)
+    3. merge all the relevant writings of the three authors, i.e. create 3 big txt-files, one for each author, containing all the relevant raw data: Descartes.txt, Suarez.txt, Ockham.txt
+    4. clean up the txt-files: page numbers, footnotes, words sticking together etc. (ideally: write or find an algorithm to do the job for me)
 
 
 2. **Preparation 2 (in Jupyter Notebook)**
@@ -47,7 +48,7 @@ With respect to the distinction between medieval and early modern philosophy, th
 
 3. **Preparatory Analysis**
 
-    1. use SpaCy Matcher to define pattern = [{"LEMMA" : "soul" *and/or* "faculty"}]
+    1. use SpaCy Matcher to define pattern = [{"LEMMA" : "soul" *and/or* "faculty"}]. What about key concept of "mind"? Clear diff. between theories of soul and theories of mind? Also a problem of translation? Important to mention this in my paper (whether or not I have decided to also take into account term "mind")!
     2. use Prodigy to train/improve model for  coreference relationships in order to detect implicit references to the terms in question
     3. apply steps 3.1 and 3.2 to doc_Descartes, doc_Suarez, and doc_Ockham (i.e. identify all explicit and implicit references to concept(s) in question)
     4. create dataframe_B with 4 columns for each author, i.e. 12 columns in total (creation of dataframe requires several steps, maybe divide into 2 separate dataframes, one for spans and sentence number, one for sentence number and corresponding sentence):
@@ -81,14 +82,14 @@ With respect to the distinction between medieval and early modern philosophy, th
 
 4. **Final Analysis**
 
-    1. analyse semantic similarity between the three sets of the different ways the three authors characterise the concept(s) respectively, where every set contains *x* subsets (if necessary, use Prodigy to train/improve word vectors for philosophical terminology in order to enhance the subsequent comparison of semantic similarity):
+    1. analyse semantic similarity between the three sets of the different ways the three authors characterise the concept(s) respectively, where every set contains *x* subsets (two remarks: (i) if necessary, use Prodigy to train/improve word vectors for philosophical terminology in order to enhance the subsequent comparison of semantic similarity, (ii) maybe decide *not* to take into account occ. of certain NER-categories, such as Fremdautorenzuschreibung, since those occ. do in fact *not* express the point of view of the author in question. Identifying those occ. was thus still highly important!):
         1.  doc_DescartesNER.similarity(doc_SuarezNER)
         2.  doc_DescartesNER.similarity(doc_OckhamNER)
         3.  doc_SuarezNER.similarity(doc_OckhamNER)
     2. compare degree of semantic similarity: is degree of similarity Descartes/Ockham *significantly higher* than degree of similarity Suarez/Ockham?
 
 
-## What I have done so far
+## What I have done so far (last update: end of July)
 
 All the work I have done during the semester was rather preparatory and was mostly carried out for educational reasons, i.e. in order to improve my understanding of the numerous operations/tools provied SpaCy. For this reason, I decided to only work with two small, non-representative extracts of Suárez' and Descartes' writings: Sydney Penner's (2011) English translation of Suárez' *De Anima, Disputation 12, Question 2*, and Elizabeth S. Haldane's (1911) English translation of Descartes' *Meditationes*. With those two sample texts, I tried out different approaches for preparing, analysing, and comparing the data which allowed me to progressively develop a detailed strategy for my main project which I am now going to carry out in the form of a seminar paper.
 
@@ -142,19 +143,49 @@ After a short summer break, I will turn to the actual elaboration of my project 
   * find a set of approx. 500 sentences in which those patterns occur, turn into jsonl-format and train a specialised NER-model using Prodigy
   * apply the model to the sample texts to test their accuracy
   * if sufficiently accurate, proceed as outlined above in *The Method*
+  * overview of what (still) needs to be done (last update: end of October):
+    - 4 notebook-templates in total: (i) OCR-notebook, (ii) preparation-notebook, (iii) individual-analysis-notebook, (iv) final-analysis-notebook. (for notebooks i & ii: one per book; for notebook iii: one per author, for notebook iv: one for all)
+    - 3 training sessions with prodigy: (i) specialied NER, (ii) co-references, (iii) word vectors
+  * in Hausarbeit, include some schemes, e.g. basic workflow of notebooks, connection between the different notebook-templates, visualisation of strategy/method (from data collection to final comparison), structure of folder 'data'
 
 
 ## Some Challenges, Concerns, and Questions
 
 The following challenges, concerns, and questions are still to be resolved over the next weeks and months:
 
-  * I have not yet found all the relevant writings in txt-format (esp. Ockham) and in one coherent language (presumably Latin). Thus, I will probably spend some time on looking for those texts on the internet (suggestions for archives and/or digital databases are very welcome!)
+  * I have not yet found all the relevant writings in txt-format (esp. Ockham) and in one coherent language (presumably Latin). Thus, I will probably spend some time on looking for those texts on the internet (suggestions for archives and/or digital databases are very welcome!). *Possible solution*: (i) scan original Latin texts and/or English translations, (ii) extract text from images/pdfs using OCR-software (Tesseract)
   * although I do have basic knowledge of Latin, it might well exceed my capacities to manually train a Latin model for named entity recognition. For this taks, I might thus need some external help
   * if the main project uses the original Latin texts, does it still make sense to train an English model for the specialised NER?
-  * for final comparison: what does it means for a degree of semantic similarity to be *significantly higher* than another?
+  * **intermediate results** for the first three concerns: after having tried out several alternative approaches (see Notebook "OCR_latin"), it seems (for now) rather difficult - almost impossible - to work with the original Latin texts. Hence, I have no other choice but to work with the English translations - which (i) significantly reduces the available data for my computational analysis as most texts have never (or rather: not yet?) been translated into English/German/French, and (ii) means that the results of my analysis have absolutely no value for considerations concerning the history of philosophy (as initially claimed). Instead, I will concentrate on the development of a methode ("a computational approach to the hist. of phil.) and leave its adequate application for future research. As (i) tesseract (or some other OCR-software) is becoming more and more powerful and (ii) projects concerned with the digitalisation of medieval texts are still running, it seems not unlikey that it will be possible to work with the Latin texts in the near future.
+    - BUT: I have not done all the work on / attemps with the Latin texts for nothing! Possibility to 'problematise' the decision not to work with the Latin originals: there are x sources, i.e. digitalisation projects (Castello., Vivès, Penner), but all the versions available *at the moment* do not allow for a NLP-analysis (since: ref. to my test-notebooks)
+  * for final comparison: what does it means for a degree of semantic similarity to be *significantly higher* than another? (maybe check notion of "significant difference" in my notes on the statistics lectures at Glasgow Uni, esp. semester 3, lectures 3 and 4 on *Null Hypothesis Significance Testing* (nhst) and *t-test*. Possible to apply to degree of sem. similarity?)
   * improve the chain of operations in the different Notebooks, i.e. 'automatise' the operations which, for now, I carried out manually
   * alternatively to defining the different patterns as named entities, I could also define them as text classifications (i.e. an alternative way to train models using Prodigy). Or even do both. I still have to look into this in more detail
   * figure out how to deal with implicit references: train a model for coreference relationships
+  * the method, as conceived at present, presupposes that every author (philosopher) in question defends *one consistent* theoretical position throughout all of his works (or at least in all the works that are taken into account for the analysis). However, this is usually not the case: people change their view. Two solutions: (i) only take into account those writings of which one knows that they are in line with a certain position held by the author at a particular moment in his lifetime. (ii) possibility of applying method developed in here (comparison of different phil. eras/trad.) to comparison of different 'stages' in a philosopher's thinking, i.e. move method from broad historical level to individual level
+  * dist. between theories of soul and theories of mind? Maybe include both terms as key words and treat as equivalent? Important to discuss this problem (of translation? animus/anima, mens/mentis = soul and/or mind?) in my dissertation! In D's Meditationes, e.g., only 3 occ. of term soul... Isn't the translators' decision to use mind instead of soul already an (implicit/involuntary) act of modernising Descartes' thinking, i.e. a 'translation bias' enforcing the idea of a non-progressive distinction between medieval and early modern philosophy? (update: in original Latin version of D's Meditations, he frequently uses mens/metnis and only rarely animus/anima. BUT: both mens/mentis and animus/anima can be translated as soul and/or mind.
+    - title of D's 6th Meditation = important hint for intepretation: in original Latin version, "De rerum materialium existentia & realis *mentis* a copore distinctione" (and thus, all Engl. transl. used mind instead of soul); however, in French version (which was read and approved by Descartes himself!), the title is "De l'existence des choses matérielles, et de la réelle distinction entre *l'âme* et le corps de l'homme". Hence, a reason to consider soul and mind as synonymes (at least in D's writings).
+  * for training with Prodigy: when manually highlighting those passages of a sentence that correspond to a previously defined NER-category, should I try to *exlcude* occ. of term soul/mind in order to improve subsequent analysis of semantic similarity? But if I do so, is spacy still going to be able to 'make sense' of what I am trying to acheive with the training?
+    - Update: one of the main reasons to train specialised NER-categories was in fact to get rid of occ. of term soul, i.e. what's common to all sentences, and thus decrease spacy's judgement on degree of semantic similarity
+  * OCR-problem: OCR works (fairly) fine for main text but problems with footnotes/footers/headers.
+    - Possible solution: eliminating sentences containing words with low word confidence (e.g. less than 50%), hence footnotes will not be taken into account in subsequent NLP (prodigy, spacy).
+    - Desired result of 'post-processing': get one coherent txt-file containing text from all images in correct order (i.e. ocr'ed output of individual images merged into one txt-file, excluding sentences with low word confidence, i.e. get rid of footnotes, headers, page numbers etc.), thus ready for subsequent NLP.
+    - Problem: how to (automatically) identify footnotes if number of fn (e.g. footnote "20") is not always ocr'ed as such? (but, e.g., as special character). Eliminating all sentences with low word confidence = risk of eliminating important sentences...
+    - final solution (incl. 'interpretation'): only rely on elimination of sentences containing words with low word confidence and subsequently explain/rationalise this operation/decision: (i) some headers/footnotes will remain because tesseract is confident about ocr'ed output. But as long as those headers/footnotes do not contain the term soul and/or mind, they are not going to be taken into account by spacy's NLP-analysis anyway. (ii) some potentially important sentences are going to be eliminated by this operation but this is the price to pay for a large-scale computational analysis. Plus: as tesseract's performance is constantly improving, the risk of eliminating important sentences due to low word confidence is progressively diminishing.
+    - still to decide: def. of "low word confi", e.g. 60 or 70. And justify decision! (e.g. by referring to to its intended, subsequent use, i.e. for NER-training and -application, and how much inaccuracy is digestable for those tasks)
+    - still to solve: problem with spacy sentenciser (as part of OCR-notebook) when last sent. on page continues on next page. In this case: sentenciser considers footnotes as (second) part of last sentence, and header/pagenumber on top of next page as (first) part of second part of sentence from previous page
+       - possible solution: tesseract-config "preserve_interword_spaces=1", thereby identify headers/footnotes as being more distant from main text than lines of main text are from each other
+       - problem with this solution: doesn't work for all books (different layouts), see e.g. Ockham's Quodlibetal Questions. Method for eliminating irrelevant material must thus be adapted to different book layouts (e.g. for Ockham: use spacy matcher to define pattern "number" for pagenumbers, and pattern "noun/word + number" as well as "spelled out number + quodlibet" for headers).
+       - Ideally: different cells with different 'cleaning methods' that can be (de)activated acc. to 'requirements' book-specific layout. If not possible, then this is just the price to pay for large scale comp. analyses.
+       - worth to check: project of UB Mannheim (scanning old newspaper), maybe they've already come up with diff. ways to handle complex page layouts?
+  * explain why I decided for "Remove_Me"-Method instead of post (error) correction phase: ocr'ed output is only a mean (and not an end) of my project, thus I chose a more 'radical' (and faster) strategy wrt to faulty OCR-output
+  * if tesseract-intern solution for footnotes/headers works, then at least mention Larex for more complex layouts / application to old books
+  * on Betti & van den Berg's (2003?) Towards a Computational History of Ideas, Proceedings of the Third Conference on Digital Humanities, Luxembourg:
+    - not sure if my approach meets their two requirements (sound method & data organisation), maybe it will - still need some time to consider. But if not: maybe what I am doing is not a comp. approach to the hist. of ideas but to the hist. of a philosophical concept (in a relatively short period of time), thus not exactely the same requirement wrt to "sound method" (I have to ask myself: what is the method employed by historians of philosophy to study the evolution of a philosophical concept? Re-check, for example, the way Perler comes to the concluison that there *is* a certain conceptual continuity between medieval and early modern views on the human soul. Did *he* meet Betti & van den Berg's criterion of 'sound method'?)
+    - acc. to B&vdB, historians' trad. method = combination of close reading, historical contextualisation, and conceptual analysis. If lack of contextual knowledge, then text is meaningless (i.e. no comprehension possible as context. K serves as interpretive key). Possible answer: training SpaCy's word vectors on phil. terminology = providing the machine with contextual knowledge / an interpretive key
+    - useful vocab: "text mining"
+    - in general: possible to use B&vdB's paper to support and/or defend my method
+    - also see van Wierst et al. (2016) Phil@Scale: Comp. Methods within Philosophy (with Betti as co-author). After the previous, highly critical paper, it seems rather surprising that they now propose such a primitive method for analysing similarity between books solely based on number of occ. of certain terms. Serious conflict/incoherencey between what Betti is demaning and what Betti is proposing.
 
 
 
@@ -166,28 +197,66 @@ The following challenges, concerns, and questions are still to be resolved over 
 
     * Dominik Perler, "What are Faculties of the Soul? Descartes and his Scholastic Background", in: John Marenbon, *Continuity and Innovation in Medieval and Modern Philosophy: Knowledge, Mind and Language*, Oxford, OUP, 2013.
 
-    * Dominik Perler, "Classifying the Passions:	Descartes	and	His	Scholastic	Background",	in: Belgioioso & Carraud (eds.), *Les	passions	de l’âme*, Turnhout: Brepols	(forthcoming, maybe I can get a copy of the draft, if not, then the first reference should still be enough).
+    * Dominik Perler, "Classifying the Passions:	Descartes	and	His	Scholastic	Background",	in: Belgioioso & Carraud (eds.), *Les	passions	de l’âme*, Turnhout: Brepols	(the first ref. is enough, but could serve as suggestion/inspiration for future research!).
+
+    *Betti & van den Berg (2003?) Towards a Computational History of Ideas, Proceedings of the Third Conference on Digital Humanities, Luxembourg
+
+    * also see further lit. on comp. phil., esp. Betti et al., "Philosophy in Ones and Zeros", in: Fischer et al. (2019) *Methodological Advances in Experimental Philosophy*. Incl. overview of current research!
 
 
 2. **René Descartes**
 
     * Meditationes de prima philosophia (esp. Med. IV & VI)
+      - pdf of Engl. transl.
     * The Passions of the Soul (esp. Part I & II)
+      - pdf of Engl. transl.
     * Principia Philosophiae (esp. Part I)
+      - pdf of Engl. transl.
     * La Recherche de la Vérité (esp. Eluc. X)
+      - pdf of Engl. transl.
+    * Description of the Human Body and all of its Functions
+      - not mentioned by Perler but 21 occ. of term soul (and Engl. transl. available as pdf)
 
 
 3. **William of Ockham**
 
-    * Quodlibeta Septem (esp. Part I & II, i.e. OT 9)
-      - Engl. Transl.: Fredosso & Kelley, Quodlibeta Questions, Yales Uni. Press, *not* available for free as pdf/txt
+    * Quodlibetal Septem (esp. Part I & II, i.e. OT 9)
+      - Engl. Transl.: Fredosso & Kelley, Quodlibeta Questions, Yales Uni. Press, *not* available for free as pdf/txt (waiting for answer from YUP, otherwise: OCR relevant passages acc.to index entry on term soul)
     * Ordinatio (esp. Part I, i.e. OT 1)
+      - Engl. transl. of Ordinatio: Prologue, dist.2,q.9, dist.11,q.8,  dist.38, in Boehner (1964) Ockham's Phil. Writings, Hackett Publishing (obtained)
+      - Engl. transl. of Ordinatio: dist.2,q5&6, dist.30,q.1, in Walsh & Hyman (eds., 2010) Philosophy in the Middle Ages, Hackett Publishing (obtained)
+      - Engl. tranls. of Ordinatio: dist.2, q.4-8, in Spade (1994) Five texts on the medieval problem of universals, Hackett Publishing
     * Reportatio (esp. Part II & IV, i.e. OT 5 & 7)
+      - Engl. tranls. of Reportation (III): q.8&9, in Boehner (1964) Ockham's Phil. Writings, Hackett Publishing (obtained)
+      - Engl. transl. of Reportatio (II): q.12&13, in Walsh & Hyman (eds., 2010) Philosophy in the Middle Ages, Hackett Publishing (obtained)
+    * (those are, to the best of my knowledge, all the sections of Ockham's writings that have been translated into English (up to this day) and that are relevant for my research question (i.e. sections in which Ockham (potentially) discusses questions concerning the soul and its faculites; I did not include Engl. transl. of O's Summa Logicae in spite of numerous occ. of term soul because those rather concern logical questions and/or serve as examples). Search primarily based on SEP (footnotes), Intro to Cambridge Companion to Ockham (list of Engl. transl.), several other bib-entries of books on Ockham containing lists of Engl. transl., and Google. In Hausarbeit, maybe discuss problem/challenge of 'pre-selection' of writings of a particular author: not *all* occ. of a certain concept/term are relevant or even appropriate for analysing a specific research question)
+
 
 
 4. **Francisco Suárez**
 
     * De Anima (DA, esp. Parts I & II)
-      - Engl. transl.: Kronen & Reedy, Selections from De Anima (Disp. 1 & Disp. 2, Q. 3), Philosophia Verlag, *not* available for free as pdf/txt
+      - Engl. transl.: Kronen & Reedy, Selections from De Anima (Disp. 1 & Disp. 2, Q. 3), Philosophia Verlag, *not* available for free as pdf/txt (obtained, 600-800 occ.)
+      - Sydney Penner's (2011, *not revised*) Engl. transl. of Suárez' De Anima, Disputation 12, Question 2 (10 occurences of term 'soul'; however, translation probably not consistent with Kronen & Reedy's transl., thus only use if desperately in need of more examples)
     * Disputationes Metaphysicae (DM, esp. Part 12.2 & 18.5)
+      - Sydney Penner's Engl. transl. of selected passages, some revised (sections of DM8, 10, 12, 13, 23, 24, 30, 32, 48), some unrevised (20 occ. of term soul in his revised transl.)
+      - Kronen & Reedy's transl. of DM15: On the formal cause of substance, Marquette Uni. Press (obtained, 300 occ. of soul)
+      - Vollert's transl. of DM7: On the various kinds of distinctions, Marquette Uni. Press (obtained, 6 occ. of soul)
+      - Wells' Engl. transl. of DM31: On the essence of finite being as such, and the existence of that essence and their distinction, Marquette Uni. Press (obtained, 70 occ. of  soul)
+      - Dolye's Engl. transl. of DM47: On real relation, Marquette Uni Press (obtained, 5 occ.)
+      - Ross' Engl. transl. of DM6: On formal and universal unity, Marqutte Uni. Press (not yet obtained)
+      - Freddoso's Engl. transl. of DM17-19: On efficient causality, Yale Uni. Press (not yet obtained)
     * De actibus qui vocantur passiones (esp. I.3)
+      - not yet found an Engl. transl.
+
+
+
+5. **John Kronen's suggestions for additional literature**
+
+    * Étienne Gilson (arguing for different kind of influence on Descartes, namely that of Suárez; if there really is a tension between Perler's and Gilson's accounts, then this would make my investigation even more interesting - as the outcome of my analysis could either point into Perler's *or* Gilson's direction)
+    * Wells, Norman J. (also on Suárez' influence on Descartes)
+       * "Objective Being: Descartes and His Sources,"  Modern Schoolman  45  (1969), 49-61.
+       * "Suarez on the Eternal Truths, I and II," The Modern Schoolman 58  (1980-81), 73-104, 159-174.
+       * "Material Falsity in Descartes, Arnauld, and Suárez," Journal of the History of Philosophy 22  (1984), 25-50.
+       * "Descartes' Idea and its Sources," American Catholic Philosophical Quarterly 67 (1993), 513-535.
+    * Dennis Des Chene (see Intro to *Selections from De Anima*)
