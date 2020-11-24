@@ -6,7 +6,7 @@
 
 Since the beginning of the covid-19 pandemic nurses (alongside doctors and other medical workers) have been celebrated globally for risking their health and working overtime in order to fight the virus. The work done by nurses has been subject to increased attention, which has led to a debate on their work conditions, wages, and the social recognition of their profession. 
 
-The mainstream celebration of nurses has, however, also provoked hatred and frustration in sub-discourses. On the male dominated online imageboard [4chan](4chan.org) there has been a rise of discussion threads revolving around hatred against nurses. These threads mostly appear on the board /pol/ ("Politically Incorrect"). Such threads are often referred to as "nurse hate threads". The vast majority of these discussions combine the hatred against nurses with explicit misogyny; the nurses are mostly incapable, immoral or immature in virtue of being women. Importantly, these characterizations of nurses mostly aim at creating an antithesis to the figure of the hero. Nurses (predominantly in virtue of being women) are ridiculed as not skilled, ethical, mature, or smart enough to be real heroes. Rather, they are assumed to exploit the current attention in order to stage themselves as heroes. Thus, they are not only framed as not having the properties of a hero. They are framed as the explicit opposite of a hero; a non-hero. 
+The mainstream celebration of nurses has, however, also provoked hatred and frustration in sub-discourses. On the male dominated online imageboard [4chan](4chan.org) there has been a rise of discussion threads revolving around hatred against nurses. These threads mostly appear on the board /pol/ ("Politically Incorrect"). Such threads are often referred to as "nurse hate threads". The vast majority of these discussions combine the hatred against nurses with explicit misogyny; the nurses are claimed to be incapable, immoral or immature in virtue of being women. Importantly, these characterizations of nurses seemingly aim at creating an antithesis to the figure of the hero. Nurses (predominantly in virtue of being women) are ridiculed as not skilled, ethical, mature, or smart enough to be real heroes. Rather, they are assumed to exploit the current attention in order to stage themselves as heroes. Thus, they are not only framed as not having the properties of a hero. They are framed as the explicit opposite of a hero; a non-hero. 
 
 The observations sketched above give rise to multiple questions. Why is the figure of a female hero so negatively received in certain online sub-discourses? Are such misogynist attitudes augmented in the context of a pandemic? The covid-19 virus is a source of global fear and instability. Thus, there is reason to believe that the hatred against female nurses is partly nurtured by a notion of powerlessness and a fear of transforming power relations. There is indeed a connection between the caring provided by nurses and the notion of power. If somebody has the skills and knowledge to improve or save your life it may give rise to a strong feeling of dependence.[^1] In the current situation the world's societies are absolutely dependent on medical workers, both for health and financial reasons. In other words, the pandemic has emphasized the necessity of nurses and the fact that their profession is crucial in a time of crisis.  
 
@@ -40,7 +40,7 @@ A script was written to scrape the text from all posts on the board /pol/ contai
 
 Subsequently the data was to be prepared for the natural language processing (NLP). I imported spaCy, which is an open-source software library developed for advanced NLP. The textual data (4chan posts) was almost exclusively in English and I therefore loaded spaCy's core model for English (en_core_web_sm). Core models are models pretrained to predict i.a. part-of-speech tags and syntactic dependencies. These two features were especially important in detecting both attributions ascribed to nurses and the various ways of classifying nurses in groups. 
 
-##### Three representative examples
+##### Ten representative examples
 
 I then printed the beginning of all 116 posts in order to search for representative examples. Interesting posts were printed in their totality, and my search resulted in ten representative posts. The ten posts display a certain variety within the 4chan discourse. In post72, for example, the author points out that "Nurses are necessary, without them hospitals don't function. They do 90% of the work inpatients need and are a wealth of knowledge. If you've every been hospitalized for any length of time you already know this."  Although some positive accounts of nurses are shared and discussed, the majority of the 4chan discussions revolve around the female nurse as incompetent, reckless, overworked, immature or as a female ignoring her motherly and feminine duties. The selection of example posts and comments underneath are therefore examples of mainly such degrading discussion. 
 
@@ -86,13 +86,13 @@ There are 308 responds to post B. A possible reason for the many reactions is th
 
 The author begins by addressing the fact that the pandemic has led to a high number of threads dominated by a negative attitude towards nurses. Then the necessity of nurses in terms of work capacity and knowledge is emphasized. Further, the post appeals to personal experience; people who have been hospitalized should be aware of this. The post ends with a question. Are the negative attitudes displayed a result of the discussants in 4chan being "real life incels" or is it due to "Chinese shills"? The term incel is short for "involuntary celibates" and refers to an online subculture of men who consider themselves unable to establish romantic and sexual relationships despite a desire to do so. Importantly, incels blame women for their involuntary celibate.[^5]  This is a clear reference to the misogynist dimension of the nurse hatred displayed on 4chan.  
 
-A "shill" is defined as someone who helps a person persuade other people to do something.[^6] There has been online discussion on the so-called "Chinese shills", where it is suggested that the Chinese government pays both American and Chinese citizens to spread pro-Chinese and anti-American propaganda.[^7] The term gained a new meaning with the Covid-19 outbreak. There are online communities committed to reveal various government's alleged attempts to obscure and downplay the amount of cases in China and on a global scale.[^8] The post seems to imply that the skepticism and hatred towards nurses may be fueled by forces trying to ridicule and diminish the current global health crisis.   
+A "shill" is defined as someone who helps a person persuade other people to do something. There has been online discussion on the so-called "Chinese shills", where it is suggested that the Chinese government pays both American and Chinese citizens to spread pro-Chinese and anti-American propaganda.[^6] The term gained a new meaning with the Covid-19 outbreak. There are online communities committed to reveal various government's alleged attempts to obscure and downplay the amount of cases in China and on a global scale.[^7] The post seems to imply that the skepticism and hatred towards nurses may be fueled by forces trying to ridicule and diminish the current global health crisis.   
 
 ###### Overview of comments in thread 
 
 The post described above is atypically positive and mostly constructive, and the comments are thus more varied than in other nurse related threads. One of the first comments (comc2) states the following: "Nurses and doctors are unironically heroes right now. Risking their lives to save other lives. Definition of heroism." A further comments admits to the importance of nurses but underlines that nurses are essentially motivated by the need for attention (comc5), whereas yet another post claims "Nurses should die in a fire" due to their selfishness and uselessness (comc34). 
 
-The last comment printed in its totality in the notebook reads as follows: "There’s constant demand for nurses because our societies are constantly growing fatter, older, and sicker. Once the boomers die off and wine aunts an hero demand for nurses will collapse" (comc35). In this comment the celebration of nurses is explained exclusively by a society in decay; obesity, age, and increasing health issues. The term "boomers" is inspired by the term baby boomers and refers to middle aged or older people who do not understand the mindset of the so-called "generation Z".[^9] The wine aunts may refer to the generation before, feeding into the narrative of a sick society, here on the example of elders and alcoholism. The prophecy seems to be that once these people are dead society will revitalize and the demand for nurses will decrease, which will lead to collapse of the heroic nurse figure. In other words, the celebration of nurses as heroes is considered a consequence of a sick society.  
+The last comment printed in its totality in the notebook reads as follows: "There’s constant demand for nurses because our societies are constantly growing fatter, older, and sicker. Once the boomers die off and wine aunts an hero demand for nurses will collapse" (comc35). In this comment the celebration of nurses is explained exclusively by a society in decay; obesity, age, and increasing health issues. The term "boomers" is inspired by the term baby boomers and refers to middle aged or older people who do not understand the mindset of the so-called "generation Z".[^8] The wine aunts may refer to the generation before, feeding into the narrative of a sick society, here on the example of elders and alcoholism. The prophecy seems to be that once these people are dead society will revitalize and the demand for nurses will decrease, which will lead to collapse of the heroic nurse figure. In other words, the celebration of nurses as heroes is considered a consequence of a sick society.  
 
 ----
 
@@ -122,7 +122,7 @@ A data frame with 116 posts and more than 14 000 comments constitutes a well of 
 
 ### **Footnotes**
 
-[^1] Although many nurses themselves report not feeling any power in their profession, and that they consider caring and power to be opposite concepts. See Rafael (1996). 
+[^1] Although many nurses report not feeling any power in their profession, and that they consider caring and power to be opposite concepts. See Rafael (1996). 
 
 [^2] See for example Kalisch et al. (1982), Hallam (2005) and Daly et al. (2005). 
 
@@ -130,15 +130,13 @@ A data frame with 116 posts and more than 14 000 comments constitutes a well of 
 
 [^4] "Sloot" is a transformation of the derogatory term "slut" where the number of o's may indicate the degree of "sluttyness". 
 
-[^5] See for example Byerly (2020).
+[^5] See for example Byerly (2020). 
 
-[^6] See https://dictionary.cambridge.org/dictionary/english/shill. 
+[^6] See for example Kredo (2012). 
 
-[^7] See for example Kredo (2012). 
+[^7] An example is the group "nCovshills" on reddit.com: https://www.reddit.com/r/ncovshills/, link retrieved 13.10.2020.
 
-[^8] An example is the group "nCovshills" on reddit.com: https://www.reddit.com/r/ncovshills/, link retrieved 13.10.2020.
-
-[^9] See Lorenz (2019). 
+[^8] See Lorenz (2019). 
 
 *All links retrieved 14.10.2020.*
 
