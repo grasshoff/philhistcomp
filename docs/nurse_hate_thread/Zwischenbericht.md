@@ -16,7 +16,7 @@ There is an obvious conflict between nurses framed as crucial and powerful profe
 
 ### **Research question**
 
-This project explores attributes ascribed to female nurses in the sub-discourse on the online imageboard 4chan. More concretely, I look closer at how nurses are negatively defined within this discourse as non-heroes. 
+This project explores attributes ascribed to female nurses in the sub-discourse on the online imageboard 4chan. More concretely, I look closer at how female nurses are negatively defined within this discourse as non-heroes. 
 
 ### **Research object**
 
