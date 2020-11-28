@@ -1,5 +1,3 @@
-[Work in progress]
-
 # The female non-heroes in online "nurse hate threads" 
 
 ### Background
