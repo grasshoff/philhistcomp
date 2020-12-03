@@ -3,7 +3,7 @@ nav:
   - Projekte:
       Aztekten:
         Text: aztec_classification_of_butterflies/FlorentineCodexButterflies.md
-        Notebook: aztec_classification_of_butterflies/papalotlFlorentineCodex.md
+        Notebook: aztec_classification_of_butterflies/TheButterfliesOfTheFlorentineCodex.ipynb
 theme:
   name: readthedocs
   font: Roboto
@@ -26,3 +26,6 @@ plugins:
       bib_file:  "seminar.bib"
       cite_style:  "pandoc"
       csl_file: "chicago.csl"
+  - mkdocs-jupyter:
+      include_source: True
+
