@@ -4,7 +4,7 @@ nav:
       Aztec Butterflies:
         Text: aztec_classification_of_butterflies/FlorentineCodexButterflies.md
         Notebook: aztec_classification_of_butterflies/TheButterfliesOfTheFlorentineCodex.ipynb
-      NYC benches:
+      NYC Benches:
         Text: citybenches_nyc/city_benches_nyc.md
         Notebook1: citybenches_nyc/01dataimport.ipynb
         Notebook2: citybenches_nyc/02geocoding.ipynb
@@ -17,6 +17,13 @@ nav:
       Project Disagreement:
         Text: project_disagreement/hcq_expressing_disagreement_in_abstracts.md
         Notebook: project_disagreement/disagreement_abstracts.ipynb
+      Terminological Continuity:
+        Text: terminological_continuity/Zwischenbericht.md
+        Notebook1: terminological_continuity/Preparation_Sample_DeAnima.ipynb
+        Notebook2: terminological_continuity/Preparation_Sample_Meditationes.ipynb
+        Notebook3: terminological_continuity/Analysis_Sample_DeAnima.ipynb
+        Notebook4: terminological_continuity/Analysis_Sample_Meditationes.ipynb
+        Notebook5: terminological_continuity/Comparison_Sample_DeAnima_Meditationes.ipynb
       Water Security:
         Text: water_security/text.md
         Notebook1: water_security/Comparison_water_(in)security_based_on_noun_chunks.ipynb

@@ -33,7 +33,7 @@ In this example, "papalotl" is the general term, and the eight kinds of butterfl
 
 
 
-![papalotl](assets\papalotl.jpg)
+![papalotl](assets/papalotl.jpg)
 
 
 
@@ -81,7 +81,7 @@ We check where they span and add them to spaCy generating the label 'ORGAN.' A f
 
 
 
-![schm](assets\schm.PNG)
+![schm](assets/schm.PNG)
 
 
 
@@ -151,7 +151,7 @@ The Aztecs identified six organs of the butterflies, according to the Florentine
 
 
 
-![mariposa](assets\mariposa.PNG)
+![mariposa](assets/mariposa.PNG)
 
 
 
