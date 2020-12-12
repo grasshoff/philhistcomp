@@ -1,7 +1,3 @@
----
-typora-root-url: ../assets
----
-
 #### PHILOSOPHY AND HISTORY OF SCIENCE WITH COMPUTATIONAL MEANS
 
 ##### PROF. DR. GERD GRAßHOFF 
@@ -37,7 +33,7 @@ In a second step I created an Excel spread sheet storing meta-data according to 
 
 Third, I used the **`function `** `read_excel()` from the library `pandas` ("`pd`") to create a dataframe from the Excel spread sheet `hcq.xlsx` . I stored the dataframe in the variable `df_hcq`:
 
-![`df_hcq.head(3)`](/df_hcq_head_first.PNG)
+![`df_hcq.head(3)`](../assets/df_hcq_head_first.PNG)
 
  *`df_hcq.head(3)`*
 
