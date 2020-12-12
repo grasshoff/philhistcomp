@@ -1,5 +1,5 @@
 ---
-typora-root-url: ..\assets
+typora-root-url: ../assets
 ---
 
 #### PHILOSOPHY AND HISTORY OF SCIENCE WITH COMPUTATIONAL MEANS
