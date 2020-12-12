@@ -16,6 +16,12 @@ Currently we can find disagreement sentences with our combination of verb filter
 
 Import the required libraries and the language model. 
 
+[Besides the **`nlp`**-object `nlp` we create a second nlp-object called `nlp`. The two nlp-objects differ only in this respect that *Named Entity recognition (NER)* is not a component of `nlp`'s natural language processing pipeline whereas for `nlp` it is. We use `nlp` to filter sentences (with V2N2) and for this purpose named entity recognition is not needed. Disabling the `ner`-component can make running the code faster.
+
+siehe früheres NB
+
+But for labeling the entities SUPPORT-verbs, EVIDENCE-nouns and negations we need named entity recognition in the natural language processing of the sentences. Because these are the entities that shall be recognized by the computer. Thus, we need an nlp-object with a working `ner`-component in the pipeline. This is were our second instance of an nlp-object - `nlp` - comes into play.]
+
 
 
 ## 1 Load Dataframe
