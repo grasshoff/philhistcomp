@@ -1,3 +1,3 @@
 author: Regine Rørstad Torbjørnsen
 
-title: Nurse hate threads - "She's not a hero" 
+title: The female non-heroes in online "nurse hate threads" 
