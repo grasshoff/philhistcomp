@@ -2,13 +2,22 @@
 
 ##### PROF. DR. GERD GRAßHOFF
 
+This markdown file has to be complemented by the corresponding notebook. It is strongly recommended to read the markdown file alongside the notebook:
 
-
-# 5 Entity Labels
+* [hcq_5_entity_labels.ipynb](hcq_5_entity_labels.ipynb)
 
 For the previous steps see:
 
-* "hcq_1_clean_abstracts"
+* [hcq_1_clean_abstracts.md](hcq_1_clean_abstracts.md) and [hcq_1_clean_abstracts.ipynb](hcq_1_clean_abstracts.ipynb)
+* [hcq_2_sentences.md](hcq_2_sentences.md) and [hcq_2_sentences.ipynb](hcq_2_sentences.ipynb)
+* [hcq_3_verb_filter.md](hcq_3_verb_filter.md) and [hcq_3_verb_filter.ipynb](hcq_3_verb_filter.ipynb)
+* [hcq_4_noun_filter.md](hcq_4_noun_filter.md) and [hcq_4_noun_filter.ipynb](hcq_4_noun_filter.ipynb)
+
+
+
+
+
+# 5 Entity Labels
 
 Currently we can find disagreement sentences with our combination of verb filter and noun filter: V2N2. In order to reach this aim we make use of SUPPORT-verbs and EVIDENCE-nouns. These are entities V2N2 searches for to find disagreement sentences. In this notebook we are going to give labels to these entities so that they can be highlighted when displaying a disagreement sentence. Since the SUPPORT-relation between some body of evidence and a certain statement can be negated, we want also to be able to find and highlight negation expressions. This will make it more visible if two sentences show disagreement. Thus, we view negation expressions as entities and we will label them, too.
 

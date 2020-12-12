@@ -2,7 +2,9 @@
 
 ##### PROF. DR. GERD GRAßHOFF 
 
-This markdown file has to be complemented by the corresponding notebook. It is strongly recommended to read the markdown file alongside the notebook.
+This markdown file has to be complemented by the corresponding notebook. It is strongly recommended to read the markdown file alongside the notebook:
+
+* [hcq_1_clean_abstracts.ipynb](hcq_1_clean_abstracts.ipynb)
 
 
 
@@ -75,7 +77,7 @@ As a result you get the following URL (as a string):
 
 This URL leads to the following webpage:
 
-![dimensions_webpage](/dimensions_webpage.PNG )*`https://app.dimensions.ai/details/publication/pub.1126880632`*
+![dimensions_webpage](../assets/dimensions_webpage.PNG )*`https://app.dimensions.ai/details/publication/pub.1126880632`*
 
 As you can see there is an abstract on this webpage.
 
@@ -91,7 +93,7 @@ On this basis we do the following steps:
 
   we apply `getmeta()` to every single row of the dataframe `df_hcq`. We store the result in the variable `df_hcq["seldict"]` thereby creating an additional column of dataframe `df_hcq`, called `seldict`. Each row in that column contains a dictionary. Such a dictionary encompasses, among other things, an abstract of the respective publication. See for example the first entry of column `seldict` (`df_hcq["seldict"].iloc[0]`). (Please compare it with the abstract on the webpage above.) 
   
-  ![seldict_example](/seldict_example.PNG)*`df_hcq["seldict"].iloc[0]`*
+  ![seldict_example](../assets/seldict_example.PNG)*`df_hcq["seldict"].iloc[0]`*
 
 
 
@@ -159,7 +161,7 @@ But, still the dataframe has to be tidied up a bit.  There is a lot of meta-data
 
 We take only the columns `Publication ID`, `title` and `abstract` of `df_hcq_Lit` and call that reduced dataframe `df_HCQ`. Calling `df_HCQ.head()` we get the first five rows. It looks like this:
 
-![df_HCQ_head](/df_HCQ_head.png)*df_HCQ.head()*
+![df_HCQ_head](../assets/df_HCQ_head.png)*df_HCQ.head()*
 
 
 
@@ -167,7 +169,7 @@ We take only the columns `Publication ID`, `title` and `abstract` of `df_hcq_Lit
 
 We now have a dataframe that contains the title, publication ID and abstract for all selected publications. As you can see in the image above, there are abstracts missing in some rows. But the notebook does not register the missing abstracts as missing: Of 19 entries in the column `abstract` 19 are counted as "non-null" (see the next image below). Instead it counts empty strings (`''`) as a kind of abstract - an empty but still existent abstract. 
 
-![df_HCQ_info_empty_abstracts](/df_HCQ_info_empty_abstracts.png)
+![df_HCQ_info_empty_abstracts](../assets/df_HCQ_info_empty_abstracts.png)
 
 *`df_HCQ.info() with "empty abstracts"`*
 
