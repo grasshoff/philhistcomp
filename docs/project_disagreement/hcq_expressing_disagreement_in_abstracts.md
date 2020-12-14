@@ -1,10 +1,8 @@
-#### PHILOSOPHY AND HISTORY OF SCIENCE WITH COMPUTATIONAL MEANS
-
-##### PROF. DR. GERD GRAßHOFF
-
-
-
 # Expressing Disagreement in Abstracts
+
+Tobias Kittner
+
+
 
 ### A Reflection on Scientific Articles about Hydroxychloroquine (HCQ)/Cholorquine (CQ) as a Treatment for COVID-19
 
