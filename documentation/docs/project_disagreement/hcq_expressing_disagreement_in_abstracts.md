@@ -1,10 +1,8 @@
-#### PHILOSOPHY AND HISTORY OF SCIENCE WITH COMPUTATIONAL MEANS
-
-##### PROF. DR. GERD GRAßHOFF
-
-
-
 # Expressing Disagreement in Abstracts
+
+Tobias Kittner
+
+
 
 ### A Reflection on Scientific Articles about Hydroxychloroquine (HCQ)/Cholorquine (CQ) as a Treatment for COVID-19
 
@@ -29,8 +27,8 @@ With the help of the ["Global research on coronavirus disease (COVID-19)"](https
 The research objects are sentences from abstracts that can be grouped in pairs such that a sentence pair expresses disagreement. I will call such sentences *disagreement sentences*. Pairs of disagreement sentences that express disagreement I will call *disagreement pairs*.
 
 **Research question**
-What features do disagreement sentences have? How can they be assigned to disagreement pairs? 
-(I have a hypothesis about what features disagreement sentences and have how they can be assigned to disagreement pairs. My aim is to write a program (notebook) that can reliably find disagreement pairs. By this I hope to gain support for the hypothesis. I will come back to that later.)
+What features do disagreement sentences have? How can they be arranged into disagreement pairs? 
+(I have a hypothesis about what features disagreement sentences have and how they can be arranged to disagreement pairs. My aim is to write a program (notebook) that can reliably find disagreement pairs. By this I hope to gain support for the hypothesis. I will come back to that later.)
 
 
 
@@ -38,8 +36,12 @@ What features do disagreement sentences have? How can they be assigned to disagr
 
 Disagreement may be expressed in various ways. As I said I will only consider certain sentences occurring in abstracts of scientific articles. Thus expressions of disagreement are in writing. In addition I will only consider disagreement that is expressed by *pairs* of sentences. Let's look at some examples of what disagreement pairs might look like (the examples are not exhaustive):
 
+The affirmative sentence:
+
 > (PRO): "The study shows that HCQ is good as a treatment for COVID-19."
->
+
+To form a disagreement pair the affirmative sentence is to be combined with one of the following negated sentences:
+
 > (CON 1): "The study shows that HCQ is bad as a treatment for COVID-19."
 >
 > (CON 2): "Because the study is poorly done you can draw no conclusions from it about HCQ as a treatment for COVID-19."
@@ -58,7 +60,11 @@ I assume disagreement sentences to have a certain structure. They express a rela
 | PRO           | `The findings`  |                | `support`   | `the hypothesis that these drugs have efficacy in the treatment of COVID-19` |
 | CON           | `These results` | `[do] not`     | `support`   | `the use of HCQ in patients hospitalised for documented SARS-CoV-2-positive hypoxic pneumonia` |
 
-In case there is a SUPPORT-verb and an EVIDENCE-noun in a sentence the computer ought predict it as being a disagreement sentence. Chances are that it is one. Pairing an affirmative disagreement sentence (one without a negation expression) with a negated disagreement sentence will constitute a disagreement pair.
+**Table1:** Structure of disagreement sentences.
+
+
+
+In case there are both a SUPPORT-verb and an EVIDENCE-noun in a sentence the computer ought predict it as being a disagreement sentence. Pairing an affirmative disagreement sentence (one without a negation expression) together with a negated disagreement sentence will constitute a disagreement pair.
 
 But not all pairs of affirmative and negated disagreement sentences will make a disagreement pair. An example:
 
@@ -72,29 +78,33 @@ But not all pairs of affirmative and negated disagreement sentences will make a 
 >
 >(b) "The study does not show that HCQ is effective against COVID-19"
 
-The sentence pair (a, b) is a disagreement pair whereas the pair (c, b) is not. This is because (a) and (b) are about the same subject and (c) and (b) are about different topics. Disagreement pairs consists of sentences that are about the same topic; one sentence is affirmative and the other is negated. To let the program decide whether two sentences are about the same topic I will make use of `spacy`'s functionality to compute the similarity of linguistic objects. The similarity can be computed for the whole sentence (or document) (*Doc similarity*); or it can be computed for parts of the sentence (*Span similarity*). I take as the Span the part of the sentence which expresses its topic. The Span as understood here points to the statement of the sentence ($s$). $s$ is that what is supported by some kind of evidence. I assume that the Span is the part of the sentence that comes behind the SUPPORT-verb. (This is reflected in the table above.) As you can see from the table below the Span similarity is higher for similar topics and lower for different topics — as compared to Doc similarity:
+The sentence pair (a, b) is a disagreement pair whereas the pair (c, b) is not. This is because (a) and (b) are about the same subject whereas (c) and (b) are about different topics. Disagreement pairs consist of sentences that are about the same topic; one sentence is affirmative and the other is negated. To let the program decide whether two sentences are about the same topic I will make use of `spacy`'s functionality to compute the similarity of linguistic objects. The similarity can be computed for the whole sentence (or document) (which is called *Doc similarity*); or it can be computed for parts of the sentence (*Span similarity*). I take as the Span the part of the sentence which expresses its topic. The Span as understood here points to the statement of the sentence ($s$). $s$ is that what is supported by some kind of evidence. I assume that the Span is the part of the sentence that comes behind the SUPPORT-verb. (This is reflected in table 1 above.) As you can see from the table below the Span similarity is higher for similar topics and lower for different topics — as compared to Doc similarity:
 
 | Sentence pair                                                | Doc similarity | Span similarity | Spans of sentence pair                                       |
 | ------------------------------------------------------------ | -------------- | --------------- | ------------------------------------------------------------ |
-| (a) "The study shows that HCQ is effective against COVID-19" & (b) "The study does not show that HCQ is effective against COVID-19" | 0.98           | 1.0             | (Span a) "that HCQ is effective against COVID-19" & (Span b) "that HCQ is effective against COVID-19" |
-| (c) "The study shows that climate change is caused by humans" & (b) "The study does not show that HCQ is effective against COVID-19" | 0.89           | 0.77            | (Span c) "that climate change is caused by humans" & (Span b) "that HCQ is effective against COVID-19" |
+| (a) "The study shows that HCQ is effective against COVID-19"<br /><br />(b) "The study does not show that HCQ is effective against COVID-19" | 0.98           | 1.0             | (Span a)  "that HCQ is effective against COVID-19" <br /><br />(Span b)  "that HCQ is effective against COVID-19" |
+| (c) "The study shows that climate change is caused by humans"<br /><br />(b) "The study does not show that HCQ is effective against COVID-19" | 0.89           | 0.77            | (Span c)  "that climate change is caused by humans"<br /><br />(Span b)  "that HCQ is effective against COVID-19" |
 
-For this project I will assume that Span similarity yields more reliable results than Doc similarity in determining the similarity of topic for two sentences. You could set a threshold for Span similarity, say 0.85. If the similarity for a pair of sentences is as high or higher as this threshold it ought to count being about the same topic. So in this case the sentence pair (a, b) has a Span similarity which is greater than 0.85 (1.0 > 0,85). Thus it counts as being about the same topic. And since (a) is affirmative and (b) is negated (a, b) is a disagreement pair. The pair (c, b) has a Span similarity below the threshold and therefore it does not count as a disagreement pair. I may now sum up the foregoing remarks in a hypothesis:
+**Table 2:** Comparison of Doc similarity and Span similarity.
 
-**Hypothesis**: Disagreement sentences express a relation that holds or does not hold between some kind of evidence and a statement (i. e. that evidence supports/does not support some statement). That means disagreement sentences contain expressions referring to evidence and to the SUPPORT-relation. Furthermore disagreement pairs consists of one affirmative and one negated sentence that are about a similar topic (i. e. they show a certain degree (at least) of Span similarity). 
+
+
+For this project I will assume that Span similarity yields more reliable results than Doc similarity in determining the similarity of topic for two sentences. You could set a threshold for Span similarity, say 0.85. If the similarity for a pair of sentences is as high or higher as this threshold it ought to count as being about the same topic. So in this case the sentence pair (a, b) has a Span similarity which is greater than 0.85 (1.0 > 0.85). Thus the sentence pair counts as being about the same topic. And since (a) is affirmative and (b) is negated (a, b) is a disagreement pair. The pair (c, b) has a Span similarity below the threshold and therefore it does not count as a disagreement pair. I may now sum up the foregoing remarks in a hypothesis:
+
+**Hypothesis**: Disagreement sentences express a relation that holds or does not hold between some kind of evidence and a statement (i. e. that the evidence supports/does not support some statement). That means disagreement sentences contain expressions referring to evidence and to the SUPPORT-relation. Furthermore disagreement pairs consists of one affirmative and one negated sentence that are about a similar topic (i. e. they show a certain degree (at least) of Span similarity). 
 
 
 
 ## Implementation: the Notebook
 
-The task is to write a program such that the computer finds disagreement pairs from abstracts of scientific articles. (I follow a rule based approach, not one that involves machine learning.) In short, the following steps are taken: (i) get abstracts of scientific articles in a form that can be processed by the computer; (ii) divide abstracts into single sentences; (iii) filter disagreement sentences from the whole collection of sentences; (iv) label entities in disagreement sentences; (v) separate (entity labeled) disagreement sentences into two groups: affirmative sentences and negated sentences; (vi) make pairs of disagreement sentences with one affirmative and one negated sentence; (vii) determine Span similarity for each pair based on this distinguish disagreement pairs from non disagreement pairs.
+The task is to write a program such that the computer finds disagreement pairs from abstracts of scientific articles. (I follow a rule based approach, not one that involves machine learning.) In short, the following steps are taken: (i) get abstracts of scientific articles in a form that can be processed by the computer; (ii) divide abstracts into single sentences; (iii) filter disagreement sentences from the whole collection of sentences; (iv) label entities in disagreement sentences; (v) separate (entity labeled) disagreement sentences into two groups: affirmative sentences and negated sentences; (vi) make pairs of sentences with one affirmative and one negated sentence; (vii) determine Span similarity for each pair and — based on the Span similarity — distinguish disagreement pairs from non disagreement pairs.
 
 * The first step was to get the abstracts of scientific articles in a form that the computer could read and process. I assessed the abstracts, prepared them and stored the results in the json-file `"HCQ_clean_abstracts.json"` (`"data/HCQ_clean_abstracts.json"`). This preparatory work was done in the additional notebook `"hcq_1_clean_abstracts.ipynb"`. (See [hcq_1_clean_abstracts.md](additional_notebooks/hcq_1_clean_abstracts.md); all additional notebooks together with commenting markdown-files can be found in the directory `"additional_notebooks"`.)
 
 
-The other main steps are executed in the  notebook`"hcq_expressing_disagreement_in_abstracts.ipynb"`: 
+The other main steps are executed in the  notebook `"hcq_expressing_disagreement_in_abstracts.ipynb"`: 
 
-* I loaded the the abstracts from `"HCQ_clean_abstracts.json"` into the **`dataframe`** `abstract_df`. There is the title of publication and an identifier assigned to each abstract. (Section 2 in the notebook; for more information see: [hcq_2_sentences.md](additional_notebooks/hcq_2_sentences.md).)
+* I loaded the the abstracts from `"HCQ_clean_abstracts.json"` into the **`dataframe`** `abstract_df`. There are the title of publication and an identifier assigned to each abstract. (Section 2 in the notebook; for more information see: [hcq_2_sentences.md](additional_notebooks/hcq_2_sentences.md).)
 
 * Each abstract is divided into its sentences. I stored the sentences in another dataframe called `sentences_df`. Each sentence has a unique identifier and there is also the title of publication added from which the sentence was taken — in case these informations are needed (see [hcq_2_sentences.md](additional_notebooks/hcq_2_sentences.md)). I take the sentences from column `"sentence"` and convert them into **`Doc`**-objects which I store in the **`list`** `doc_list`.  Our sentence collection encompasses 216 sentences.(Section 3)
 
@@ -118,7 +128,7 @@ The other main steps are executed in the  notebook`"hcq_expressing_disagreement_
 
   I have tested a few different filters to assess which works best. The combination of filtering sentences by SUPPORT-verbs **and** by EVIDENCE-nouns yielded the best results: Out of 216 sentences 211 are predicted correctly. Only 64 % of disagreement sentences are found. But if the computer predicts a sentence as being a disagreement sentence you can be sure that this is correct. (For information on evaluation of filters see: [hcq_2_sentences.md](additional_notebooks/hcq_2_sentences.md), [hcq_3_verb_filter.md](additional_notebooks/hcq_3_verb_filter.md), [hcq_4_noun_filter.md](additional_notebooks/hcq_4_noun_filter.md).)
 
-* Then I define entities that shall be labeled if occurring in a sentence: SUPPORT (**`SUPP`**); evidence, processes resulting in evidence (**`EVID`**) or scientists/scientific institutions producing such evidence (**`SCI`**); and negations (**`NEG`**). To label entities I have to process the sentences in `noun_filtered_sentences`. The resulting list of sentences (Doc-objects) is called `disagreement_sentences`. (Section 5; for more information see: [hcq_5_entity_labels.md](additional_notebooks/hcq_5_entity_labels.md).)
+* Then I define entities that shall be labeled if expressions that refer to them occur in a sentence. Such expressions will be marked and highlighted. The entities are: SUPPORT (**`SUPP`**); evidence, processes resulting in evidence (**`EVID`**) or scientists/scientific institutions producing such evidence (**`SCI`**); and negations (**`NEG`**). To label entities I have to process the sentences in `noun_filtered_sentences`; in other words: strings have to be converted into Doc-objects. The resulting list of sentences (Doc-objects) is called `disagreement_sentences`. (Section 5; for more information see: [hcq_5_entity_labels.md](additional_notebooks/hcq_5_entity_labels.md).)
 
 * The sentences in `disagreement_sentences` are divided into affirmative sentences and negated sentences. The affirmative sentences I store in `sents` and the negated sentences I store in `negated_sents`. (Subsection 6.1)
 
