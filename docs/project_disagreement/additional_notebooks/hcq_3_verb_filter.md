@@ -1,10 +1,15 @@
----
-typora-root-url: ..\assets
----
-
 #### PHILOSOPHY AND HISTORY OF SCIENCE WITH COMPUTATIONAL MEANS
 
 ##### PROF. DR. GERD GRAßHOFF
+
+This markdown file has to be complemented by the corresponding notebook. It is strongly recommended to read the markdown file alongside the notebook:
+
+* [hcq_3_verb_filter.ipynb](hcq_3_verb_filter.ipynb)
+
+For the previous steps see:
+
+* [hcq_1_clean_abstracts.md](hcq_1_clean_abstracts.md) and [hcq_1_clean_abstracts.ipynb](hcq_1_clean_abstracts.ipynb)
+* [hcq_2_sentences.md](hcq_2_sentences.md) and [hcq_2_sentences.ipynb](hcq_2_sentences.ipynb)
 
 
 
@@ -423,7 +428,8 @@ We are going to load `sentences_labeled.xlsx` as a dataframe. Then we will manip
 * `measuring_df_1 = measuring_df_1[["sentence", "label", "prediction"]]`: We rearrange the position of columns for dataframe `measuring_df_1`.
 
 The dataframe should now look like this:
-![measuring_df_1](/measuring_df_1.png)
+![measuring_df_1](../assets/measuring_df_1.png)
+
 *measuring_df_1.iloc[71:76]*
 
 The dataframe `measuring_df_1` now has three columns: one in which all sentences are stored (`sentence`); the label that indicates if we want the sentence to be found by the program (`label`); and the column that says which sentences the program actually find (`prediction`). We are going to use this dataframe and some metrics to assess how good the program (verb filter) works.

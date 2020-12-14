@@ -1,10 +1,14 @@
----
-typora-root-url: ..\assets
----
-
 #### PHILOSOPHY AND HISTORY OF SCIENCE WITH COMPUTATIONAL MEANS
 
 ##### PROF. DR. GERD GRAßHOFF
+
+This markdown file has to be complemented by the corresponding notebook. It is strongly recommended to read the markdown file alongside the notebook:
+
+* [hcq_2_sentences.ipynb](hcq_2_sentences.ipynb)
+
+For the previous steps see:
+
+* [hcq_1_clean_abstracts.md](hcq_1_clean_abstracts.md) and [hcq_1_clean_abstracts.ipynb](hcq_1_clean_abstracts.ipynb)
 
 
 
@@ -87,7 +91,7 @@ For the current project we are not interested in whole abstracts, but in certain
 
 ## 3 Labeling Sentences Manually
 
-In this section I am going to export the sentences dataframe `sentences_df` as an Excel spread sheet. I'll use this Excel file to give labels to the sentences according to whether they might play a role in a disagreement that is of interest or whether they do not. Or, to describe it more technically, the label indicates whether the sentences should be found by a program or not. The Excel file serves as a measure to evaluate the search patterns that will be developed in later notebooks **NAMEN DER NOTEBOOKS**. I will assign labels to the sentences per hand.
+In this section I am going to export the sentences dataframe `sentences_df` as an Excel spread sheet. I'll use this Excel file to give labels to the sentences according to whether they might play a role in a disagreement that is of interest or whether they do not. Or, to describe it more technically, the label indicates whether the sentences should be found by a program or not. The Excel file serves as a measure to evaluate the search patterns that will be developed in later notebooks. I will assign labels to the sentences per hand.
 
 * `sentences_df = pd.read_json("../data/HCQ_sentences.json")`: This loads the sentences dataframe we saved in a json-file a few lines earlier from that file again.  It is stored in the variable `sentences_df`. This overwrites the former content stored in that variable. (Actually, this whole step is not necessary. I do it though to show that I am working here with the same dataframe as in the later notebooks.)
 * `sentences_df["sentence"].to_excel("../labeling/sentences_to_be_labeled.xlsx")`: This saves the the column `sentence` of the dataframe `sentences_df` as an Excel spread sheet. The Excel file is called `sentences_to_be_labeled.xlsx` and it is saved in the directory `labeling`.
@@ -98,15 +102,15 @@ In this section I am going to export the sentences dataframe `sentences_df` as a
   
   - Open the file `sentences_to_be_labeled.xlsx`. There are two columns: an unnamed column that is basically `sentences_df`'s index and on the right next to it a column "sentence" which is the column we exported.
   
-    ![sentences_to_be_labeled_xlsx](/sentences_to_be_labeled_xlsx.png)*sentences_to_be_labeled.xlsx*
+    ![sentences_to_be_labeled_xlsx](../assets/sentences_to_be_labeled_xlsx.png)*sentences_to_be_labeled.xlsx*
   
   - We call the unnamed column "label" and set all values in that column to "0".
   
-    ![sentences_labeled_xlsx](/sentences_labeled_xlsx.png)*sentences_labeled.xlsx*
+    ![sentences_labeled_xlsx](../assets/sentences_labeled_xlsx.png)*sentences_labeled.xlsx*
   
   - Then go through all rows: If we hit a sentence that we think our search pattern should find, then we change the value in column "label" to "1" (for that respective row). If we think our search pattern should not detect a sentence, then we leave the value for that sentence in column "label" unchanged (i. e. it remains "0").
   
-    ![sentences_labeled_xlsx_1](/sentences_labeled_xlsx_1.png)*sentences_labeled.xlsx: changing value*
+    ![sentences_labeled_xlsx_1](../assets/sentences_labeled_xlsx_1.png)*sentences_labeled.xlsx: changing value*
   
   - If not done already save the file and give it a **new** name. (I chose `sentences_labeled.xlsx`).
 

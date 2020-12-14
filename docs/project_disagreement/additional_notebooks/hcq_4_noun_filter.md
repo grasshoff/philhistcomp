@@ -2,6 +2,16 @@
 
 ##### PROF. DR. GERD GRAßHOFF
 
+This markdown file has to be complemented by the corresponding notebook. It is strongly recommended to read the markdown file alongside the notebook:
+
+* [hcq_4_noun_filter.ipynb](hcq_4_noun_filter.ipynb)
+
+For the previous steps see:
+
+* [hcq_1_clean_abstracts.md](hcq_1_clean_abstracts.md) and [hcq_1_clean_abstracts.ipynb](hcq_1_clean_abstracts.ipynb)
+* [hcq_2_sentences.md](hcq_2_sentences.md) and [hcq_2_sentences.ipynb](hcq_2_sentences.ipynb)
+* [hcq_3_verb_filter.md](hcq_3_verb_filter.md) and [hcq_3_verb_filter.ipynb](hcq_3_verb_filter.ipynb)
+
 
 
 # 4 Noun Filter

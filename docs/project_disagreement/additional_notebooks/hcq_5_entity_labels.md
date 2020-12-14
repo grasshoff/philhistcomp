@@ -2,19 +2,34 @@
 
 ##### PROF. DR. GERD GRAßHOFF
 
+This markdown file has to be complemented by the corresponding notebook. It is strongly recommended to read the markdown file alongside the notebook:
 
-
-# 5 Entity Labels
+* [hcq_5_entity_labels.ipynb](hcq_5_entity_labels.ipynb)
 
 For the previous steps see:
 
-* "hcq_1_clean_abstracts"
+* [hcq_1_clean_abstracts.md](hcq_1_clean_abstracts.md) and [hcq_1_clean_abstracts.ipynb](hcq_1_clean_abstracts.ipynb)
+* [hcq_2_sentences.md](hcq_2_sentences.md) and [hcq_2_sentences.ipynb](hcq_2_sentences.ipynb)
+* [hcq_3_verb_filter.md](hcq_3_verb_filter.md) and [hcq_3_verb_filter.ipynb](hcq_3_verb_filter.ipynb)
+* [hcq_4_noun_filter.md](hcq_4_noun_filter.md) and [hcq_4_noun_filter.ipynb](hcq_4_noun_filter.ipynb)
+
+
+
+
+
+# 5 Entity Labels
 
 Currently we can find disagreement sentences with our combination of verb filter and noun filter: V2N2. In order to reach this aim we make use of SUPPORT-verbs and EVIDENCE-nouns. These are entities V2N2 searches for to find disagreement sentences. In this notebook we are going to give labels to these entities so that they can be highlighted when displaying a disagreement sentence. Since the SUPPORT-relation between some body of evidence and a certain statement can be negated, we want also to be able to find and highlight negation expressions. This will make it more visible if two sentences show disagreement. Thus, we view negation expressions as entities and we will label them, too.
 
 ## 0 Import Libraries
 
 Import the required libraries and the language model. 
+
+[Besides the **`nlp`**-object `nlp` we create a second nlp-object called `nlp`. The two nlp-objects differ only in this respect that *Named Entity recognition (NER)* is not a component of `nlp`'s natural language processing pipeline whereas for `nlp` it is. We use `nlp` to filter sentences (with V2N2) and for this purpose named entity recognition is not needed. Disabling the `ner`-component can make running the code faster.
+
+siehe früheres NB
+
+But for labeling the entities SUPPORT-verbs, EVIDENCE-nouns and negations we need named entity recognition in the natural language processing of the sentences. Because these are the entities that shall be recognized by the computer. Thus, we need an nlp-object with a working `ner`-component in the pipeline. This is were our second instance of an nlp-object - `nlp` - comes into play.]
 
 
 
