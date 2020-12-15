@@ -1,8 +1,8 @@
 # The female non-heroes in online "nurse hate threads"
 
-### Regine Rørstad Torbjørnsen 
+#### Regine Rørstad Torbjørnsen 
 
-[image]
+<img src="image1.jpg" alt="image1" style="zoom:50%;" />
 
 ### Background
 
