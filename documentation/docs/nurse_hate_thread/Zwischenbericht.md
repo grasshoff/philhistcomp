@@ -1,10 +1,14 @@
-# The female non-heroes in online "nurse hate threads" 
+# The female non-heroes in online "nurse hate threads"
+
+### Regine Rørstad Torbjørnsen 
+
+[image]
 
 ### Background
 
 Since the beginning of the Covid-19 pandemic nurses (alongside doctors and other medical workers) have been celebrated globally for risking their health and working overtime in order to fight the virus. The work done by nurses has been subject to increased attention, which has led to a debate on their work conditions, wages, and the social recognition of their profession. 
 
-The mainstream celebration of nurses has, however, also provoked hatred and frustration in certain sub-discourses. On the male dominated online imageboard [4chan](4chan.org) there has been a rise of discussion threads revolving around hatred against nurses. These threads mostly appear on the board /pol/ ("Politically Incorrect") and are referred to as "nurse hate threads". The vast majority of these discussions combine the hatred against nurses with explicit misogyny; the nurses are claimed to be incapable, immoral or immature in virtue of being women. Moreover, these negative characterizations of nurses seemingly aim at creating an antithesis to the figure of the hero. Nurses (predominantly in virtue of being women) are ridiculed as not skilled, ethical, mature, or smart enough to be real heroes. Rather, they are assumed to take advantage of the pandemic to stage themselves as heroes. 
+The mainstream celebration of nurses has, however, also provoked hatred and frustration in certain sub-discourses. On the male dominated online imageboard [4chan](https://4chan.org) there has been a rise of discussion threads revolving around hatred against nurses. These threads mostly appear on the board /pol/ ("Politically Incorrect") and are referred to as "nurse hate threads". The vast majority of these discussions combine the hatred against nurses with explicit misogyny; the nurses are claimed to be incapable, immoral or immature in virtue of being women. Moreover, these negative characterizations of nurses seemingly aim at creating an antithesis to the figure of the hero. Nurses (predominantly in virtue of being women) are ridiculed as not skilled, ethical, mature, or smart enough to be real heroes. Rather, they are assumed to take advantage of the pandemic to stage themselves as heroes. 
 
 The observations sketched above give rise to multiple questions. Why is the figure of a female hero so negatively received in certain online sub-discourses? Are such misogynist attitudes augmented in the context of a pandemic? The Covid-19 virus causes global fear and instability. Thus, there is reason to believe that the hatred against female nurses is partly driven by a notion of powerlessness and a fear of transforming power relations. The act of care-taking and the notion of power are in a complex relation. If somebody has the skills and knowledge to save your life it may give rise to a feeling of dependence.[^1]  In fact, the world's societies are absolutely dependent on medical workers, both for health and financial reasons. The pandemic has made this dependency obvious. It has emphasized the necessity of nurses and the fact that they are crucial in a time of crisis.  
 
@@ -22,7 +26,7 @@ All threads on /pol/ (4chan) containing the word "nurse", dating from the 25th o
 
 ### **Empirical source: 4plebs** 
 
-The content on 4chan is ephemeral as the threads are automatically deleted from the website. To access posts dating back to January 2020 I have retrieved data from an archive of 4chan posts, [4plebs](archive.4plebs.org). This unofficial archive uses the software [Asagi](http://eksopl.github.io/asagi/) to save all the posts of selected 4chan boards. 4plebs uses Asagi to dump and archive all threads from selected 4chan boards, including /pol/. No threads are removed unless they are reported to contain child pornography, personally identifiable information, or copyrighted material not permitted under fair use doctrine.[^3]  
+The content on 4chan is ephemeral as the threads are automatically deleted from the website. To access posts dating back to January 2020 I have retrieved data from an archive of 4chan posts, [4plebs](archive.4plebs.org). This unofficial archive uses the software Asagi to save all the posts of selected 4chan boards. 4plebs uses Asagi to dump and archive all threads from selected 4chan boards, including /pol/. No threads are removed unless they are reported to contain child pornography, personally identifiable information, or copyrighted material not permitted under fair use doctrine.[^3]  
 
 ---
 
@@ -36,7 +40,7 @@ A script was written to scrape the text from all posts on the board /pol/ contai
 
 #### **2. Preparing NLP**
 
-Subsequently the data was to be prepared for the natural language processing (NLP). I imported spaCy, which is an open-source software library developed for advanced NLP. The textual data (4chan posts) was almost exclusively in English and I therefore loaded spaCy's core model for English (en_core_web_sm). Core models are models pretrained to predict i.a. part-of-speech tags and syntactic dependencies. These two features were especially important in detecting both attributions ascribed to nurses and the various ways of classifying nurses in groups. 
+Subsequently the data was to be prepared for the natural language processing (NLP). I imported spaCy, which is an open-source software library developed for advanced NLP. The textual data (4chan posts) was almost exclusively in English and I therefore loaded spaCy's core model for English (en_core_web_sm). Core models are models pretrained to predict i.a. part-of-speech tags and syntactic dependencies.  
 
 ##### Ten representative examples
 
@@ -112,7 +116,7 @@ ____
 
 ###### Data
 
-The first substantial challenge was to access the relevant data. Given the high number of posts published every day, the threads on /pol/ are constantly deleted. You can normally only access threads from the same day as all earlier threads are already deleted. As the beginning and development of the covid-19 influenced  discourse on nurses were objects of interest, I needed access to posts dating back to January 2020. Thus, the project was dependent on an archive (4plebs, see "Empirical source").  For future 4chan related projects the software used by 4plebs (Asagi imageboard dumper) could be a way of creating an independent archive for 4chan threads.  
+The first substantial challenge was to access the relevant data. Given the high number of posts published every day, the threads on /pol/ are constantly deleted. You can normally only access threads from the same day as all earlier threads are already deleted. As the beginning and development of the Covid-19 influenced  discourse on nurses were objects of interest, I needed access to posts dating back to January 2020. Thus, the project was dependent on an archive (4plebs, see "Empirical source").  For future 4chan related projects the software used by 4plebs (Asagi imageboard dumper) could be a way of creating an independent archive for 4chan threads.  
 
 ###### Analysis 
 
@@ -122,25 +126,15 @@ A data frame with 116 posts and more than 14 000 comments constitutes a well of 
 
 ### **Footnotes**
 
-[^1] Although many nurses report not feeling powerful in their profession and consider caring and power to be opposite concepts. See Rafael (1996). 
-
-[^2] See for example Kalisch et al. (1982), Hallam (2005) and Daly et al. (2005). 
-
-[^3] More infos: "How do I get things removed?" in FAQ 4plebs: https://archive.4plebs.org/_/articles/faq/. 
-
-[^4] "Sloot" is a transformation of the derogatory term "slut" where the number of o's may indicate the degree of "sluttyness". 
-
-[^5] For an illuminating debate on generics of social kinds and (hidden) essence see Haslanger (2012) and Leslie (2007). 
-
-[^6] See for example Byerly (2020). 
-
-[^7] See for example Kredo (2012). 
-
-[^8] An example is the group "nCovshills" on reddit.com: https://www.reddit.com/r/ncovshills/, link retrieved 13.10.2020.
-
-[^9] See Lorenz (2019). 
-
-*All links retrieved 14.10.2020.*
+[^1]: Although many nurses report not feeling powerful in their profession and consider caring and power to be opposite concepts. See Rafael (1996). 
+[^2]: See for example Kalisch et al. (1982), Hallam (2005) and Daly et al. (2005). 
+[^3]: Further information: "How do I get things removed?" in FAQ 4plebs: https://archive.4plebs.org/_/articles/faq/. 
+[^4]: "Sloot" is a transformation of the derogatory term "slut" where the number of o's may indicate the degree of "sluttyness". 
+[^5]: For an illuminating debate on generics of social kinds and (hidden) essence see Haslanger (2012) and Leslie (2007). 
+[^6]: See for example Byerly (2020). 
+[^7]: See for example Kredo (2012). 
+[^8]: An example is the group "nCovshills" on reddit.com: https://www.reddit.com/r/ncovshills/.
+[^9]: See Lorenz (2019). 
 
 ---
 
@@ -154,7 +148,7 @@ Hallam, Julia, 2005, "Angels, Battleaxes and Good - Time Girls: Cinema's images 
 
 Haslanger, Sally, 2012, "Ideology, Generics, and Common Ground". Haslanger, *Resisting Reality: Social Construction and Social Critique*, 446-482. 
 
-Kalisch et al. 1982, "The Nurse as a Sex Object in Motion Pictures, 1930 to 1980".*Research in Nursing and Health*, 147-154. 
+Kalisch et al. 1982, "The Nurse as a Sex Object in Motion Pictures, 1930 to 1980". *Research in Nursing and Health*, 147-154. 
 
 Kredo, Adam, 2012, "The China Shills". *The Washington Free Bacon*, 18.07.2012, https://freebeacon.com/politics/the-china-shills/. 
 
@@ -164,7 +158,7 @@ Lorenz, Taylor, 2019, "‘OK Boomer’ Marks the End of Friendly Generational Re
 
 Rafael, Adeline R.F., 1996, "Power and caring: A dialectic in nursing". *Advances in Nursing Science*, 19(1). 3–17.
 
-*All links retrieved 28.11.2020.*
+*All links retrieved 15.12.2020.*
 
   
 
