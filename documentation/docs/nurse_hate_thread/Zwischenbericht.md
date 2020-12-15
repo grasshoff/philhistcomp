@@ -136,9 +136,7 @@ A data frame with 116 posts and more than 14 000 comments constitutes a well of 
 [^8]: An example is the group "nCovshills" on reddit.com: https://www.reddit.com/r/ncovshills/.
 [^9]: See Lorenz (2019). 
 
----
-
-### **Sources**
+### **Literature**
 
 Byerly, Carolyn, 2020, "Incels online reframing sexual violence". *The Communication Review*,  DOI: 10.1080/10714421.2020.1829305. 
 
