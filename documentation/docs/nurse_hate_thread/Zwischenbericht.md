@@ -22,11 +22,11 @@ This project explores attributes ascribed to female nurses in the sub-discourse 
 
 ### **Research object**
 
-All threads on /pol/ (4chan) containing the word "nurse", dating from the 25th of January to the 8th of June 2020. This amounts to 116 threads including more than 14 000 comments. The posts and comments are mainly written in English. 
+All threads on /pol/ (4chan) listed under the subject "nurse", dating from the 25th of January to the 8th of June 2020. This amounts to 116 threads including more than 14 000 comments. The posts and comments are mainly written in English. 
 
 ### **Empirical source: 4plebs** 
 
-The content on 4chan is ephemeral as the threads are automatically deleted from the website. To access posts dating back to January 2020 I have retrieved data from an archive of 4chan posts, [4plebs](archive.4plebs.org). This unofficial archive uses the software Asagi to save all the posts of selected 4chan boards. 4plebs uses Asagi to dump and archive all threads from selected 4chan boards, including /pol/. No threads are removed unless they are reported to contain child pornography, personally identifiable information, or copyrighted material not permitted under fair use doctrine.[^3]  
+The content on 4chan is ephemeral as the threads are automatically deleted from the website. To access posts dating back to January 2020 I have retrieved data from an archive of 4chan posts, [4plebs](https://archive.4plebs.org). This unofficial archive uses the software Asagi to save all the posts of selected 4chan boards. 4plebs uses Asagi to dump and archive all threads from selected 4chan boards, including /pol/. No threads are removed unless they are reported to contain child pornography, personally identifiable information, or copyrighted material not permitted under fair use doctrine.[^3]  
 
 ---
 
@@ -109,6 +109,8 @@ The most striking aspect of thread A are the two pairs of contrast used to reduc
 Thread B is more concerned with disqualifying the concept of heroism. Nurses are claimed to be women who are too unintelligent to become doctors, and the conclusion from this assumption seems to be that anything (and anyone) could become a national hero. The term "National hero" is in other words a worthless attribution. The analyzed comments on the post expand on this narrative by framing nurses as bullies desiring glory and sex. The thread thus displays an interesting contradiction between the unintelligent nurse and the manipulative nurse exploiting her position for attention and sexual relations. 
 
 The post in thread C is an exception to the many anti-nurse posts in the data frame. Nurses are portrayed as necessary, knowledgeable, and hard-working. Some comments undermine the post and it is claimed that nurses are "unironically heroes". The need for an adjective like "unironically" is a consequence of the ironically distorted meaning of the term "hero" in the /pol/ discourse on nurses. While some comments argue that nurses are important yet attention-seeking, others insist that nurses are selfish and unintelligent "attention whores". In one sense the circle is ended the comment that claims that nurses are indeed heroes, but only because we live in a sick society that is dependent nurses. Once society rises again, it is claimed, "the hero demand for nurses will collapse". 
+
+To summarize, an important shared point of criticism in the nurse hate threads is that female nurses are occupying a space that was not intended for them. As they are working women and not stay-home mums they are lonely and depressed, unable to realize their true feminine and nurturing essence. They are too unintelligent to become doctors, yet they find their way to the hospital through a career as a nurse. In other words, they wrongfully enter a male domain. Similarly, the term "(national) heroes" is wrongfully assigned to this group by the mainstream. In combination with the profession (female) nurse the term becomes worthless. Heroism is not intended for (such) women. To return to the question posed in the beginning: there is an obvious correlation between nurse hatred and misogyny in the 4chan sub-discourse. Furthermore, many of the posts and comments express direct or implicit anger and anxiousness about transforming gendered power relations. De-constructing and understanding the nature of the hatred against nurses thus requires an analysis of the misogyny grounding this discourse, both in a general and in a pandemic-related sense.  
 
 ____
 
