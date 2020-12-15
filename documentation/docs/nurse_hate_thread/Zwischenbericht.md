@@ -124,9 +124,7 @@ The first substantial challenge was to access the relevant data. Given the high 
 
 A data frame with 116 posts and more than 14 000 comments constitutes a well of opportunities. For time and capacity reasons this project looked closer at three relevant posts (including their comments) to cover a certain variety in both argumentation and perspective. Further examples, however, would surely have broadened the range of displayed attitudes towards nurses. Nevertheless, the project developed a methodology for exploring the online nurse-hatred, both in terms of codes and analysis strategies. This methodology can be utilized further to analyze a larger number of threads.   
 
-----
-
-### **Footnotes**
+---
 
 [^1]: Although many nurses report not feeling powerful in their profession and consider caring and power to be opposite concepts. See Rafael (1996). 
 [^2]: See for example Kalisch et al. (1982), Hallam (2005) and Daly et al. (2005). 
