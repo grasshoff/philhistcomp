@@ -154,7 +154,7 @@ Leslie, Sarah-Jane, 2007, “Generics and the Structures of the Mind”. *Philos
 
 Lorenz, Taylor, 2019, "‘OK Boomer’ Marks the End of Friendly Generational Relations". *The New York Times*, 29.10.2019, https://www.nytimes.com/2019/10/29/style/ok-boomer.html. 
 
-Rafael, Adeline R.F., 1996, "Power and caring: A dialectic in nursing". *Advances in Nursing Science*, 19(1). 3–17.
+Rafael, Adeline R.F., 1996, "Power and caring: A dialectic in nursing". *Advances in Nursing Science*, 19(1), 3–17.
 
 *All links retrieved 15.12.2020.*
 
