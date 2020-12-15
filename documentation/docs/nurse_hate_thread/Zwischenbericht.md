@@ -2,7 +2,7 @@
 
 #### Regine Rørstad Torbjørnsen 
 
-[nurse](image1.jpg)
+<img src="image1.jpg" alt="nurse" style="zoom:50%;" /> 
 
 ### Background
 
