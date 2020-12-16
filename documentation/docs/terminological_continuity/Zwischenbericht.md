@@ -1,5 +1,7 @@
 # New Era, New Ideas? Conceptual Continuity between Medieval and Early Modern Philosophy
 
+Simon Brausch
+
 ## Background
 
 Descartes is commonly conceived as the founding father of modern philosophy, a new era in the history of philosophy which put an end to the scholastic tradition of medieval thinkers. This view, however, has recently been challenged by Dominik Perler who claims that in spite of Descartes' attempt to overcome scholastic theories of mind (and soul) such as Francisco Suárez's account, he nevertheless remains in a medieval paradigm. This is because, according to Perler, Descartes' seemingly new approach to the theory of mind can in fact be traced back to the work of William of Ockham, i.e. yet another medieval scholar.[^1]
