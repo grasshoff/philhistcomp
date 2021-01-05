@@ -184,6 +184,6 @@ The following challenges, concerns, and questions must still be addressed over t
 
 2. **Empirical sources for tests conducted during the semester**
 
-   * René Descartes, *Meditations on First Philosophy*, transl. by Elizabeth Haldane, Cambridge, CUP, 1911 (open-access, copyright expired (?) *Anmerkung zu bib-entry*: in der von mir verwendeten txt-Version dieser Übersetzung heißt es *Copyright: 1996, Internet Encyclopedia of Philosophy. This file is of the 1911 edition of The Philosophical Works of Descartes (Cambridge University Press), translated by Elizabeth S. Haldane*. Deshalb bib-entry anpassen?)
+  * René Descartes, *Meditations on First Philosophy*, transl. by Elizabeth Haldane, Cambridge, CUP, 1911 (open-access, copyright expired (?) *Anmerkung zu bib-entry*: in der von mir verwendeten txt-Version dieser Übersetzung heißt es *Copyright: 1996, Internet Encyclopedia of Philosophy. This file is of the 1911 edition of The Philosophical Works of Descartes (Cambridge University Press), translated by Elizabeth S. Haldane*. Deshalb bib-entry anpassen?)
 
   * Francisco Suárez, *De Anima, Disputation 12, Question 2*, transl. by Sydney Penner, online, 2011, [sydneypenner.ca/su/DA_d12q2.pdf](http://www.sydneypenner.ca/su/DA_d12q2.pdf), last retrieved on 12.11.20 (open-access, copyright S. Penner)

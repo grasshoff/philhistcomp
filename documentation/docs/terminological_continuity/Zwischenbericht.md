@@ -1,12 +1,13 @@
 # New Era, New Ideas? Conceptual Continuity between Medieval and Early Modern Philosophy
 
+Simon Brausch
+
 ## Background
 
 Descartes is commonly conceived as the founding father of modern philosophy, a new era in the history of philosophy which put an end to the scholastic tradition of medieval thinkers. This view, however, has recently been challenged by Dominik Perler who claims that in spite of Descartes' attempt to overcome scholastic theories of mind (and soul) such as Francisco Suárez's account, he nevertheless remains in a medieval paradigm. This is because, according to Perler, Descartes' seemingly new approach to the theory of mind can in fact be traced back to the work of William of Ockham, i.e. yet another medieval scholar.[^1]
 
 As a consequence, this assumption gives rise to a much more continuous, and thus more differentiated, perspective on the history of philosophy by devaluating the role usually attributed to the 'great thinkers' such as Descartes. In other words, it opens up the possibility to rethink the history of philosophy by considering Descartes only as one - nonetheless highly important - contributer to the *progressive* development from medieval to early modern philosophy. According to this view, the line should not be drawn between medieval and early modern debates, but rahter between various competing conceptual approaches originating from the medieval era which were still the subject of philosophical discussion in the early modern period.[^2]
 
-(*Anmerkung*: meine Behauptungen, inkl. die Darstellung von Perlers Posisiton, sind etwas grob. Daran sollte ich noch feilen)
 
 [^1]: Perler, D., "What are Faculties of the Soul? Descartes and his Scholastic Background", in: John Marenbon (ed.), *Continuity and Innovation in Medieval and Modern Philosophy: Knowledge, Mind and Language*, Oxford, OUP, 2013, p.34.
 
@@ -20,7 +21,7 @@ The present investigation aims at re-evaluating the role of Descartes' work in t
 
 But the historical line drawn between medieval and early modern philosophy is only one example of the traditional tendency to divide the continuous development of philosophical thinking into distinct periods, each of them having a definite beginning and ending. The present investigation on the yet unexplored potential of what current advancements in the field of natural language processing (NLP) can contribute to historical questions in philosophy is thus at the same time intended to provide a new method which offers a novel perspective on the history of ideas. Hence, future research could apply the method developed in here to other distinctions in the history of philosophy and thereby contribute to the emergence of a (fairly) new field of research at the intersection of philosophy and computer science, i.e. to a computational approach to the history of philosophical ideas.
 
-(*Anmerkung*: auch hier alles etwas zu grob dargestellt)
+
 
 
 ## Research Question
@@ -158,12 +159,12 @@ The following challenges, concerns, and questions must still be addressed over t
 
   * I have not yet found all the relevant writings in txt-format and in one coherent language (Latin *or* English)
     * list of relevant writings:
-       * *René Descartes*: Meditationes de prima philosophia, The Passions of the Soul, Principia Philosophiae, La Recherche de la Vérité
-       * *William of Ockham*: Quodlibetal Septem, Ordinatio, Reportatio
-       * *Francisco Suárez*: De Anima, Disputationes Metaphysicae, De actibus qui vocantur passiones
+        * *René Descartes*: Meditationes de prima philosophia, The Passions of the Soul, Principia Philosophiae, La Recherche de la Vérité
+        * *William of Ockham*: Quodlibetal Septem, Ordinatio, Reportatio
+        * *Francisco Suárez*: De Anima, Disputationes Metaphysicae, De actibus qui vocantur passiones
     * *possible solution*: (i) scan original Latin texts or English translations, (ii) extract text from images/pdfs using Google's OCR-software Tesseract
     * if it turned out that I have to work with the English translations (because the original versions are not available as txt-files), then this would (i) significantly reduce the amount of available data for my computational analysis as most texts have never (or rather: not yet) been translated into English, and (ii) mean that the results of my analysis do not have any value for questions regarding the conceptual contiunity between medieval and early modern philosophy in particular, and regarding the history of philosophical ideas in general (as initially claimed). Instead, my work would turn into the development of a methode which leaves its adequate application to future research.
-  * for final comparison: what does it means for a degree of semantic similarity to be *significantly higher* than another?
+  * for final comparison: what does it mean for a degree of semantic similarity to be *significantly higher* than another?
   * improve the chain of operations in the different juypter notebooks, i.e. 'automatise' the operations which, for now, were carried out manually
   * the method, as conceived at present, presupposes that every author (philosopher) in question defends *one consistent* theoretical position throughout all of his works (or at least in all the works that are taken into account for the analysis). However, this is usually not the case: people change their view.
      * Two solutions: (i) only take into account those writings of which one knows that they are in line with a certain position held by the author at a particular moment in his lifetime. (ii) possibility of applying method developed in here (comparison of different phil. eras/trad.) to comparison of different 'stages' in a philosopher's thinking, i.e. move method from broad historical level to individual level
@@ -174,16 +175,15 @@ The following challenges, concerns, and questions must still be addressed over t
 
 
 
-## Literature (*Anm.*: kann ggf. gestrichen und durch bib-file ersetzt werden)
+## Literature
 
-1. **Background**
+### Background
 
   * Dominik Perler, "What are Faculties of the Soul? Descartes and his Scholastic Background", in: John Marenbon (ed.), *Continuity and Innovation in Medieval and Modern Philosophy: Knowledge, Mind and Language*, Oxford, OUP, 2013, pp.9-38
 
 
+### Empirical sources for tests conducted during the semester
 
-2. **Empirical sources for tests conducted during the semester**
-
-   * René Descartes, *Meditations on First Philosophy*, transl. by Elizabeth Haldane, Cambridge, CUP, 1911 (open-access, copyright expired (?) *Anmerkung zu bib-entry*: in der von mir verwendeten txt-Version dieser Übersetzung heißt es *Copyright: 1996, Internet Encyclopedia of Philosophy. This file is of the 1911 edition of The Philosophical Works of Descartes (Cambridge University Press), translated by Elizabeth S. Haldane*. Deshalb bib-entry anpassen?)
+   * René Descartes, *Meditations on First Philosophy*, transl. by Elizabeth Haldane, Cambridge, CUP, 1911 (open-access, **copyright expired (?) *Anmerkung zu bib-entry*: in der von mir verwendeten txt-Version dieser Übersetzung heißt es *Copyright: 1996, Internet Encyclopedia of Philosophy. This file is of the 1911 edition of The Philosophical Works of Descartes (Cambridge University Press), translated by Elizabeth S. Haldane*. Deshalb bib-entry anpassen? Ist das copyright nun expired (1911) oder nicht (1996)?**)
 
   * Francisco Suárez, *De Anima, Disputation 12, Question 2*, transl. by Sydney Penner, online, 2011, [sydneypenner.ca/su/DA_d12q2.pdf](http://www.sydneypenner.ca/su/DA_d12q2.pdf), last retrieved on 12.11.20 (open-access, copyright S. Penner)
