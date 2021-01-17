@@ -2,9 +2,7 @@
 
 #### Regine Rørstad Torbjørnsen 
 
-![50%](assets/image1.jpg "style="zoom:50%")
-
-
+![](assets/image2.jpg)
 
 ### Background
 
