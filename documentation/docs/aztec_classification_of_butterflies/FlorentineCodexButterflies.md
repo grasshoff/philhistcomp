@@ -1,6 +1,6 @@
-# Butterflies of the *Florentine Codex*
+# The Butterflies of the *Florentine Codex*
 
-###### Author: V. Alice. B. Frías
+###### V. Alice. B. Frías
 
 ## Background
 
@@ -18,9 +18,13 @@ There is no doubt that the *Florentine Codex* is one of the most remarkable manu
 
 As this project was the work of one seminar ("Philosophy and history of Science with computational means" given by Professor Graßhoff), I only focused on a brief section of the *Florentine Codex*. This project's source is [Earthly Things](https://www.wdl.org/en/item/10622/view/1/200/), the penultimate book, and mainly, the goal is to analyze the butterflies' statements in the *Florentine Codex*. 
 
+
+
 ##### Book XI: Earthly Things
 
 Book XI, the longest in the codex, is a treatise on natural history. Following the traditional division of common knowledge in many European works, the *Florentine Codex* deals with everything divine, human, and natural of New Spain. Therefore, after having spoken of superior beings and human beings, Sahagún examines animals, plants, and all types of minerals.
+
+
 
 #### Research Object
 
@@ -171,6 +175,8 @@ There are eight subcategories of the butterfly. Below we can see the essential c
 6. Texopapalotl: large and tiny, a light blue hue, it becomes blue-brown
 7. Xochipapalotl: large and small, varicolored, intricate design
 8. Vappapalotl: average size, chili-red
+
+
 
 ## References
 
